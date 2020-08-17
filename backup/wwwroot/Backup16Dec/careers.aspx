@@ -311,7 +311,7 @@ information as well as correct any code issues discovered during testing and pee
                                         <div class="g lg-two-twelfths">
                                             <aside>
                                                 <span class="icon-phone"></span>
-                                                <small>+1-408-772-4656</small>
+                                                <small><?php echo $phone ?></small>
                                             </aside>
                                         </div>
                                         <div class="g lg-one-twelfth">&nbsp;</div>

@@ -1,4 +1,20 @@
+<!DOCTYPE html>
 
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Blueciate</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css">
+    <link rel="stylesheet" href="./index_files/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="./index_files/home-page.css">
+</head>
+<body>
 <div id="header">
     <div class="homepage-hero-module" style="height: 588px;">
         <div class="video-container">
@@ -15,42 +31,20 @@
                     <div class="col-lg-10">
                         <ul class="main-menu">
                             <li>
-                                <a href="#"><i class="fas fa-home mr-2"></i>Home</a>
+                                <a href="/"><i class="fas fa-home mr-2"></i>Home</a>
                             </li>
                             <li>
                                 <a href="#"><i class="fas fa-cloud mr-2"></i>Cloud</a>
                             </li>
                             <li>
-                                <a href="./products.html"><i class="fas fa-wifi mr-2"></i>Products</a>
+                                <a href="products"><i class="fas fa-wifi mr-2"></i>Products</a>
                             </li>
                             <li>
                                 <a href=""><i class="fas fa-clock mr-2"></i>Consulting</a>
                             </li>
                             <li>
-                                <a href="http://xrm.blueciate.com/login" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
+                                <a href="login" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="row search">
-                </div>
-                <div class="row secondary-row">
-                    <div class="col-12 pt-5">
-                        <h5>
-                            It's all about
-                        </h5>
-                        <h1 class="sec-row-title ">
-                            Relationship Management,
-                        </h1>
-                        <h5>
-                            That’s why I Blueciate..
-                        </h5>
-                        <div class="secondary-btn-search">
-                            <button class="button btn btn-success  get-started-btn p-3 mt-4">Get Started</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>

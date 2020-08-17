@@ -448,7 +448,7 @@ Are you looking for a partner to work with to make your vision a reality?
                             <div class="g lg-two-twelfths">
                                 <aside>
                                     <span class="icon-phone"></span>
-                                    <small>+1-408-772-4656  </small>
+                                    <small><?php echo $phone ?>  </small>
                                 </aside>
                             </div>
                             <div class="g lg-one-twelfth">&nbsp;</div>

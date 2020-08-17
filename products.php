@@ -36,19 +36,19 @@
           <div class="col-lg-10">
             <ul class="main-menu">
               <li>
-                <a href="#"><i class="fas fa-home mr-2"></i>Home</a>
+                <a href="/"><i class="fas fa-home mr-2"></i>Home</a>
               </li>
               <li>
                 <a href="#"><i class="fas fa-cloud mr-2"></i>Cloud</a>
               </li>
               <li>
-                <a href="./products.html"><i class="fas fa-wifi mr-2"></i>Products</a>
+                <a href="/products"><i class="fas fa-wifi mr-2"></i>Products</a>
               </li>
               <li>
                 <a href=""><i class="fas fa-clock mr-2"></i>Consulting</a>
               </li>
               <li>
-                <a href="./login.html" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
+                <a href="./login" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
               </li>
             </ul>
           </div>
@@ -338,23 +338,23 @@
           <div class="col-lg-4 item-footer">
             <h3 class="upper-footer">Our Services</h3>
             <ul>
-              <li><a href="./Services/Website-development.html">Website Development</a></li>
-              <li><a href="./Services/software-development.html">Software Development</a></li>
-              <li><a href="./Services/mobile-app-development.html">Mobile App Development</a></li>
-              <li><a href="./Cloud/Support365.html">Help Desk Solutions</a></li>
-              <li><a href="./Services/project-outsourcing.html">Outsourcing</a></li>
-              <li><a href="./Services/Staffing.html">Resource Management</a></li>
+              <li><a href="Services/Website-development">Website Development</a></li>
+              <li><a href="Services/software-development">Software Development</a></li>
+              <li><a href="Services/mobile-app-development">Mobile App Development</a></li>
+              <li><a href="Cloud/Support365">Help Desk Solutions</a></li>
+              <li><a href="Services/project-outsourcing">Outsourcing</a></li>
+              <li><a href="Services/Staffing">Resource Management</a></li>
             </ul>
           </div>
           <div class="col-lg-4 item-footer">
             <h3 class="upper-footer">Quick Links</h3>
             <ul>
-              <li><a href="./Policies/Privacy-Policy.html">Privacy Policy</a></li>
-              <li><a href="./Policies/Refund-Policy.html">Refund Policy</a></li>
-              <li><a href="./Policies/Terms-Conditions.html">Terms Of Use</a></li>
-              <li><a href="./Policies/EULA.html">EULA</a></li>
-              <li><a href="./about-us.html">About Us</a></li>
-              <li><a href="./contact-us.html">Contact Us</a></li>
+              <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
+              <li><a href="Policies/Refund-Policy">Refund Policy</a></li>
+              <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
+              <li><a href="Policies/EULA">EULA</a></li>
+              <li><a href="about-us">About Us</a></li>
+              <li><a href="contact-us">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-lg-4 item-footer">
@@ -377,11 +377,11 @@
         <ul class="icon-title">
           <li class="mb-3">
             <i class="fa fa-map-marker icon-fafa mr-3"></i>
-            433 Sheffield Dr Richardson TX 75081
+              Blue Ciate Inc. 811 S. Central Expressway 434 Richardson TX 75080
           </li>
           <li class="mb-3">
             <i class="fa fa-phone icon-fafa mr-3"></i>
-            626.438.4692
+              +1-408-656-1932
           </li>
           <li>
             <i class="fa fa-envelope icon-fafa mr-3"></i>

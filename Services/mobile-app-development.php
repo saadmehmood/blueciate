@@ -1,96 +1,15 @@
-﻿<!DOCTYPE html>
-
-<html lang="en-us" class="no-js">
-
-
-<head>
-  <meta charset="utf-8">
-  <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-  <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=1"/>
-  <title>Mobile App Development :- Blueciate Inc</title>
-  <link rel="stylesheet" href="../css/styles.css"/>
-  <link rel="stylesheet" href="../css/screen.css"/>
-  <link rel="stylesheet" href="../icons/style.css"/>
-  <link rel="stylesheet" href="../css/jquery.mmenu.all.css"/>
-  <link rel="stylesheet" type="text/css" href="../css/flexslider.min.css"/>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css">
-
-  <!-- Modernizr -->
-  <script type="text/javascript" src="../js/modernizr.js"></script>
-
-  <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
-
-</head>
+﻿<?php
+$title = 'Mobile App Development :- Blueciate Inc';
+require_once 'head.php';
+?>
 <body>
 
-<div id="wrapper">
-  <header id="main1">
-    <div class="sign_up">
-      <a href="../contact-us.html" style="text-decoration:none;">
-        <i class="fa fa-phone-square awesomefonts"></i>Contact Us
-      </a>
-      |
-      <a href="../about-us.html" style="text-decoration:none;">
-        <i class="fa fa-calendar-o awesomefonts"></i>About Us
-      </a>
-      |
-      <a href="../support.html" style="text-decoration:none;">
-        <i class="fa fa-users awesomefonts"></i>Support
-      </a>
-    </div>
-  </header>
-  <!-- end header -->
 
-  <article id="content">
-    <section id="main-nav">
-      <div class="container clearfix">
-        <a class="branding" href="../index.html">
-          <img src="../files/blueciate.png">
-        </a>
-        <nav class="site-nav" style="font-size:15px;">
-          <ul>
-            <li><a href="../index.html">Home</a></li>
-            <li><a href="javascript:void(0)">services</a>
-              <ul class="sub-links">
-                <li><a href="../Services/Website-development.html">Website Development</a></li>
-                <li><a href="../Services/software-development.html">Software Development</a></li>
-                <li><a href="../Services/mobile-app-development.html">Mobile App Development</a></li>
-                <li><a href="../Cloud/Support365.html">Help Desk Solutions</a></li>
-                <li><a href="../Services/project-outsourcing.html">Outsourcing</a></li>
-                <li><a href="../Services/Staffing.html">Resource Management</a></li>
-              </ul>
-
-            </li>
-            <li><a href="../products.html">Products</a></li>
-          </ul>
-
-        </nav>
-
-      </div>
-    </section>
-
-    <!-- responsive menu for mobile -->
-    <!-- The menu -->
-    <!-- mobile nav wrapper  -->
-    <article class="mobile-nav sticky-off">
-      <div class="banner-mobile ">
-        <div class="container">
-          <div class="row">
-            <aside class="block">
-              <a class="branding" href="../index.html">
-                <img src="./files/blueciate.png">
-              </a>
-              <a href="/About-Us#my-menu" id="naver" class="icon-naver"></a>
-            </aside>
-          </div>
-        </div>
-      </div>
-
-    </article>
+<div class="mm-page mm-slideout">
+    <div id="wrapper">
+        <?php
+        require_once 'header-2.php'
+        ?>
 
     <!--        <%&#45;&#45;    <section class="title text-left red">-->
     <!--                <div class="container">-->
@@ -255,7 +174,7 @@
             <div class="g lg-two-twelfths">
               <aside>
                 <span class="icon-phone"></span>
-                <small>+1-408-772-4656 </small>
+                <small><?php echo $phone ?> </small>
               </aside>
             </div>
             <div class="g lg-one-twelfth">&nbsp;</div>
@@ -269,7 +188,7 @@
             <div class="g lg-two-twelfths">
               <aside>
                 <span class="icon-map-pin"></span>
-                <small>777 S Central Expressway Suite 5H </small>
+                <small><?php echo $address?> </small>
                 <small>Richardson TX 75080, USA</small>
               </aside>
             </div>
@@ -279,123 +198,10 @@
 
       </div>
     </article>
-
-
-    <!-- Footer -->
-    <!--             <%&#45;&#45;  <footer class="site-footer ">-->
-    <!--        <div class="container">-->
-    <!--            <article>-->
-    <!--                <div class="meet-team-social-follow">-->
-    <!--                    <a href="https://www.facebook.com/blueciate">-->
-    <!--                        <img src="Images/social-icons/facebook.jpg" /></a>-->
-    <!--                    <a href="#">-->
-    <!--                        <img src="Images/social-icons/dribble.jpg" /></a>-->
-    <!--                    <a href="#">-->
-    <!--                        <img src="Images/social-icons/twitter.jpg" /></a>-->
-    <!--                    <a href="#">-->
-    <!--                        <img src="Images/social-icons/gplus.jpg" /></a>-->
-
-    <!--                   <nav class="site-nav" style="font-size:15px;">-->
-
-    <!--                        <p>-->
-    <!--                            Copyright ©  <%: DateTime.Now.Year %> <strong>Blueciate Inc</strong>.-->
-    <!--                            All rights reserved.-->
-    <!--                        </p>-->
-
-    <!--                    </nav>-->
-    <!--                    -->
-    <!--                   <nav class="site-nav" style="margin-right: 103px;  margin-top: -6px;">-->
-
-    <!--                        <p>-->
-    <!--                        <a href="Policies/Privacy-Policy?"  >Privacy Policy </a>|<a href="Policies/Refund-Policy?"  >Refund Policy </a>|<a href="Policies/Terms-Conditions?"  >Terms Of Use </a>|<a href="Policies/EULA?"  >Eula </a>   -->
-    <!--                        </p>-->
-
-    <!--</nav>                    -->
-    <!--                </div>-->
-
-    <!--            </article>-->
-
-
-    <!--        </div>-->
-    <!--    </footer>&#45;&#45;%>-->
-    <article id="Article1">
-      <div class="container footer_bg">
-        <div class="gw" style="font-size:15px;">
-          <div class="g lg-one-fourth topmargin" style="margin-left:200px;">
-            <div class="left-row">
-              <h2>Our <span>Services</span></h2>
-              <ul style="list-style-type:none;">
-                <li><a href="../Services/Website-development.html" style="text-decoration:none;">Website Development</a></li>
-                <li><a href="../Services/software-development.html" style="text-decoration:none;">Software Development</a></li>
-                <li><a href="../Services/mobile-app-development.html" style="text-decoration:none;">Mobile App Development</a></li>
-                <li><a href="../Cloud/Support365.html" style="text-decoration:none;">Help Desk Solutions</a></li>
-                <li><a href="../Services/project-outsourcing.html" style="text-decoration:none;">Outsourcing</a></li>
-                <li><a href="../Services/Staffing.html" style="text-decoration:none;">Resource Management</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="g lg-one-fourth topmargin">
-            <div class="services-title">
-
-              <aside class="title">
-                <h2>Quick <span>Links</span></h2>
-                <ul style="list-style-type:none;">
-                  <li><a href="../Policies/Privacy-Policy.html" style="text-decoration:none;">Privacy Policy</a></li>
-                  <li><a href="../Policies/Refund-Policy.html" style="text-decoration:none;">Refund Policy</a></li>
-                  <li><a href="../Policies/Terms-Conditions.html" style="text-decoration:none;">Terms Of Use</a></li>
-                  <li><a href="../Policies/EULA.html" style="text-decoration:none;">EULA</a></li>
-                  <li><a href="../about-us.html" style="text-decoration:none;">About Us</a></li>
-                  <li><a href="../contact-us.html" style="text-decoration:none;">Contact Us</a></li>
-                </ul>
-
-              </aside>
-            </div>
-          </div>
-
-          <div class="g lg-one-fourth no-pad topmargin">
-            <div class="gw" style="font-size:15px;">
-              <div class="g lg-one-whole md-one-half xs-one-whole sm-one-half block contentP boxa">
-                <h2>Social Links</h2>
-                <ul style="list-style-type:none;">
-                  <li style="margin:15px;"><a href="https://www.facebook.com/blueciate/" target="_blank"> <img
-                      src="../Images/social-icons/facebook.jpg" style="width:35px;"/></a></li>
-                  <li style="margin:15px;"><a href="https://www.linkedin.com/company/blueciate-inc" target="_blank">
-                    <img src="../Images/social-icons/linkedin.jpg" style="width:35px;"/></a></li>
-
-                  <li style="margin:15px;"><a href="http://www.twitter.com/blueciate" target="_blank"> <img
-                      src="../Images/social-icons/twitter.jpg" style="width:35px;"/></a></li>
-                </ul>
-              </div>
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </article>
-
-
-    <footer class="site-footer ">
-      <div class="container">
-        <article>
-          <div class="meet-team-social-follow">
-            <nav class="site-nav" style="font-size:15px;">
-
-              <p>
-                Copyright © 2020 <strong>Blueciate Inc</strong>.
-                All rights reserved.
-              </p>
-
-            </nav>
-          </div>
-
-        </article>
-
-
-      </div>
-    </footer>
-
-
-  </article>
+      <?php
+      require_once 'footer-2.php';
+      ?>
+</div>
 
 </div>
 

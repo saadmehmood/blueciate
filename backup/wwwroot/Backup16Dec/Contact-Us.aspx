@@ -244,7 +244,7 @@
 
                                 <aside class="box block">
                                     <h2 data-color="#b39ddb">Registered office</h1>
-433 Sheffield Dr Richardson TX 75081
+Blue Ciate Inc. 811 S. Central Expressway 434 Richardson TX 75080
                                                                            <P>
 
 <h2 data-color="#b39ddb">Visit Us</h1>
