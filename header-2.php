@@ -1,14 +1,14 @@
 <header id="main1">
     <div class="sign_up">
-        <a href="contact-us" style="text-decoration:none;">
+        <a href="/contact-us" style="text-decoration:none;">
             <i class="fa fa-phone-square awesomefonts"></i>Contact Us
         </a>
         |
-        <a href="about-us" style="text-decoration:none;">
+        <a href="/about-us" style="text-decoration:none;">
             <i class="fa fa-calendar-o awesomefonts"></i>About Us
         </a>
         |
-        <a href="support" style="text-decoration:none;">
+        <a href="/support" style="text-decoration:none;">
             <i class="fa fa-users awesomefonts"></i>Support
         </a>
     </div>
@@ -59,3 +59,4 @@
         </div>
 
     </article>
+</article>

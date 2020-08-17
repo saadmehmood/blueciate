@@ -4,3 +4,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 #RewriteRule ^([^\.]+)$ $1.php [NC,L]
 RewriteRule ^(.+)$ index.php [QSA,L]
+
+##7.3
+#<IfModule mod_suphp.c>
+#AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+#</IfModule>
