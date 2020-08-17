@@ -34,4 +34,20 @@ $fax = '+1-408-656-1932';
 <!--    <script type="text/javascript" charset="UTF-8" src="./files/common.js.download"></script>-->
 <!--    <script type="text/javascript" charset="UTF-8" src="./files/util.js.download"></script>-->
 <!--    <script type="text/javascript" charset="UTF-8" src="./files/stats.js.download"></script>-->
+    <style>
+        .sticky {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 999;
+        }
+
+        /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+        .sticky {
+            padding-top: 60px;
+        }
+        .mt-100 {
+            margin-top: 100px;
+        }
+    </style>
 </head>

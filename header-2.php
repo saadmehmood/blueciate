@@ -16,7 +16,7 @@
 <article id="content">
     <section id="main-nav">
         <div class="container clearfix">
-            <a class="branding" href="index.php">
+            <a class="branding" href="/">
                 <img src="/files/blueciate.png">
             </a>
             <nav class="site-nav" style="font-size:15px;">
@@ -24,16 +24,16 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="javascript:void(0)">services</a>
                         <ul class="sub-links">
-                            <li><a href="Services/Website-development.php">Website Development</a></li>
-                            <li><a href="Services/software-development.php">Software Development</a></li>
-                            <li><a href="Services/mobile-app-development.php">Mobile App Development</a></li>
-                            <li><a href="Cloud/Support365.php">Help Desk Solutions</a></li>
-                            <li><a href="Services/project-outsourcing.php">Outsourcing</a></li>
-                            <li><a href="Services/Staffing.php">Resource Management</a></li>
+                            <li><a href="/Services/Website-development">Website Development</a></li>
+                            <li><a href="/Services/software-development">Software Development</a></li>
+                            <li><a href="/Services/mobile-app-development">Mobile App Development</a></li>
+                            <li><a href="/Cloud/Support365">Help Desk Solutions</a></li>
+                            <li><a href="/Services/project-outsourcing">Outsourcing</a></li>
+                            <li><a href="/Services/Staffing">Resource Management</a></li>
                         </ul>
 
                     </li>
-                    <li><a href="products">Products</a></li>
+                    <li><a href="/products">Products</a></li>
                 </ul>
 
             </nav>
@@ -59,4 +59,3 @@
         </div>
 
     </article>
-</article>
