@@ -99,7 +99,7 @@ require_once 'header.php';
                 <div class="icon-box">
                   <span class="icon flaticon-statistics-1"></span>
                 </div>
-                <h1>CRM</h1>
+                <h1>Cloud & Digital World</h1>
               </div>
             </div>
 
@@ -109,8 +109,8 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/">CRM</a></h1>
-                  <a class="read-more" href="http://xrm.blueciate.com/destinations">See More<span
+                  <h1><a href="/">Cloud & Digital World</a></h1>
+                  <a class="read-more" href="/">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>

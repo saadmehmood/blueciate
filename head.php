@@ -1,5 +1,5 @@
 <?php
-$address = 'Blue Ciate Inc. 811 S. Central Expressway 434';
+$address = 'BlueCiate Inc. 811 S. Central Expway #434';
 $phone = '+1-408-656-1932';
 $fax = '+1-408-656-1932';
 ?>
