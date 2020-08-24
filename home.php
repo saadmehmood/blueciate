@@ -12,7 +12,7 @@ require_once 'header.php';
                 Relationship Management,
             </h1>
             <h5>
-                That’s why I Blueciate..
+                That’s why I BlueCiate..
             </h5>
             <div class="secondary-btn-search">
                 <button class="button btn btn-success  get-started-btn p-3 mt-4">Get Started</button>

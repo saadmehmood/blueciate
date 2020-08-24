@@ -334,61 +334,72 @@
 
       <div class="col-lg-9">
         <!--        <h3 class="upper-footer">Explore</h3>-->
-        <div class="row">
-          <div class="col-lg-4 item-footer">
-            <h3 class="upper-footer">Our Services</h3>
-            <ul>
-              <li><a href="Services/Website-development">Website Development</a></li>
-              <li><a href="Services/software-development">Software Development</a></li>
-              <li><a href="Services/mobile-app-development">Mobile App Development</a></li>
-              <li><a href="Cloud/Support365">Help Desk Solutions</a></li>
-              <li><a href="Services/project-outsourcing">Outsourcing</a></li>
-              <li><a href="Services/Staffing">Resource Management</a></li>
-            </ul>
+          <div class="row">
+              <div class="col-lg-3 item-footer">
+                  <h3 class="upper-footer">Services</h3>
+                  <ul>
+                      <li><a href="Services/Website-development">Analytics</a></li>
+                      <li><a href="Services/software-development">Application Integration</a></li>
+                      <li><a href="Services/mobile-app-development">Digital</a></li>
+                      <li><a href="Cloud/Support365">Integration Technologies</a></li>
+                      <li><a href="Services/project-outsourcing">Small And Mid Size Business</a></li>
+                      <li><a href="Services/Staffing">Resource Management</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-3 item-footer">
+                  <h3 class="upper-footer">Links</h3>
+                  <ul>
+                      <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
+                      <li><a href="Policies/Refund-Policy">Press Release</a></li>
+                      <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
+                      <li><a href="Policies/EULA">EULA</a></li>
+                      <li><a href="about-us">About Us</a></li>
+                      <li><a href="contact-us">Contact Us</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-3 item-footer">
+                  <h3 class="upper-footer">Partners</h3>
+                  <ul>
+                      <li><a href="/">Investors</a></li>
+                      <li><a href="/">Partnership</a></li>
+                      <li><a href="/">Business Center</a></li>
+                      <li><a href="/">Careers</a></li>
+                      <li><a href="/">Blogs</a></li>
+                      <li><a href="/">Research</a></li>
+                  </ul>
+              </div>
+              <div class="col-lg-3 item-footer">
+                  <h3 class="upper-footer">Social</h3>
+                  <ul>
+                      <li><a href="https://www.facebook.com/blueciate/" target="_blank"> <img src="./files/facebook.jpg"
+                                                                                              style="width:35px;"></a></li>
+                      <li><a href="https://www.linkedin.com/company/blueciate-inc" target="_blank"> <img
+                                      src="./files/linkedin.jpg" style="width:35px;"></a></li>
+                      <li><a href="http://www.twitter.com/blueciate" target="_blank"> <img src="./files/twitter.jpg"
+                                                                                           style="width:35px;"></a></li>
+                  </ul>
+              </div>
           </div>
-          <div class="col-lg-4 item-footer">
-            <h3 class="upper-footer">Quick Links</h3>
-            <ul>
-              <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
-              <li><a href="Policies/Refund-Policy">Refund Policy</a></li>
-              <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
-              <li><a href="Policies/EULA">EULA</a></li>
-              <li><a href="about-us">About Us</a></li>
-              <li><a href="contact-us">Contact Us</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-4 item-footer">
-            <h3 class="upper-footer">Social Links</h3>
-            <ul>
-              <li><a href="https://www.facebook.com/blueciate/" target="_blank"> <img src="./files/facebook.jpg"
-                                                                                      style="width:35px;"></a></li>
-              <li><a href="https://www.linkedin.com/company/blueciate-inc" target="_blank"> <img
-                  src="./files/linkedin.jpg" style="width:35px;"></a></li>
-              <li><a href="http://www.twitter.com/blueciate" target="_blank"> <img src="./files/twitter.jpg"
-                                                                                   style="width:35px;"></a></li>
-            </ul>
-          </div>
-        </div>
       </div>
 
-      <div class="col-lg-3">
-        <h3 class="upper-footer">Contact us</h3>
-        <p class="upper-para">Blueciate Inc.</p>
-        <ul class="icon-title">
-          <li class="mb-3">
-            <i class="fa fa-map-marker icon-fafa mr-3"></i>
-              Blue Ciate Inc. 811 S. Central Expressway 434 Richardson TX 75080
-          </li>
-          <li class="mb-3">
-            <i class="fa fa-phone icon-fafa mr-3"></i>
-              +1-408-656-1932
-          </li>
-          <li>
-            <i class="fa fa-envelope icon-fafa mr-3"></i>
-            info@blueciate.com
-          </li>
-        </ul>
-      </div>
+<!--      <div class="col-lg-3">-->
+<!--        <h3 class="upper-footer">Contact us</h3>-->
+<!--        <p class="upper-para">Blueciate Inc.</p>-->
+<!--        <ul class="icon-title">-->
+<!--          <li class="mb-3">-->
+<!--            <i class="fa fa-map-marker icon-fafa mr-3"></i>-->
+<!--              Blue Ciate Inc. 811 S. Central Expressway 434 Richardson TX 75080-->
+<!--          </li>-->
+<!--          <li class="mb-3">-->
+<!--            <i class="fa fa-phone icon-fafa mr-3"></i>-->
+<!--              +1-408-656-1932-->
+<!--          </li>-->
+<!--          <li>-->
+<!--            <i class="fa fa-envelope icon-fafa mr-3"></i>-->
+<!--            info@blueciate.com-->
+<!--          </li>-->
+<!--        </ul>-->
+<!--      </div>-->
 
     </div>
   </div>
