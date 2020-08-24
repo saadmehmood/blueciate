@@ -1,7 +1,7 @@
 <?php
-$address = 'BlueCiate Inc. 811 S. Central Expway #434';
-$phone = '+1-408-656-1932';
-$fax = '+1-408-656-1932';
+$address = 'BlueCiate Inc. 811 S. Central Expwy #434';
+$phone = '+1-214-629-4976';
+$fax = '+1-214-629-4976';
 ?>
 <!DOCTYPE html>
 <!-- saved from url=(0025)/About-Us -->

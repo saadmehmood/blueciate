@@ -24,7 +24,7 @@
                         <h3 class="upper-footer">Links</h3>
                         <ul>
                             <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
-                            <li><a href="Policies/Refund-Policy">Refund Policy</a></li>
+                            <li><a href="Policies/Refund-Policy">Press Release</a></li>
                             <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
                             <li><a href="Policies/EULA">EULA</a></li>
                             <li><a href="about-us">About Us</a></li>
