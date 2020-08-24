@@ -332,7 +332,7 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-lg-9">
+      <div class="col-lg-12">
         <!--        <h3 class="upper-footer">Explore</h3>-->
           <div class="row">
               <div class="col-lg-3 item-footer">
