@@ -92,24 +92,9 @@ require_once 'head.php';
               <aside>
                 <span class="icon-anchor"></span>
                 <div>
-                  <h4>seo optimization</h4>
+                  <h4>IoT</h4>
                   <p>
-                    Our SEO expert team follows a latest techniques planned strategy which would then
-                    be used to realize various other steps required to achieve top rankings and would
-                    help your website to maximize its performance in search engines.
-                  </p>
-                </div>
-              </aside>
-              <aside>
-                <span class="icon-genius"></span>
-                <div>
-                  <h4>web developemnt</h4>
-                  <p>
-                    Professional Web Development Company in Texas offer customized web application
-                    development,
-                    CMS based website development and E-commerce website development with Storeping carts,
-                    online product catalogs and other web based custom business applications like B2B
-                    and B2C portals.
+                      Adoption of the Internet of Things (IoT) innovation is justified by business purposes. Blueciate IoT methodology is capable of guiding prudent and successful investment in the IoT. Our work identifies enabling conditions to maximize the success of IoT security innovation adoption projects in financial instituition. IoT developer teams are helping banking institutions to develop apps that help transform the experience of the customers utilizing IoT data.
                   </p>
                 </div>
               </aside>

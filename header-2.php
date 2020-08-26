@@ -24,11 +24,11 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="javascript:void(0)">services</a>
                         <ul class="sub-links">
-                            <li><a href="/Services/Website-development">Website Development</a></li>
-                            <li><a href="/Services/software-development">Software Development</a></li>
-                            <li><a href="/Services/mobile-app-development">Mobile App Development</a></li>
-                            <li><a href="/Cloud/Support365">Help Desk Solutions</a></li>
-                            <li><a href="/Services/project-outsourcing">Outsourcing</a></li>
+                            <li><a href="/Services/Website-development">Analytics</a></li>
+                            <li><a href="/Services/software-development">Application Integration</a></li>
+                            <li><a href="/Services/mobile-app-development">Digital</a></li>
+                            <li><a href="/Cloud/Support365">Integration Technologies</a></li>
+                            <li><a href="/Services/project-outsourcing">Small and Mid Size Business</a></li>
                             <li><a href="/Services/Staffing">Resource Management</a></li>
                         </ul>
 

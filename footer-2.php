@@ -13,7 +13,7 @@
                         <li><a href="/Services/software-development" style="text-decoration:none;">Application Integration</a></li>
                         <li><a href="/Services/mobile-app-development" style="text-decoration:none;">Digital</a></li>
                         <li><a href="/Cloud/Support365" style="text-decoration:none;">Integration Technologies</a></li>
-                        <li><a href="/Services/project-outsourcing" style="text-decoration:none;">Small And Mid Size Business</a></li>
+                        <li><a href="/Services/project-outsourcing" style="text-decoration:none;">Small and Mid Size Business</a></li>
                         <li><a href="/Services/Staffing" style="text-decoration:none;">Resource Management</a></li>
                     </ul>
                 </div>

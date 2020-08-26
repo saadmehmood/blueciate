@@ -189,18 +189,18 @@
               </div>
             </div>
 
-            <div class="overlay-box-two">
-              <div class="overlay-inner-two">
-                <div class="content">
-                  <div class="icon-box">
-                    <span class="icon flaticon-statistics-1"></span>
-                  </div>
-                  <h1><a href="http://emr.blueciate.com/login">EMR</a></h1>
-                  <a class="read-more" href="http://emr.blueciate.com/login">See More<span
-                      class="fa fa-angle-double-right"></span></a>
-                </div>
-              </div>
-            </div>
+<!--            <div class="overlay-box-two">-->
+<!--              <div class="overlay-inner-two">-->
+<!--                <div class="content">-->
+<!--                  <div class="icon-box">-->
+<!--                    <span class="icon flaticon-statistics-1"></span>-->
+<!--                  </div>-->
+<!--                  <h1><a href="http://emr.blueciate.com/login">EMR</a></h1>-->
+<!--                  <a class="read-more" href="http://emr.blueciate.com/login">See More<span-->
+<!--                      class="fa fa-angle-double-right"></span></a>-->
+<!--                </div>-->
+<!--              </div>-->
+<!--            </div>-->
           </div>
         </div>
       </div>
@@ -342,7 +342,7 @@
                       <li><a href="Services/software-development">Application Integration</a></li>
                       <li><a href="Services/mobile-app-development">Digital</a></li>
                       <li><a href="Cloud/Support365">Integration Technologies</a></li>
-                      <li><a href="Services/project-outsourcing">Small And Mid Size Business</a></li>
+                      <li><a href="Services/project-outsourcing">Small and Mid Size Business</a></li>
                       <li><a href="Services/Staffing">Resource Management</a></li>
                   </ul>
               </div>
@@ -411,7 +411,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        Copyright © 2020 <strong>Blueciate Inc</strong>. All rights reserved.
+        Copyright © 2020 <strong>BlueCiate Inc</strong>. All rights reserved.
       </div>
     </div>
   </div>

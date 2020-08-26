@@ -29,9 +29,9 @@ require_once 'head.php';
               <section>
                 <h2>Support </h2>
                 <p>Contact <span>Our Company</span></p>
-                <p>
-                  Contact us for any further questions, possible projects.and business partnerships
-                </p>
+<!--                <p>-->
+<!--                  Contact us for any further questions, possible projects.and business partnerships-->
+<!--                </p>-->
 
                 <aside class="lg-one-whole">
                   <form method="post" name="contact" id="ajax-contact" novalidate="novalidate">
@@ -62,11 +62,11 @@ require_once 'head.php';
             <article id="contact-details">
               <div class="g lg-six-twelfths ">
                 <aside class="box block color">
-                  <h4>Contact Us</h4>
+<!--                  <h4>Contact Us</h4>-->
                   <h1>Let's have a chat!</h1>
 
-                  <p>Telephone: <?php echo $phone?> </p>
-                  <p>fax: <?php echo $fax?> </p>
+                  <p>T: <?php echo $phone?> </p>
+                  <p>F: <?php echo $fax?> </p>
 
                 </aside>
 
