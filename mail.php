@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST['btnSubmit'])) {
 //    var_dump($_POST);
-    $to = 'saadmehmood758@gmail.com';
+    $to = 'info@blueciate.com';
     $subject = 'Contact Mail';
     $message = $_POST['comments'];
     // To send HTML mail, the Content-type header must be set
@@ -9,7 +9,7 @@ if (isset($_POST['btnSubmit'])) {
     $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-    $headers[] = 'To: Saad Mehmood <saadmehmood758@gmail.com>';
+    $headers[] = 'To: info@blueciate.com';
     $headers[] = 'From: ' . $_POST['fullname'] . ' <' . $_POST['email'] . '>';
 //    $headers = array(
 //        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
