@@ -4,12 +4,19 @@ if (isset($_POST['btnSubmit'])) {
     $to = 'saadmehmood758@gmail.com';
     $subject = 'Contact Mail';
     $message = $_POST['comments'];
-    $headers = array(
-        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
-        'Reply-To' => $_POST['email'],
-        'X-Mailer' => 'PHP/' . phpversion()
-    );
+    // To send HTML mail, the Content-type header must be set
+    $headers[] = 'MIME-Version: 1.0';
+    $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
-    mail($to, $subject, $message, $headers);
+// Additional headers
+    $headers[] = 'To: Saad Mehmood <saadmehmood758@gmail.com>';
+    $headers[] = 'From: ' . $_POST['fullname'] . ' <' . $_POST['email'] . '>';
+//    $headers = array(
+//        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
+//        'Reply-To' => $_POST['email'],
+//        'X-Mailer' => 'PHP/' . phpversion()
+//    );
+
+    mail($to, $subject, $message, implode("\r\n", $headers));
 }
 
