@@ -1,5 +1,6 @@
 <?php
 $title = 'Contact Us :- Blueciate Inc';
+include ('mail.php');
 require_once 'head.php';
 ?>
 <body>
