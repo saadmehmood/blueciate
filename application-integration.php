@@ -44,7 +44,7 @@ include('head.php');
                             <br>
                             And it’s happening today. Business Results driven by primacy business challenges, Achieve AI is Ciate’s distinctive, all-inclusive AI service portfolio. Connecting your passion go further and achieve more, Achieve AI takes you to deliver AI at measure for thorough going control.
                         </p>
-                        <p>
+                        <p style="max-width: 1200px; text-align: center;">
                             <b>
                             Now, more than ever,
                             <br>
