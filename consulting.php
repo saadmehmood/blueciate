@@ -1,5 +1,5 @@
 ﻿<?php
-$title = '24x7 Support365 Help Desk :- Blueciate Inc';
+$title = 'Consulting :- Blueciate Inc';
 include('head.php');
 ?>
 <body>
@@ -87,7 +87,7 @@ include('head.php');
                         <div class="g lg-two-twelfths">
                             <aside>
                                 <span class="icon-phone"></span>
-                                <small>+1-408-772-4656 </small>
+                                <small><?php echo $phone; ?> </small>
 
                             </aside>
                         </div>
@@ -102,7 +102,7 @@ include('head.php');
                         <div class="g lg-two-twelfths">
                             <aside>
                                 <span class="icon-map-pin"></span>
-                                <small>433 Sheffield Dr</small>
+                                <small><?php echo $address; ?></small>
                                 <small>Richardson TX 75081, USA</small>
                             </aside>
                         </div>

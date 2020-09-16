@@ -1,5 +1,6 @@
 <?php
 $address = 'BlueCiate Inc. 811 S. Central Expwy #434';
+$address2 = 'Richardson TX 75081, USA';
 $phone = '+1-214-629-4976';
 $fax = '+1-214-629-4976';
 ?>

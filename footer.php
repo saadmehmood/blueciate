@@ -15,7 +15,7 @@
                             <li><a href="">Analytics</a></li>
                             <li><a href="application-integration">Application Integration</a></li>
                             <li><a href="">Cloud & Digital</a></li>
-                            <li><a href="">Internet of Things (IoT)</a></li>
+                            <li><a href="integration-solution">Internet of Things (IoT)</a></li>
                             <li><a href="small-business">Small & Mid Size Business</a></li>
                             <li><a href="">Resource Management</a></li>
                         </ul>

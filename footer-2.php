@@ -12,7 +12,7 @@
                         </li>
                         <li><a href="/application-integration" style="text-decoration:none;">Application Integration</a></li>
                         <li><a href="/Services/mobile-app-development" style="text-decoration:none;">Cloud & Digital</a></li>
-                        <li><a href="/integration-solution" style="text-decoration:none;">Integration Technologies</a></li>
+                        <li><a href="/internet-of-things" style="text-decoration:none;">Internet of Things (IoT)</a></li>
                         <li><a href="/small-business" style="text-decoration:none;">Small & Mid Size Business</a></li>
                         <li><a href="/Services/Staffing" style="text-decoration:none;">Resource Management</a></li>
                     </ul>
