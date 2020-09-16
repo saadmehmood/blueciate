@@ -40,6 +40,12 @@ include('head.php');
                     <aside class="g lg-twelfths md-one-whole" id="first">
                         <h3>Consulting</h3>
                         <p style="max-width: 1200px;">
+                            Hospitality Consulting (XRM) is our Hospitality & Tourism industry focused consulting practice offering business,
+                            digital and network management consulting services. Our Consultants are engaged in helping businesses to adapt their
+                            business models and operational processes to the competitive conditions and customer requirements of the digitalized,
+                            globalized economy with state-of-the-art communication and information technology. Our Enterprise Level Consulting Services
+                            provide businesses across multiple industry verticals with state-of-the-art technology and right business systems to master 
+                            complexity, make quicker and smarter decisions and add value.
                             By having customer information on-hand in the form of wearable devices, and being able to
                             sense the location of customers, wearable devices present a unique opportunity to quickly
                             process an individual’s likely scenario (where they are shopping), understand their recent
