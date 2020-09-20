@@ -64,10 +64,10 @@ include('head.php');
                 <section>
                     <div class="gw" style="font-size:15px;">
                         <div class="g lg-three-twelfths">
-                            <h4>Contact Us</h4>
+<!--                            <h4>Contact Us</h4>-->
                             <h1>Get in touch today</h1>
                             <p>
-                                Blueciate Team is always here to listen you.
+                                BlueCiate Team is always here to listen you.
                             </p>
                         </div>
                         <div class="g lg-one-twelfth">&nbsp;</div>
@@ -90,7 +90,7 @@ include('head.php');
                             <aside>
                                 <span class="icon-map-pin"></span>
                                 <small><?php echo $address?></small>
-                                <small>Richardson TX 75081, USA</small>
+                                <small><?php echo $addressLine2; ?></small>
                             </aside>
                         </div>
                     </div>

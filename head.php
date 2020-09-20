@@ -1,8 +1,8 @@
 <?php
-$address = 'BlueCiate Inc. 811 S. Central Expwy #434';
-$address2 = 'Richardson TX 75081, USA';
-$phone = '+1-214-629-4976';
-$fax = '+1-214-629-4976';
+$address = '811 S. Central Expwy #434';
+$addressLine2 = 'Richardson TX 75081, USA';
+$phone = '+1-408-656-1932';
+$fax = '+1-408-656-1932';
 ?>
 <!DOCTYPE html>
 <!-- saved from url=(0025)/About-Us -->

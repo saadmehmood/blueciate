@@ -109,8 +109,8 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="/">Cloud & Digital World</a></h1>
-                  <a class="read-more" href="/">See More<span
+                  <h1><a href="cloud">Cloud & Digital World</a></h1>
+                  <a class="read-more" href="cloud">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -138,8 +138,8 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/featured-service-providers">Applications</a></h1>
-                  <a class="read-more" href="http://xrm.blueciate.com/featured-service-providers">See More<span
+                  <h1><a href="application-integration">Applications</a></h1>
+                  <a class="read-more" href="application-integration">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -169,8 +169,8 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/destinations">Internet Services Guide</a></h1>
-                  <a class="read-more" href="http://xrm.blueciate.com/destinations">See More<span
+                  <h1><a href="internet-of-things">Internet Services Guide</a></h1>
+                  <a class="read-more" href="internet-of-things">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -198,9 +198,9 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/featured-service-providers">Analytics</a></h1>
+                  <h1><a href="/Services/Website-development">Analytics</a></h1>
 
-                  <a class="read-more" href="http://xrm.blueciate.com/featured-service-providers">See More<span
+                  <a class="read-more" href="/Services/Website-development">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -230,9 +230,9 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/featured-service-providers">Consulting</a></h1>
+                  <h1><a href="consulting">Consulting</a></h1>
                   <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit</div>
-                  <a class="read-more" href="http://xrm.blueciate.com/featured-service-providers">See More<span
+                  <a class="read-more" href="consulting">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -260,8 +260,8 @@ require_once 'header.php';
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://xrm.blueciate.com/featured-service-providers">Business Center</a></h1>
-                  <a class="read-more" href="http://xrm.blueciate.com/featured-service-providers">See More<span
+                  <h1><a href="small-business">Business Center</a></h1>
+                  <a class="read-more" href="small-business">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>

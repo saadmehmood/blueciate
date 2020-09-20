@@ -36,43 +36,30 @@
             <div class="container-fluid pl-3 pr-3 pl-lg-5 pr-lg-5 ">
                 <div class="row">
                     <div class="header-logo pl-5 col-6 pl-lg-3 col-lg-2 pt-4 mt-2">
+                        <a class="branding" href="/">
                         <img src="./files/blueciate.png" class="img-fluid">
+                        </a>
                     </div>
-                    <div class="col-lg-10 d-none">
+                    <div class="col-lg-10">
                         <ul class="main-menu">
                             <li>
-                                <a href="#"><i class="fas fa-home mr-2"></i>Home</a>
+                                <a href="/"><i class="fas fa-home mr-2"></i>Home</a>
                             </li>
                             <li>
-                                <a href="#"><i class="fas fa-cloud mr-2"></i>Cloud</a>
+                                <a href="cloud"><i class="fas fa-cloud mr-2"></i>Cloud</a>
                             </li>
                             <li>
-                                <a href="products.php"><i class="fas fa-wifi mr-2"></i>Products</a>
+                                <a href="products"><i class="fas fa-wifi mr-2"></i>Products</a>
                             </li>
                             <li>
-                                <a href=""><i class="fas fa-clock mr-2"></i>Consulting</a>
+                                <a href="consulting"><i class="fas fa-clock mr-2"></i>Consulting</a>
                             </li>
-                            <li>
-                                <a href="login.php" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
-                            </li>
+<!--                            <li>-->
+<!--                                <a href="login.php" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>-->
+<!--                            </li>-->
                         </ul>
                     </div>
                 </div>
-                <!--        <div class="row search">-->
-                <!--        </div>-->
-                <!--        <div class="row secondary-row">-->
-                <!--          <div class="col-12 pt-5">-->
-                <!--            <h1 class="sec-row-title ">-->
-                <!--              Analytical<br>Relationship Management,-->
-                <!--            </h1>-->
-                <!--            <h5>-->
-                <!--              That’s why I Blueciate...-->
-                <!--            </h5>-->
-                <!--            <div class="secondary-btn-search">-->
-                <!--              <button class="button btn btn-success  get-started-btn p-3 mt-4">Get Started</button>-->
-                <!--            </div>-->
-                <!--          </div>-->
-                <!--        </div>-->
             </div>
         </div>
     </div>
@@ -113,9 +100,40 @@
                                     <div class="icon-box">
                                         <span class="icon flaticon-statistics-1"></span>
                                     </div>
-                                    <h1><a href="http://emr.blueciate.com/login">EMR</a></h1>
-                                    <a class="read-more" href="http://emr.blueciate.com/login">See More<span
+                                    <h1><a href="http://emr.blueciate.com/login" target="_blank">EMR</a></h1>
+                                    <a class="read-more" href="http://emr.blueciate.com/login" target="_blank">See More<span
                                             class="fa fa-angle-double-right"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-lg-3 col-sm-6 pr-1 pl-1 services-block-four">
+                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                     style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                    <div class="image">
+                        <img src="./img/1.apps-2558373__480.webp" alt="">
+                        <div class="overlay-box">
+                            <div class="content">
+                                <div class="icon-box">
+                                    <span class="icon flaticon-statistics-1"></span>
+                                </div>
+                                <h1>TRM</h1>
+                            </div>
+                        </div>
+
+                        <div class="overlay-box-two">
+                            <div class="overlay-inner-two">
+                                <div class="content">
+                                    <div class="icon-box">
+                                        <span class="icon flaticon-statistics-1"></span>
+                                    </div>
+                                    <h1><a href="http://tooryst.com/login" target="_blank">TRM</a></h1>
+                                    <a class="read-more" href="http://tooryst.com/login" target="_blank">
+                                        See More
+                                        <span class="fa fa-angle-double-right"></span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
