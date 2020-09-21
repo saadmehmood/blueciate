@@ -18,11 +18,13 @@
                             <li><a href="internet-of-things">Internet of Things (IoT)</a></li>
                             <li><a href="small-business">Small & Mid Size Business</a></li>
                             <li><a href="/Services/Staffing">Resource Management</a></li>
+                            <li><a href="/">Cloud & Application Monitoring</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Links</h3>
                         <ul>
+                            <li><a href="/">COVID-19</a></li>
                             <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
                             <li><a href="Policies/Refund-Policy">Press Release</a></li>
                             <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
@@ -34,6 +36,7 @@
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Partners</h3>
                         <ul>
+                            <li><a href="/">Clients</a></li>
                             <li><a href="/">Investors</a></li>
                             <li><a href="/">Partnership</a></li>
                             <li><a href="/">Business Center</a></li>

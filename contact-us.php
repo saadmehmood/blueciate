@@ -88,7 +88,7 @@ require_once 'head.php';
                     Apply today
                     for an exciting new career at Blueciate.
                   </p>
-                  <a href="/careers.aspx" class="buttonmore">Apply Now!</a>
+                  <a href="/careers.php" class="buttonmore">Apply Now!</a>
                 </aside>
               </div>
             </article>
