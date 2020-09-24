@@ -1,4 +1,6 @@
 <?php
+
+$mailStatus = 'error';
 if (isset($_POST['btnSubmit'])) {
 //    var_dump($_POST);
     $to = 'info@blueciate.com';
@@ -18,5 +20,6 @@ if (isset($_POST['btnSubmit'])) {
 //    );
 
     mail($to, $subject, $message, implode("\r\n", $headers));
+    $mailStatus = 'success';
 }
 
