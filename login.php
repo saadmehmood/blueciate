@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="./index_files/home-page.css">
     <style>
         body {
-            background-image: url("Images/login-product-bg.jpg");
+            background-image: url("/img/login-page.jpg");
+            background-position: center;
         }
     </style>
 </head>
@@ -248,9 +249,9 @@
     });
 
     function scaleVideoContainer() {
-        var height = $(window).height() + 5;
+        var height = $(window).height() - 137;
         var unitHeight = parseInt(height) + 'px';
-        $('.homepage-hero-module').css('height', unitHeight);
+        $('.six_box_sec').css('min-height', unitHeight);
     }
 
     function initBannerVideoSize(element) {
