@@ -137,8 +137,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://crm.blueciate.com/login">CRM</a></h1>
-                  <a class="read-more" href="http://crm.blueciate.com/login">See More<span
+                  <h1><a href="http://www.zoho.com/">CRM</a></h1>
+                  <a class="read-more" href="http://www.zoho.com/">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -166,8 +166,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://ehr.blueciate.com/login">EHR</a></h1>
-                  <a class="read-more" href="http://ehr.blueciate.com/login">See More<span
+                  <h1><a href="#">EHR</a></h1>
+                  <a class="read-more" href="#">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -226,8 +226,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://erp.blueciate.com/login">ERP</a></h1>
-                  <a class="read-more" href="http://erp.blueciate.com/login">See More<span
+                  <h1><a href="#">ERP</a></h1>
+                  <a class="read-more" href="#">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -255,8 +255,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://scm.blueciate.com/login">CSR</a></h1>
-                  <a class="read-more" href="http://scm.blueciate.com/login">See More<span
+                  <h1><a href="http://www.grkpl.com">CSR</a></h1>
+                  <a class="read-more" href="http://www.grkpl.com">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
