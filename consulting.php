@@ -7,32 +7,10 @@ include('head.php');
 <div class="mm-page mm-slideout">
     <div id="wrapper">
         <?php
-        require_once 'header-2.php'
+        require_once 'header-2.php';
+        $images = ['consulting-1.jpg', 'consulting-2.jpg', 'consulting-3.jpg'];
+        include('image-slider.php');
         ?>
-
-        <aside class="featured-blog">
-            <div class="container ">
-                <div class="gw" style="font-size:15px;">
-                    <div class="g lg-one-whole">
-                        <aside class="feature-slider">
-                            <ul class="slides">
-                                <li>
-                                    <div class="featured-img ">
-                                        <div class="img-holder overlay">
-                                            <img src="../Images/banner_micro.jpg" alt="blog-featured"
-                                                 class="background-image">
-                                        </div>
-
-                                    </div>
-                                </li>
-
-
-                            </ul>
-                        </aside>
-                    </div>
-                </div>
-            </div>
-        </aside>
 
         <article id="services" class="hh-services">
             <div class="container">
@@ -119,7 +97,7 @@ include('head.php');
             </div>
         </article>
         <?php
-        include('footer-2.php');
+        include('footer.php');
         ?>
     </div>
 </div>

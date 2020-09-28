@@ -101,7 +101,7 @@ require_once 'head.php';
                                     Apply today
                                     for an exciting new career at Blueciate.
                                 </p>
-                                <a href="/careers.php" class="buttonmore">Apply Now!</a>
+                                <a href="/careers" class="buttonmore">Apply Now!</a>
                             </aside>
                         </div>
                     </article>
@@ -112,7 +112,7 @@ require_once 'head.php';
 
 
         <?php
-        require_once 'footer-2.php';
+        require_once 'footer.php';
         ?>
 
 

@@ -12,25 +12,25 @@
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Services</h3>
                         <ul>
-                            <li><a href="/Services/Website-development">Analytics</a></li>
-                            <li><a href="application-integration">Application Integration</a></li>
-                            <li><a href="cloud-apps-api">Cloud & Digital</a></li>
-                            <li><a href="internet-of-things">Internet of Things (IoT)</a></li>
-                            <li><a href="small-business">Small & Mid Size Business</a></li>
+                            <li><a href="/analytics">Analytics</a></li>
+                            <li><a href="/application-integration">Application Integration</a></li>
+                            <li><a href="/cloud-apps-api">Cloud & Digital</a></li>
+                            <li><a href="/internet-of-things">Internet of Things (IoT)</a></li>
+                            <li><a href="/small-business">Small & Mid Size Business</a></li>
                             <li><a href="/Services/Staffing">Resource Management</a></li>
-                            <li><a href="/">Cloud & Application Monitoring</a></li>
+                            <li><a href="/cloud-application-monitoring">Cloud & Application Monitoring</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Links</h3>
                         <ul>
                             <li><a href="/">COVID-19</a></li>
-                            <li><a href="Policies/Privacy-Policy">Privacy Policy</a></li>
-                            <li><a href="Policies/Refund-Policy">Press Release</a></li>
-                            <li><a href="Policies/Terms-Conditions">Terms Of Use</a></li>
-                            <li><a href="Policies/EULA">EULA</a></li>
-                            <li><a href="about-us">About Us</a></li>
-                            <li><a href="contact-us">Contact Us</a></li>
+                            <li><a href="/Policies/Privacy-Policy">Privacy Policy</a></li>
+                            <li><a href="/Policies/Refund-Policy">Press Release</a></li>
+                            <li><a href="/Policies/Terms-Conditions">Terms Of Use</a></li>
+                            <li><a href="/Policies/EULA">EULA</a></li>
+                            <li><a href="/about-us">About Us</a></li>
+                            <li><a href="/contact-us">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 item-footer">
@@ -48,11 +48,11 @@
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Social</h3>
                         <ul>
-                            <li><a href="https://www.facebook.com/blueciate/" target="_blank"> <img src="./files/facebook.jpg"
+                            <li><a href="https://www.facebook.com/blueciate/" target="_blank"> <img src="/files/facebook.jpg"
                                                                                                     style="width:35px;"></a></li>
                             <li><a href="https://www.linkedin.com/company/blueciate-inc" target="_blank"> <img
-                                            src="./files/linkedin.jpg" style="width:35px;"></a></li>
-                            <li><a href="http://www.twitter.com/blueciate" target="_blank"> <img src="./files/twitter.jpg"
+                                            src="/files/linkedin.jpg" style="width:35px;"></a></li>
+                            <li><a href="http://www.twitter.com/blueciate" target="_blank"> <img src="/files/twitter.jpg"
                                                                                                  style="width:35px;"></a></li>
                         </ul>
                     </div>
@@ -96,3 +96,24 @@
     </div>
 </div>
 <!--COPYRIGHT -->
+<script>
+    // When the user scrolls the page, execute myFunction
+    window.onscroll = function() {myFunction()};
+
+    // Get the navbar
+    var navbar = document.getElementById("main-nav");
+
+    // Get the offset position of the navbar
+    var sticky = navbar.offsetTop;
+
+    // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+    function myFunction() {
+        if (window.pageYOffset >= sticky) {
+            navbar.classList.add("sticky");
+            $('.featured-blog').addClass('mt-100');
+        } else {
+            navbar.classList.remove("sticky");
+            $('.featured-blog').removeClass('mt-100');
+        }
+    }
+</script>

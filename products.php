@@ -108,8 +108,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="htt://bpm.blueciate.com/login">BPM</a></h1>
-                  <a class="read-more" href="http://bpm.blueciate.com/login">See More<span
+                  <h1><a href="https://www.auraquantic.com/">BPM</a></h1>
+                  <a class="read-more" href="https://www.auraquantic.com/">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -189,18 +189,18 @@
               </div>
             </div>
 
-<!--            <div class="overlay-box-two">-->
-<!--              <div class="overlay-inner-two">-->
-<!--                <div class="content">-->
-<!--                  <div class="icon-box">-->
-<!--                    <span class="icon flaticon-statistics-1"></span>-->
-<!--                  </div>-->
-<!--                  <h1><a href="http://emr.blueciate.com/login">EMR</a></h1>-->
-<!--                  <a class="read-more" href="http://emr.blueciate.com/login">See More<span-->
-<!--                      class="fa fa-angle-double-right"></span></a>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>-->
+            <div class="overlay-box-two">
+              <div class="overlay-inner-two">
+                <div class="content">
+                  <div class="icon-box">
+                    <span class="icon flaticon-statistics-1"></span>
+                  </div>
+                  <h1><a href="http://emr.blueciate.com/login">EMR</a></h1>
+                  <a class="read-more" href="http://emr.blueciate.com/login">See More<span
+                      class="fa fa-angle-double-right"></span></a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -245,7 +245,7 @@
                 <div class="icon-box">
                   <span class="icon flaticon-statistics-1"></span>
                 </div>
-                <h1>SCM</h1>
+                <h1>CSR</h1>
               </div>
             </div>
 
@@ -255,7 +255,7 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://scm.blueciate.com/login">SCM</a></h1>
+                  <h1><a href="http://scm.blueciate.com/login">CSR</a></h1>
                   <a class="read-more" href="http://scm.blueciate.com/login">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
@@ -284,8 +284,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="htt://trm.blueciate.com/login">TRM</a></h1>
-                  <a class="read-more" href="http://trm.blueciate.com/login">See More<span
+                  <h1><a href="http://tooryst.com">TRM</a></h1>
+                  <a class="read-more" href="http://tooryst.com">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>

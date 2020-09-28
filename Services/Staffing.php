@@ -61,6 +61,36 @@ require_once 'head.php';
                   </div>
 
                 </li>
+                <li>
+                  <div class="featured-img ">
+                    <div class="img-holder overlay">
+                      <img src="/img/rm-1.jpg" alt="blog-featured" class="background-image">
+                    </div>
+                    <div class="inner align-vertical">
+                    </div>
+                  </div>
+
+                </li>
+                <li>
+                  <div class="featured-img ">
+                    <div class="img-holder overlay">
+                      <img src="/img/rm-2.jpg" alt="blog-featured" class="background-image">
+                    </div>
+                    <div class="inner align-vertical">
+                    </div>
+                  </div>
+
+                </li>
+                <li>
+                  <div class="featured-img ">
+                    <div class="img-holder overlay">
+                      <img src="/img/rm-3.jpg" alt="blog-featured" class="background-image">
+                    </div>
+                    <div class="inner align-vertical">
+                    </div>
+                  </div>
+
+                </li>
               </ul>
             </aside>
           </div>
@@ -200,7 +230,7 @@ require_once 'head.php';
       </div>
     </article>
         <?php
-        require_once 'footer-2.php';
+        require_once 'footer.php';
         ?>
     </div>
 

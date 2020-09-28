@@ -133,7 +133,7 @@ require_once 'head.php';
       </div>
     </article>
         <?php
-        require_once 'footer-2.php';
+        require_once 'footer.php';
         ?>
     </div>
 

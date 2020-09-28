@@ -110,7 +110,7 @@ include ('head.php');
       </div>
     </article>
     <?php
-    include ('footer-2.php');
+    include ('footer.php');
     ?>
 </div>
 </div>

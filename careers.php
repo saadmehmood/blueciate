@@ -128,7 +128,7 @@ require_once 'head.php';
                                     5 - 8 years<br/>
                                     <strong>Positions : </strong>04
                                     <br/> <br/> <br/>
-                                    <a href="Pages/Apply-Jobs.aspx" class="buttonmore">Apply Now!</a>
+                                    <a href="apply-now" class="buttonmore">Apply Now!</a>
                                 </p>
 
                             </div>
@@ -177,187 +177,14 @@ require_once 'head.php';
 
                     </div>
                 </article>
-                <%--
-                <footer class="site-footer ">
-                    <div class="container">
-                        <article>
-                            <div class="meet-team-social-follow">
-                                <a href="https://www.facebook.com/blueciate">
-                                    <img src="Images/social-icons/facebook.jpg"/></a>
-                                <a href="#">
-                                    <img src="Images/social-icons/dribble.jpg"/></a>
-                                <a href="#">
-                                    <img src="Images/social-icons/twitter.jpg"/></a>
-                                <a href="#">
-                                    <img src="Images/social-icons/gplus.jpg"/></a>
-
-                                <nav class="site-nav" style="font-size:15px;">
-
-                                    <p>
-                                        Copyright © <%: DateTime.Now.Year %> <strong>Blueciate Inc</strong>.
-                                        All rights reserved.
-                                    </p>
-
-                                </nav>
-
-                                <nav class="site-nav" style="margin-right: 103px;  margin-top: -6px;">
-
-                                    <p>
-                                        <a href="Policies/Privacy-Policy?">Privacy Policy </a>|<a
-                                                href="Policies/Refund-Policy?">Refund Policy </a>|<a
-                                                href="Policies/Terms-Conditions?">Terms Of Use </a>|<a
-                                                href="Policies/EULA?">Eula </a>
-                                    </p>
-
-                                </nav>
-                            </div>
-
-                        </article>
-
-
-                    </div>
-                </footer>
-                --%>
-                <article id="Article1">
-                    <div class="container footer_bg">
-                        <div class="gw" style="font-size:15px;">
-                            <div class="g lg-one-fourth topmargin" style="margin-left:200px;">
-                                <div class="left-row">
-                                    <h2>Our <span>Services</span></h2>
-                                    <ul style="list-style-type:none;">
-                                        <li><a href="Services/Website-development" style="text-decoration:none;">Website
-                                                Development</a></li>
-                                        <li><a href="Services/software-development" style="text-decoration:none;">Software
-                                                Development</a></li>
-                                        <li><a href="Services/mobile-app-development" style="text-decoration:none;">Mobile
-                                                App Development</a></li>
-                                        <li><a href="Cloud/Support365.aspx" style="text-decoration:none;">Help Desk
-                                                Solutions</a></li>
-                                        <li><a href="Services/project-outsourcing" style="text-decoration:none;">Outsourcing</a>
-                                        </li>
-                                        <li><a href="Services/Staffing" style="text-decoration:none;">Resource
-                                                Management</a></li>
-
-                                        <%--
-                                        <li><a href="plans.aspx" style="text-decoration:none;">Plans</a></li>
-                                        <li><a href="cloud_desk.aspx" style="text-decoration:none;">Cloud Desk</a></li>
-                                        <li><a href="workspace.aspx" style="text-decoration:none;">Workspace</a></li>
-                                        --%>
-                                    </ul>
-                                    <%-- <h2>About Blueciate</h2>
-                                    <img src="Images/bluelogo.jpg" style="margin-top: 50px; width: 300px;"/>
-                                    <%--<p style="text-align:justify;">
-                                        The company was co-founded by four liked minded professionals in the year 2008
-                                        with a very small team. Today, the company’s success in terms of steadfast
-                                        growth
-                                        and excellent customer base has come out powered by the shared vision of
-                                        Blueciate
-                                        , Team focused on values, innovation, transparency and integrity.
-                                    </p>--%>
-                                </div>
-                            </div>
-                            <div class="g lg-one-fourth topmargin">
-                                <div class="services-title">
-
-                                    <aside class="title">
-                                        <h2>Quick <span>Links</span></h2>
-                                        <ul style="list-style-type:none;">
-                                            <li><a href="Policies/Privacy-Policy?" style="text-decoration:none;">Privacy
-                                                    Policy</a></li>
-                                            <li><a href="Policies/Refund-Policy?" style="text-decoration:none;">Refund
-                                                    Policy</a></li>
-                                            <li><a href="Policies/Terms-Conditions?" style="text-decoration:none;">Terms
-                                                    Of Use</a></li>
-                                            <li><a href="Policies/EULA?" style="text-decoration:none;">Eula</a></li>
-                                            <li><a href="About-us.aspx" style="text-decoration:none;">About Us</a></li>
-                                            <li><a href="Contact-Us.aspx" style="text-decoration:none;">Contact Us</a>
-                                            </li>
-                                            <%--
-                                            <li><a href="plans.aspx" style="text-decoration:none;">Plans</a></li>
-                                            <li><a href="cloud_desk.aspx" style="text-decoration:none;">Cloud Desk</a>
-                                            </li>
-                                            <li><a href="workspace.aspx" style="text-decoration:none;">Workspace</a>
-                                            </li>
-                                            --%>
-                                        </ul>
-
-                                    </aside>
-                                </div>
-                            </div>
-
-                            <div class="g lg-one-fourth no-pad topmargin">
-                                <div class="gw" style="font-size:15px;">
-                                    <div class="g lg-one-whole md-one-half xs-one-whole sm-one-half block contentP boxa">
-                                        <h2>Social Links</h2>
-                                        <ul style="list-style-type:none;">
-                                            <li style="margin:15px;"><a href="https://www.facebook.com/blueciate/"
-                                                                        target="_blank"> <img
-                                                            src="../Images/social-icons/facebook.jpg"
-                                                            style="width:35px;"/></a></li>
-                                            <li style="margin:15px;"><a
-                                                        href="https://www.linkedin.com/company/blueciate-inc"
-                                                        target="_blank"> <img src="../Images/social-icons/linkedin.jpg"
-                                                                              style="width:35px;"/></a></li>
-
-                                            <li style="margin:15px;"><a href="http://www.twitter.com/blueciate"
-                                                                        target="_blank"> <img
-                                                            src="../Images/social-icons/twitter.jpg"
-                                                            style="width:35px;"/></a></li>
-                                        </ul>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </article>
 
             </div>
         </div>
 
     </article>
-    <footer class="site-footer ">
-        <div class="container">
-            <article>
-                <div class="meet-team-social-follow">
-                    <%--<a href="https://www.facebook.com/blueciate">
-                        <img src="Images/social-icons/facebook.jpg"/></a>
-                    <a href="#">
-                        <img src="Images/social-icons/dribble.jpg"/></a>
-                    <a href="#">
-                        <img src="Images/social-icons/twitter.jpg"/></a>
-                    <a href="#">
-                        <img src="Images/social-icons/gplus.jpg"/></a>--%>
-
-                    <nav class="site-nav" style="font-size:15px;">
-
-                        <p>
-                            Copyright © <%: DateTime.Now.Year %> <strong>Blueciate Inc</strong>.
-                            All rights reserved.
-                        </p>
-
-                    </nav>
-
-                    <%--
-                    <nav class="site-nav" style="margin-right: 103px;  margin-top: -6px;">
-
-                        <p>
-                            <a href="Policies/Privacy-Policy?">Privacy Policy </a>|<a href="Policies/Refund-Policy?">Refund
-                                Policy </a>|<a href="Policies/Terms-Conditions?">Terms Of Use </a>|<a
-                                    href="Policies/EULA?">Eula </a>
-                        </p>
-
-                    </nav>
-                    --%>
-                </div>
-
-            </article>
-
-
-        </div>
-    </footer>
-    </article>
-
+    <?php
+    require_once 'footer.php';
+    ?>
 </div>
 <!-- end wrapper -->
 
