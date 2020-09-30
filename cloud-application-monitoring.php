@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = ['cam-1.jpg', 'cam-2.jpg', 'cam-3.jpeg'];
+        $images = [];
         include('image-slider.php');
         ?>
 
@@ -16,24 +16,43 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
-                        <h3>Business with Achieve Artificial Intelligence</h3>
-                        <p style="max-width: 1200px;">
-                            AI is empowering employees and driving material performance improvements.
-                            <br>
-                            And it’s happening today. Business Results driven by primacy business challenges, Achieve AI is Ciate’s distinctive, all-inclusive AI service portfolio. Connecting your passion go further and achieve more, Achieve AI takes you to deliver AI at measure for thorough going control.
+                        <p style="min-width: 1200px; text-align: center;">
+                            <img src="img/cam-4.png" style="width: 849px">
                         </p>
-                        <p style="max-width: 1200px; text-align: center;">
-                            <b>
-                            Now, more than ever,
+                        <p style="min-width: 1200px;text-align: center">
+                            <img src="img/cam-5.png" style="width: 835px">
+                        </p>
+                        <p style="min-width: 1200px; text-align: center">
+                            <img src="img/cam-6.png" style="width: 819px">
+                        </p>
+                        <p style="min-width: 1200px; text-align: center">
+                            <img src="img/cam-7.png" style="width: 601px">
+                        </p>
+                        <h3>Gain control of application performance</h3>
+                        <p style="max-width: 1200px;">
+                            Get end-to-end performance monitoring, accurate alerting and AI-powered root cause analysis for cloud applications.
+                        </p>
+                        <h3>Easily monitor cloud-native technologies</h3>
+                        <p style="min-width: 1200px">
+                            Support innovation and avoid issues impacting user experience, caused by micro service architectures and cloud-native technologies with out-of-the box monitoring of key resources.
+                        </p>
+                        <h3>Ensure cloud drives business performance</h3>
+                        <p style="min-width: 1200px">
+                            Compare and contrast technical and business performance metrics in real time to make informed investment decisions and drive in the confidence that cloud delivers business value.
+                        </p>
+                        <h3>Visualize end-to-end cloud application performance in real time</h3>
+                        <p style="min-width: 1200px">
+                            Go beyond basic infrastructure health metrics and understand the true performance of your cloud application. See clearly how every application component, line of code and important infrastructure resource is performing no matter whether they’re in public or private clouds. This includes Docker containers, Kubernetes, every microservice and key cloud-native technologies from Amazon AWS, Microsoft Azure, Red Hat OpenShift and Pivotal Cloud Foundry.
+                        </p>
+                        <h3>Network monitoring:<br>
+                            Fix issues before they
+                            become emergencies</h3>
+                        <p style="min-width: 1200px">
+                            PRTG Network Monitor ensures that you are notified before outages occur. It also increases network efficiency by tracking bandwidth and resource consumption.
                             <br>
-                            Software needs to work perfectly
+                            The PRTG network monitoring software is easy to install and use. It supports remote management via any web browser or smart phone, various notifications methods and multiple location monitoring.
                             <br>
-                            Monitor, optimize, and scale every app, in any cloud.
-                            <br>
-                            AWS monitoring
-                            <br>
-                            Engineered for cloud native and hybrid environments — simplifies complexity using AI and automation.
-                            </b>
+                            For details click on <a href="https://www.paessler.com/" target="_blank">www.paessler.com</a>
                         </p>
                     </aside>
 
