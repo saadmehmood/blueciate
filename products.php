@@ -108,8 +108,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="https://www.auraquantic.com/">BPM</a></h1>
-                  <a class="read-more" href="https://www.auraquantic.com/">See More<span
+                  <h1><a href="/bpm">BPM</a></h1>
+                  <a class="read-more" href="/bpm">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
@@ -137,8 +137,8 @@
                   <div class="icon-box">
                     <span class="icon flaticon-statistics-1"></span>
                   </div>
-                  <h1><a href="http://www.zoho.com/">CRM</a></h1>
-                  <a class="read-more" href="http://www.zoho.com/">See More<span
+                  <h1><a href="/crm">CRM</a></h1>
+                  <a class="read-more" href="/crm">See More<span
                       class="fa fa-angle-double-right"></span></a>
                 </div>
               </div>
