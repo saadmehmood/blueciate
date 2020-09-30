@@ -1,5 +1,5 @@
 ﻿<?php
-$title = 'Consulting :- Blueciate Inc';
+$title = 'CRM :- Blueciate Inc';
 include('head.php');
 ?>
 <body>
