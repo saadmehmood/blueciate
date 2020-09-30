@@ -81,8 +81,8 @@
 <section class="six_box_sec services-blocks-sm" id="six_box_sec" style="margin-top: 30px;">
     <div class="">
         <div class="row no-gutters">
-            <div class="col-12 col-lg-3 col-sm-6 pr-1 pl-1 services-block-four">
-                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+            <div class="col-12 col-lg-3 col-sm-6 pr-2 pl-2 services-block-four border-radius-5">
+                <div class="inner-box wow fadeInLeft animated border-radius-25 box-shadow" data-wow-delay="0ms" data-wow-duration="1500ms"
                      style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                     <div class="image">
                         <img src="./img/4.business-3528035__480.webp" alt="">
@@ -110,8 +110,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-3 col-sm-6 pr-1 pl-1 services-block-four">
-                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+            <div class="col-12 col-lg-3 col-sm-6 pr-2 pl-2 services-block-four">
+                <div class="inner-box wow fadeInLeft animated border-radius-25 box-shadow" data-wow-delay="0ms" data-wow-duration="1500ms"
                      style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                     <div class="image">
                         <img src="./img/1.apps-2558373__480.webp" alt="">
