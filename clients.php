@@ -1,5 +1,5 @@
 ﻿<?php
-$title = 'CRM :- Blueciate Inc';
+$title = 'Consulting :- Blueciate Inc';
 include('head.php');
 ?>
 <body>
@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = ['crm-1.jpg', 'crm-2.jpg', 'crm-3.jpg', 'crm-4.png'];
+        $images = ['clients/1.PNG','clients/2.PNG', 'clients/3.PNG', 'clients/4.PNG'];
         include('image-slider.php');
         ?>
 
@@ -16,47 +16,26 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
-                        <h3>Engage customers and grow revenue</h3>
-                        <p style="max-width: 1200px;">
-                            Blueciate and its partner integrates and deliver’s you connected API’s to connect your business and sales experiences to accelerate the buying process and turn customers into advocates.
-
-                        </p>
-                        <h3>Work’s better</h3>
-                        <p style="min-width: 1200px;">
-                            <b>CRM + Work Management</b>
-                            <br>
-                            Blueciate help teams <b>get everything in one place</b>, work more collaboratively to <b>get more done</b>, and track and <b>improve performance</b>.
-                        </p>
-                        <h3>Connect with every customer</h3>
-                        <p style="min-width: 1200px;">
-                            Our sales solutions can help you engage customers through connected, customer-centric processes that improve experiences and maximize sales.
-                        <ul>
-                            <li>
-                                Sales & Marketing
-                            </li>
-                            <li>
-                                Productivity & Collaboration
-                            </li>
-                            <li>
-                                Integrated Customer Experience
-                            </li>
-                            <li>
-                                Business Analytics
-                            </li>
-                            <li>
-                                Finance & Accounting
-                            </li>
-                            <li>
-                                Human Resources
-                            </li>
-                            <li>
-                                Low-Code Developer Platform
-                            </li>
-                        </ul>
-                        </p>
-                        <p style="max-width: 1200px;">
-                            For further details <a href="/contact-us" class="buttonmore">Contuct us</a>.
-                        </p>
+<!--                        <h3>Dashboards & Analytics</h3>-->
+<!--                        <p style="max-width: 1200px;">-->
+<!--                            Blueciate with certified developers can facilitate the opportunity to build applications that integrate the business logic, control logic, and the database layer with unprecedented performance using best practices. At Blueciate we ensure the machine learning and predictive analytics has the ability to analyze any data type and easily integrate native machine learning algorithms, stream analytics and create text analytics, analysis, mining, search and more. With spatial data processing businesses can leverage geospatial data to create new applications and solutions and dashboard for CRM-XRM based solutions using...-->
+<!--                        </p>-->
+<!--                        <p>-->
+<!--                        <ul>-->
+<!--                            <li>-->
+<!--                                Descriptive Analytics-->
+<!--                            </li>-->
+<!--                            <li>-->
+<!--                                Diagnostic Analytics-->
+<!--                            </li>-->
+<!--                            <li>-->
+<!--                                Predictive-->
+<!--                            </li>-->
+<!--                            <li>-->
+<!--                                Prescriptive Analytics-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                        </p>-->
                     </aside>
 
                 </section>

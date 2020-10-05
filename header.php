@@ -37,13 +37,13 @@
                                 <a href="/cloud"><i class="fas fa-cloud mr-2"></i>Cloud</a>
                             </li>
                             <li>
-                                <a href="products"><i class="fas fa-wifi mr-2"></i>Products</a>
+                                <a href="/products"><i class="fas fa-wifi mr-2"></i>Products</a>
                             </li>
                             <li>
                                 <a href="/consulting"><i class="fas fa-clock mr-2"></i>Consulting</a>
                             </li>
                             <li>
-                                <a href="login" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
+                                <a href="/login" class="login-btn"><i class="fas fa-sign-in-alt mr-2"></i>Login</a>
                             </li>
                         </ul>
                     </div>

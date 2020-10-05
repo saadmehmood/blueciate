@@ -45,7 +45,7 @@
                         <ul style="list-style-type:none;">
                             <li><a href="/" style="text-decoration:none;">Clients</a></li>
                             <li><a href="/" style="text-decoration:none;">Investors</a></li>
-                            <li><a href="/" style="text-decoration:none;">Partnership</a></li>
+                            <li><a href="/partnerships" style="text-decoration:none;">Partnership</a></li>
                             <li><a href="/" style="text-decoration:none;">Business Center</a></li>
                             <li><a href="/" style="text-decoration:none;">Careers</a></li>
                             <li><a href="/" style="text-decoration:none;">Blogs</a></li>

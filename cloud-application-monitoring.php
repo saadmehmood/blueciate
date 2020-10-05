@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = ['cam-4.png', 'cam-7.png', 'cam-5.png', 'cam-6.png'];
+        $images = ['cam-1.png', 'cam-2.png', 'cam-3.png', 'cam-4.png'];
         include('image-slider.php');
         ?>
 
@@ -40,7 +40,7 @@ include('head.php');
                             <br>
                             The PRTG network monitoring software is easy to install and use. It supports remote management via any web browser or smart phone, various notifications methods and multiple location monitoring.
                             <br>
-                            For further details <a href="/contact-us" class="buttonmore">contuct us</a>
+                            For further details <a href="/contact-us" class="buttonmore">Contuct us</a>
                         </p>
                     </aside>
 

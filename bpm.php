@@ -51,7 +51,7 @@ include('head.php');
                             <br>
                             With AuraQuantic the customer can choose to adapt the system in the future without depending on the vendor or consultancy firms.
                             <br>
-                            For further details <a href="/contact-us" class="buttonmore">contuct us</a>.
+                            For further details <a href="/contact-us" class="buttonmore">Contuct us</a>.
                         </p>
                     </aside>
 

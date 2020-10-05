@@ -36,9 +36,9 @@
                     <div class="col-lg-3 item-footer">
                         <h3 class="upper-footer">Partners</h3>
                         <ul>
-                            <li><a href="/">Clients</a></li>
+                            <li><a href="/clients">Clients</a></li>
                             <li><a href="/">Investors</a></li>
-                            <li><a href="/">Partnership</a></li>
+                            <li><a href="/partnerships">Partnership</a></li>
                             <li><a href="/">Business Center</a></li>
                             <li><a href="/">Careers</a></li>
                             <li><a href="/">Blogs</a></li>
