@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = [];
+        $images = ['cam-4.png', 'cam-7.png', 'cam-5.png', 'cam-6.png'];
         include('image-slider.php');
         ?>
 
@@ -16,18 +16,6 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
-                        <p style="min-width: 1200px; text-align: center;">
-                            <img src="img/cam-4.png" style="width: 849px">
-                        </p>
-                        <p style="min-width: 1200px;text-align: center">
-                            <img src="img/cam-5.png" style="width: 835px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/cam-6.png" style="width: 819px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/cam-7.png" style="width: 601px">
-                        </p>
                         <h3>Gain control of application performance</h3>
                         <p style="max-width: 1200px;">
                             Get end-to-end performance monitoring, accurate alerting and AI-powered root cause analysis for cloud applications.
@@ -52,7 +40,7 @@ include('head.php');
                             <br>
                             The PRTG network monitoring software is easy to install and use. It supports remote management via any web browser or smart phone, various notifications methods and multiple location monitoring.
                             <br>
-                            For details click on <a href="https://www.paessler.com/" target="_blank">www.paessler.com</a>
+                            For further details <a href="/contact-us" class="buttonmore">contuct us</a>
                         </p>
                     </aside>
 

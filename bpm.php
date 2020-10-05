@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = [];
+        $images = ['bpm-1.png', 'bpm-2.png', 'bpm-3.png', 'bpm-4.png','bpm-5.png', 'bpm-6.png', 'bpm-7.png'];
         include('image-slider.php');
         ?>
 
@@ -16,27 +16,6 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
-                        <p style="min-width: 1200px; text-align: center;">
-                            <img src="img/bpm-1.png" style="width: 1044px">
-                        </p>
-                        <p style="min-width: 1200px;text-align: center">
-                            <img src="img/bpm-2.png" style="width: 949px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/bpm-3.png" style="width: 970px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/bpm-4.png" style="width: 913px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/bpm-5.png" style="width: 920px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/bpm-6.png" style="width: 1009px">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/bpm-7.png" style="width: 886px">
-                        </p>
                         <p style="max-width: 1200px;">
                             BlueCiate –BPM in collaboration with leading technology partner has a sound financial structure. Furthermore, the product is considered one of the most solid and effective in the market and is used by a multitude of customers worldwide.
 
@@ -72,7 +51,7 @@ include('head.php');
                             <br>
                             With AuraQuantic the customer can choose to adapt the system in the future without depending on the vendor or consultancy firms.
                             <br>
-                            For further details click <a href="https://www.auraquantic.com/" target="_blank">here</a>.
+                            For further details <a href="/contact-us" class="buttonmore">contuct us</a>.
                         </p>
                     </aside>
 

@@ -8,7 +8,7 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = [];
+        $images = ['crm-1.png', 'crm-2.png', 'crm-3.png'];
         include('image-slider.php');
         ?>
 
@@ -16,15 +16,6 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
-                        <p style="min-width: 1200px; text-align: center;">
-                            <img src="img/crm-1.png" style="width: 80%">
-                        </p>
-                        <p style="min-width: 1200px;text-align: center">
-                            <img src="img/crm-3.png" style="width: 60%">
-                        </p>
-                        <p style="min-width: 1200px; text-align: center">
-                            <img src="img/crm-2.png" style="width: 40%">
-                        </p>
                         <h3>Engage customers and grow revenue</h3>
                         <p style="max-width: 1200px;">
                             Blueciate and its partner integrates and deliver’s you connected API’s to connect your business and sales experiences to accelerate the buying process and turn customers into advocates.
@@ -64,7 +55,7 @@ include('head.php');
                         </ul>
                         </p>
                         <p style="max-width: 1200px;">
-                            For further details click on  <a href="https://www.zoho.com/" target="_blank">www.zoho.com</a>.
+                            For further details <a href="/contact-us" class="buttonmore">contuct us</a>.
                         </p>
                     </aside>
 
