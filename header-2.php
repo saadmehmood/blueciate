@@ -49,10 +49,10 @@
             <div class="container">
                 <div class="row">
                     <aside class="block">
-                        <a class="branding" href="index">
+                        <a class="branding" href="/">
                             <img src="/files/blueciate.png">
                         </a>
-                        <a href="/About-Us#my-menu" id="naver" class="icon-naver"></a>
+                        <a href="#my-menu" id="naver" class="icon-naver"></a>
                     </aside>
                 </div>
             </div>
