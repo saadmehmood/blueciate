@@ -22,10 +22,10 @@ $fax = '+1-408-656-1932';
     <link rel="stylesheet" href="/files/styles.css">
     <link rel="stylesheet" href="/files/screen.css">
     <link rel="stylesheet" href="/files/style.css">
-    <link rel="stylesheet" href="/icons/style.css"/>
+    <link rel="stylesheet" href="/icons/style.css">
     <link rel="stylesheet" href="/files/jquery.mmenu.all.css">
     <link rel="stylesheet" type="text/css" href="/files/flexslider.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/fontawesome-web/css/all.min.css">
 
     <!-- Modernizr -->
 <!--    <script type="text/javascript" src="./files/modernizr.js.download"></script>-->

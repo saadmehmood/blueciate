@@ -16,44 +16,35 @@ include('head.php');
             <div class="container">
                 <section>
                     <aside class="g lg-twelfths md-one-whole" id="first">
+                        <h3>Blue Ciate Digital Transform</h3>
                         <p style="max-width: 1200px;">
-                            BlueCiate –BPM in collaboration with leading technology partner has a sound financial structure. Furthermore, the product is considered one of the most solid and effective in the market and is used by a multitude of customers worldwide.
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
 
                         </p>
-                        <p>
-                        <ul>
-                            <li>
-                                The company has NEVER needed external capital injections for its operation.
-                            </li>
-                            <li>
-                                During it’s 15 years of existence:
-
-                            </li>
-                            <li>
-                                It has NEVER experienced financial difficulty
-
-                            </li>
-                            <li>
-                                It is ALWAYS making money.
-                            </li>
-                            <li>
-                                The company has made investments in shares supported by pledged loans, which pose ZERO risk to the financial capital of AURA.
-                            </li>
-                            <li>
-                                Conclusion: 100% financial solidity
-                            </li>
-                        </ul>
-                        </p>
+                        <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>
                         <p style="max-width: 1200px;">
-                            The BPM software product is autonomous. It does not require any programming and can be, and in many cases is, used 100% by customers with complete independence from AURA. Its structure allows the client if desired to add their own programming without limitation.
-                            <br>
-                            Differential feature that the competition does not have:
-                            <br>
-                            With AuraQuantic the customer can choose to adapt the system in the future without depending on the vendor or consultancy firms.
-                            <br>
-                            For further details <a href="/contact-us" class="buttonmore">Contuct us</a>.
+                            <span class="fa-2x">Blue Ciate Process Automation</span> <br>
+                            Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
+
                         </p>
                     </aside>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-6 px-0 py-xl-5">
+                        <div class="fa-2x mx-auto" style="width: 275px;">Consultancy Team</div>
+                        <div class="fa-1x mx-auto" style="width: 80%;">Your BPM Success by putting your first project in our hands.</div>
+                        <div class="fa-1x mx-auto mt-4" style="width: 22%;">
+                            <a href="https://www.auraquantic.com/bpm-digital-platform/process-automation" class="buttonmore">Auraquantic</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 px-0">
+                        <img src="/img/rm-1.jpg" height="513px">
+                    </div>
 
                 </section>
             </div>
