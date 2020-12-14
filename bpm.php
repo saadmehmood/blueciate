@@ -65,7 +65,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Business Process Automation</h4>
+                                        <h4 style="color: white;">AuraQuantic Business Process Automation</h4>
                                     </div>
                                 </div>
 
@@ -75,7 +75,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
+                                            <h6>AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h6>
                                             <span style="font-size: 10px;"> that allows you to visually-create and digitize every step of all kind of business processes in one easy-to-use Digital Platform. BPM is the consolidated and unstoppable trend that is changing forever the way to manage operations in organizations, making them much more flexible, highly automated and extremely powerful. | Weaknesses are brought to light and the most relevant activities are strengthened. AuraQuantic increases productivity by 60%-85%. AuraQuantic integrates with existing enterprise software like DYNAMICS and OFFICE 365.</span>
                                         </div>
                                     </div>
@@ -93,7 +93,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Compliance</h4>
+                                        <h4 style="color: white;">AuraQuantic Compliance</h4>
                                     </div>
                                 </div>
 
@@ -103,7 +103,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic GDPR Governance Tool ensures business procedures compliance</h5>
+                                            <h6>AuraQuantic GDPR Governance Tool ensures business procedures compliance</h6>
                                             <span style="font-size: 10px;">“AuraQuantic GDPR Accelerator” / “AuraQuantic GDPR Governance Tool” ensures GDPR business procedures compliance. • Accountability • All Lawful Bases • Validate Lawful Bases • Renew Lawful Bases • Automatic Messaging • Processing and Purpose Assistant • Data Retention Periods • Security Measures • IT System Control • Compulsory Impact Assessment • Proof of No Assessment • List of Risks Included • Risk Mitigation Measures • Guaranteed Execution of Measures • Report Templates • Data Subject Rights • Incident mailbox • Incident Management Process • Security Breach Notification • Sanction Attenuation • Communication Log with Data Processors • Complete Management of the Data Processor • DPO Dashboard • Monitoring for Audits • Creation of New Files • Creation of New Procedures • Flexibility.</span>
                                         </div>
                                     </div>
@@ -121,7 +121,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Finance</h4>
+                                        <h4 style="color: white;">AuraQuantic Finance</h4>
                                     </div>
                                 </div>
 
@@ -131,7 +131,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
+                                            <h6>AuraQuantic Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h6>
                                             <span style="font-size: 10px;">AuraQuantic Finance platform enables managers to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of finance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Finance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%. AuraQuantic BPM Finance requires no additional programming, the cost and time of implementing and carrying out modifications throughout the process’ useful life is drastically reduced (up to 70%).</span>
                                         </div>
                                     </div>
@@ -151,7 +151,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Insurance</h4>
+                                        <h4 style="color: white;">AuraQuantic Insurance</h4>
                                     </div>
                                 </div>
 
@@ -161,7 +161,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Insurance enables managers to check the status of each process.</h5>
+                                            <h6>AuraQuantic Insurance enables managers to check the status of each process.</h6>
                                             <span style="font-size: 10px;">AuraQuantic BPM Insurance enables Management to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Insurance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of insurance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Insurance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%. AuraQuantic BPM Insurance requires no additional programming, the cost and time of implementing and carrying out modifications throughout the process’ useful life is drastically reduced (up to 70%).</span>
                                         </div>
                                     </div>
@@ -179,7 +179,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Manufacturing</h4>
+                                        <h4 style="color: white;">AuraQuantic Manufacturing</h4>
                                     </div>
                                 </div>
 
@@ -189,7 +189,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Manufacturing allows you to visually create and digitize every step of a process</h5>
+                                            <h6>AuraQuantic Manufacturing allows you to visually create and digitize every step of a process</h6>
                                             <span style="font-size: 10px;">AuraQuantic Manufacturing platform is a Zero-Code iBPMS (Intelligent Business Process Management Suite) that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Manufacturing can implement even the most complex processes without any additional programming.If you are on an accelerated expansion scenario you required the implementation of a system to manage the entire group of factories.If a strict control over support processes and investors demanded operation conformity is needed. AuraQuantic Manufacturing perfectly suited to your requirements of a technology platform to manage processes, which includes the areas of Finance, Accounting, HR, IT and Purchasing. The Dynamics, Office 365, Power BI and Microsoft Cognitive Services integration to import data, defining and applying Simulations, training the maintenance team and users, etc. complete the needed strict control over all the companie and operational procedures. You can automated Process for new product launch including prototype, maintenance and purchases; Process to open a new store, Staff Recruitmen; Time-to-market processes, Compliance...</span>
                                         </div>
                                     </div>
@@ -207,7 +207,7 @@ include('head.php');
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
                                         </div>
-                                        <h4>AuraQuantic Energy - Oil and Gas</h4>
+                                        <h4 style="color: white;">AuraQuantic Energy - Oil and Gas</h4>
                                     </div>
                                 </div>
 
