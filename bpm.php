@@ -75,7 +75,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h6>AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h6>
+                                            <h5>AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
                                             <span style="font-size: 10px;"> that allows you to visually-create and digitize every step of all kind of business processes in one easy-to-use Digital Platform. BPM is the consolidated and unstoppable trend that is changing forever the way to manage operations in organizations, making them much more flexible, highly automated and extremely powerful. | Weaknesses are brought to light and the most relevant activities are strengthened. AuraQuantic increases productivity by 60%-85%. AuraQuantic integrates with existing enterprise software like DYNAMICS and OFFICE 365.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
