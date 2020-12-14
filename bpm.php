@@ -8,8 +8,8 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-//        $images = ['bpm-1.png', 'bpm-2.png', 'bpm-3.png', 'bpm-4.png','bpm-5.png', 'bpm-6.png', 'bpm-7.png'];
-//        include('image-slider.php');
+        $images = ['bpm-7.png'];
+        include('image-slider.php');
         ?>
 
         <article id="services" class="hh-services">
@@ -106,7 +106,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
+                                            <h5>AuraQuantic Finance is a Zero-Code iBPMS platform</h5>
                                             <span style="font-size: 10px;">AuraQuantic Finance platform enables managers to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of finance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Finance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%. AuraQuantic BPM Finance requires no additional programming, the cost and time of implementing and carrying out modifications throughout the process’ useful life is drastically reduced (up to 70%).</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
