@@ -8,8 +8,8 @@ include('head.php');
     <div id="wrapper">
         <?php
         require_once 'header-2.php';
-        $images = ['bpm-1.png', 'bpm-2.png', 'bpm-3.png', 'bpm-4.png','bpm-5.png', 'bpm-6.png', 'bpm-7.png'];
-        include('image-slider.php');
+//        $images = ['bpm-1.png', 'bpm-2.png', 'bpm-3.png', 'bpm-4.png','bpm-5.png', 'bpm-6.png', 'bpm-7.png'];
+//        include('image-slider.php');
         ?>
 
         <article id="services" class="hh-services">
