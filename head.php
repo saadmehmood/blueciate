@@ -16,6 +16,8 @@ $fax = '+1-408-656-1932';
         <?php echo $title?>
     </title>
 
+    <link rel="stylesheet" href="./index_files/home-page.css">
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./index_files/style.css">
 
