@@ -90,37 +90,6 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <img src="./img/2.back-view-woman-making-video-260nw-1683359032.webp" alt="">
-                                <div class="overlay-box">
-                                    <div class="content">
-                                        <div class="icon-box">
-                                            <span class="icon flaticon-statistics-1"></span>
-                                        </div>
-                                        <h4 style="color: white;">AuraQuantic Compliance</h4>
-                                    </div>
-                                </div>
-
-                                <div class="overlay-box-two">
-                                    <div class="overlay-inner-two">
-                                        <div class="content">
-                                            <div class="icon-box">
-                                                <span class="icon flaticon-statistics-1"></span>
-                                            </div>
-                                            <h6>AuraQuantic GDPR Governance Tool ensures business procedures compliance</h6>
-                                            <span style="font-size: 10px;">“AuraQuantic GDPR Accelerator” / “AuraQuantic GDPR Governance Tool” ensures GDPR business procedures compliance. • Accountability • All Lawful Bases • Validate Lawful Bases • Renew Lawful Bases • Automatic Messaging • Processing and Purpose Assistant • Data Retention Periods • Security Measures • IT System Control • Compulsory Impact Assessment • Proof of No Assessment • List of Risks Included • Risk Mitigation Measures • Guaranteed Execution of Measures • Report Templates • Data Subject Rights • Incident mailbox • Incident Management Process • Security Breach Notification • Sanction Attenuation • Communication Log with Data Processors • Complete Management of the Data Processor • DPO Dashboard • Monitoring for Audits • Creation of New Files • Creation of New Procedures • Flexibility.</span>
-                                            <br>
-                                            <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
-                                                        class="fa fa-angle-double-right"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-4 col-sm-6 pr-1 pl-1 services-block-four">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
                                 <img src="./img/5.CLOUD.webp" alt="">
                                 <div class="overlay-box">
                                     <div class="content">
@@ -137,7 +106,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h6>AuraQuantic Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h6>
+                                            <h5>AuraQuantic Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
                                             <span style="font-size: 10px;">AuraQuantic Finance platform enables managers to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of finance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Finance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%. AuraQuantic BPM Finance requires no additional programming, the cost and time of implementing and carrying out modifications throughout the process’ useful life is drastically reduced (up to 70%).</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
@@ -148,8 +117,6 @@ include('head.php');
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="row no-gutters mt-2">
                     <div class="col-12 col-lg-4 col-sm-6 pr-1 pl-1 services-block-four">
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
@@ -170,7 +137,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h6>AuraQuantic Insurance enables managers to check the status of each process.</h6>
+                                            <h5>AuraQuantic Insurance enables managers to check the status of each process.</h5>
                                             <span style="font-size: 10px;">AuraQuantic BPM Insurance enables Management to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Insurance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of insurance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Insurance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
@@ -181,6 +148,8 @@ include('head.php');
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="row no-gutters mt-2">
                     <div class="col-12 col-lg-4 col-sm-6 pr-1 pl-1 services-block-four">
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
@@ -201,7 +170,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h6>AuraQuantic Manufacturing allows you to visually create and digitize every step of a process</h6>
+                                            <h5>AuraQuantic Manufacturing allows you to visually create and digitize every step of a process</h5>
                                             <span style="font-size: 10px;">AuraQuantic Manufacturing platform is a Zero-Code iBPMS (Intelligent Business Process Management Suite) that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Manufacturing can implement even the most complex processes without any additional programming.If you are on an accelerated expansion scenario you required the implementation of a system to manage the entire group of factories.If a strict control over support processes and investors demanded operation conformity is needed.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
@@ -232,8 +201,39 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h6>AuraQuantic Oil and Gas automates operational business process for O&G</h6>
+                                            <h5>AuraQuantic Oil and Gas automates operational business process for O&G</h5>
                                             <span style="font-size: 10px;">AuraQuantic Oil and Gas is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Oil and Gas can implement even the most complex processes without any additional programming. If you are on an accelerated expansion scenario you required the implementation of a system to automate Process for the complete Oil and Gas operational cycle including: CAPEX Project Control, Opex Approval flows.</span>
+                                            <br>
+                                            <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
+                                                        class="fa fa-angle-double-right"></span></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-sm-6 pr-1 pl-1 services-block-four">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img src="./img/2.back-view-woman-making-video-260nw-1683359032.webp" alt="">
+                                <div class="overlay-box">
+                                    <div class="content">
+                                        <div class="icon-box">
+                                            <span class="icon flaticon-statistics-1"></span>
+                                        </div>
+                                        <h4 style="color: white;">AuraQuantic Compliance</h4>
+                                    </div>
+                                </div>
+
+                                <div class="overlay-box-two">
+                                    <div class="overlay-inner-two">
+                                        <div class="content">
+                                            <div class="icon-box">
+                                                <span class="icon flaticon-statistics-1"></span>
+                                            </div>
+                                            <h5>AuraQuantic GDPR Governance Tool ensures business procedures compliance</h5>
+                                            <span style="font-size: 10px;">“AuraQuantic GDPR Accelerator” / “AuraQuantic GDPR Governance Tool” ensures GDPR business procedures compliance. • Accountability • All Lawful Bases • Validate Lawful Bases • Renew Lawful Bases • Automatic Messaging • Processing and Purpose Assistant • Data Retention Periods • Security Measures • IT System Control • Compulsory Impact Assessment • Proof of No Assessment • List of Risks Included • Risk Mitigation Measures • Guaranteed Execution of Measures • Report Templates • Data Subject Rights • Incident mailbox • Incident Management Process • Security Breach Notification • Sanction Attenuation • Communication Log with Data Processors • Complete Management of the Data Processor • DPO Dashboard • Monitoring for Audits • Creation of New Files • Creation of New Procedures • Flexibility.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
                                                         class="fa fa-angle-double-right"></span></a>
