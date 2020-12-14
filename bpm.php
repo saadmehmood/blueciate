@@ -232,7 +232,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Oil and Gas automates operational business process for O&G</h5>
+                                            <h6>AuraQuantic Oil and Gas automates operational business process for O&G</h6>
                                             <span style="font-size: 10px;">AuraQuantic Oil and Gas is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Oil and Gas can implement even the most complex processes without any additional programming. If you are on an accelerated expansion scenario you required the implementation of a system to automate Process for the complete Oil and Gas operational cycle including: CAPEX Project Control, Opex Approval flows.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
