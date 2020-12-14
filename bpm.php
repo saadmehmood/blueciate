@@ -75,8 +75,8 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
-                                            <span style="font-size: 10px;"> that allows you to visually-create and digitize every step of all kind of business processes in one easy-to-use Digital Platform. BPM is the consolidated and unstoppable trend that is changing forever the way to manage operations in organizations, making them much more flexible, highly automated and extremely powerful. | Weaknesses are brought to light and the most relevant activities are strengthened. AuraQuantic increases productivity by 60%-85%. AuraQuantic integrates with existing enterprise software like DYNAMICS and OFFICE 365.</span>
+                                            <h5 class="mb-1">AuraQuantic is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform</h5>
+                                            <span style="font-size: 10px;"> that allows you to visually-create and digitize every step of all kind of business processes in one easy-to-use Digital Platform. BPM is the consolidated and unstoppable trend that is changing forever the way to manage operations in organizations, making them much more flexible, highly automated and extremely powerful. | Weaknesses are brought to light and the most relevant activities are strengthened. AuraQuantic increases productivity by 60%-85%.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
                                                         class="fa fa-angle-double-right"></span></a>
@@ -106,8 +106,8 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Finance is a Zero-Code iBPMS platform</h5>
-                                            <span style="font-size: 10px;">AuraQuantic Finance platform enables managers to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of finance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Finance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%.</span>
+                                            <h5 class="mb-1">AuraQuantic Finance is a Zero-Code iBPMS platform</h5>
+                                            <span style="font-size: 10px;">AuraQuantic Finance platform enables managers to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Finance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of finance processes in one easy-to-use Digital Platform.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
                                                         class="fa fa-angle-double-right"></span></a>
@@ -137,8 +137,8 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Insurance enables managers to check the status of each process.</h5>
-                                            <span style="font-size: 10px;">AuraQuantic BPM Insurance enables Management to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Insurance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of insurance processes in one easy-to-use Digital Platform. Compatible with existing systems (ERP, CRM, Legacy apps, etc.). After AuraQuantic BPM Insurance implementation the saving in operational costs is such that the registered Return on Investment (ROI) can easily reach 400%.</span>
+                                            <h5 class="mb-1">AuraQuantic Insurance enables managers to check the status of each process.</h5>
+                                            <span style="font-size: 10px;">AuraQuantic BPM Insurance enables Management to check the status of each process and, based on the established indicators, make well-informed decisions to achieve optimal company development. AuraQuantic BPM Insurance is a Zero-Code iBPMS (Intelligent Business Process Management Suite) Allows you to visually create and digitize every step of all kind of insurance processes in one easy-to-use Digital Platform.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
                                                         class="fa fa-angle-double-right"></span></a>
@@ -170,7 +170,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Manufacturing allows you to visually create and digitize every step of a process</h5>
+                                            <h5 class="mb-1">AuraQuantic Manufacturing</h5>
                                             <span style="font-size: 10px;">AuraQuantic Manufacturing platform is a Zero-Code iBPMS (Intelligent Business Process Management Suite) that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Manufacturing can implement even the most complex processes without any additional programming.If you are on an accelerated expansion scenario you required the implementation of a system to manage the entire group of factories.If a strict control over support processes and investors demanded operation conformity is needed.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
@@ -201,7 +201,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic Oil and Gas automates operational business process for O&G</h5>
+                                            <h5 class="mb-1">AuraQuantic Oil and Gas (O&G)</h5>
                                             <span style="font-size: 10px;">AuraQuantic Oil and Gas is a Zero-Code iBPMS (Intelligent Business Process Management Suite) platform that allows you to visually create and digitize every step of all kind of processes in one easy-to-use Digital Platform compatible with existing systems (ERP, CRM, Legacy apps, etc.). AuraQuantic BPM Oil and Gas can implement even the most complex processes without any additional programming. If you are on an accelerated expansion scenario you required the implementation of a system to automate Process for the complete Oil and Gas operational cycle including: CAPEX Project Control, Opex Approval flows.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
@@ -232,7 +232,7 @@ include('head.php');
                                             <div class="icon-box">
                                                 <span class="icon flaticon-statistics-1"></span>
                                             </div>
-                                            <h5>AuraQuantic GDPR Governance Tool ensures business procedures compliance</h5>
+                                            <h5 class="mb-1">AuraQuantic GDPR Governance</h5>
                                             <span style="font-size: 10px;">“AuraQuantic GDPR Accelerator” / “AuraQuantic GDPR Governance Tool” ensures GDPR business procedures compliance. • Accountability • All Lawful Bases • Validate Lawful Bases • Renew Lawful Bases • Automatic Messaging • Processing and Purpose Assistant • Data Retention Periods • Security Measures • IT System Control • Compulsory Impact Assessment • Proof of No Assessment • List of Risks Included • Risk Mitigation Measures • Guaranteed Execution of Measures • Report Templates • Data Subject Rights • Incident mailbox • Incident Management Process • Security Breach Notification • Sanction Attenuation • Communication Log with Data Processors • Complete Management of the Data Processor.</span>
                                             <br>
                                             <a class="read-more" style="padding: 8px 15px; font-size: 8px" href="https://www.auraquantic.com/bpm-digital-platform/process-automation">Learn More<span
