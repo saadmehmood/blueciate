@@ -30,28 +30,29 @@ include('head.php');
                                 <input type="text" id="firstName" name="firstName" class="form-control" />
                             </div>
 
-                            <!-- Password input -->
                             <div class="form-outline mb-4">
                                 <label class="form-label" for="lastName">Last Name</label>
                                 <input type="text" id="lastName" name="lastName" class="form-control" />
                             </div>
 
-                            <!-- Password input -->
                             <div class="form-outline mb-4">
                                 <label class="form-label" for="emailAddress">Email Address</label>
                                 <input type="text" id="emailAddress" name="emailAddress" class="form-control" />
                             </div>
 
-                            <!-- Password input -->
                             <div class="form-outline mb-4">
                                 <label class="form-label" for="phone">Phone</label>
                                 <input type="text" id="phone" name="phone" class="form-control" />
                             </div>
 
-                            <!-- Password input -->
                             <div class="form-outline mb-4">
                                 <label class="form-label" for="company">Company</label>
                                 <input type="text" id="company" name="company" class="form-control" />
+                            </div>
+
+                            <div class="form-outline mb-4">
+                                <label class="form-label" for="country">Country</label>
+                                <input type="text" id="country" name="country" class="form-control" />
                             </div>
                             <!-- Submit button -->
                             <button type="submit" name="btnSubmit" class="btn btn-primary">Download</button>

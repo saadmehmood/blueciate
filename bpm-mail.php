@@ -4,13 +4,14 @@ $mailStatus = 'error';
 if (isset($_POST['btnSubmit'])) {
 //    var_dump($_POST);
     $to = 'info@blueciate.com';
-    $subject = 'BPMS Solution Mail';
+    $subject = 'BPMS Query';
     $message = '<html><body>';
     $message .= '<h1 style="color:#f40;">Hi!</h1>';
     $message .= '<p style="color:#080;font-size:18px;">Following is detail of contact person</p>';
-    $message .= '<p style="color:#080;font-size:18px;">Name: ' . $_POST['firstNAme'] . ' ' . $_POST['lastNAme'] . '</p>';
+    $message .= '<p style="color:#080;font-size:18px;">Name: ' . $_POST['firstName'] . ' ' . $_POST['lastName'] . '</p>';
     $message .= '<p style="color:#080;font-size:18px;">Email: ' . $_POST['emailAddress'] . '</p>';
     $message .= '<p style="color:#080;font-size:18px;">Phone: ' . $_POST['phone'] . '</p>';
+    $message .= '<p style="color:#080;font-size:18px;">Country: ' . $_POST['country'] . '</p>';
     $message .= '<p style="color:#080;font-size:18px;">Company: ' . $_POST['company'] . '</p>';
     $message .= '</body></html>';
     // To send HTML mail, the Content-type header must be set
