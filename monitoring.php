@@ -29,19 +29,6 @@ include('head.php');
                         </p>
                     </aside>
                 </section>
-                <section class="row mx-0 ">
-                    <div class="col-md-6 px-0 py-xl-5">
-                        <div class="fa-2x mx-auto" style="width: 275px;">Consultancy Team</div>
-                        <div class="fa-1x mx-auto" style="width: 80%;">Your BPM Success by putting your first project in our hands.</div>
-                        <div class="fa-1x mx-auto mt-4" style="width: 22%;">
-                            <a href="https://www.auraquantic.com/bpm-digital-platform/process-automation" class="buttonmore">Auraquantic</a>
-                        </div>
-                    </div>
-                    <div class="col-md-6 px-0">
-                        <img src="/img/rm-1.jpg" height="513px">
-                    </div>
-
-                </section>
             </div>
         </article>
 
