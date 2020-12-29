@@ -9,7 +9,7 @@ require_once 'header.php';
                 It's all about
             </h5>
             <h1 class="sec-row-title ">
-                Relationship Management, Low-Code With Hyper-Automation To Unify Your Data in Digital Platform.
+                Relationship Management,
             </h1>
             <h5>
                 That’s why I BlueCiate..
@@ -58,25 +58,14 @@ require_once 'header.php';
 <!--quicklinks-->
 
 <!--Rewards & Membership-->
-<div class="jumbotron jumbotron-fluid rewards_sec mb-0 pb-0" id="rewards_sec">
+<div class="jumbotron jumbotron-fluid rewards_sec" id="rewards_sec">
   <div class="container text-center">
     <img class="r_img" src="./index_files/1426735.png">
-    <h1 class="r_heading color-dark">Business Process Management Software (BPM)</h1>
-    <h4 class="r_subheading color-dark">Business Process Management (BPM) software solution with Low-Code, Automation made Fast, Simple
-        and makes it easier to build solutions for complex business problems and making digital more human in
-        hyperactive drive.</h4>
+    <h1 class="r_heading color-dark">Relationship Management</h1>
+    <h4 class="r_subheading color-dark">Your customer relationship management into the future with Blueciate XRM
+      Cloud.</h4>
+    <p class="r_lead color-dark">Blueciate Relationships and Interactions with Customers (XRM = B2C).</p>
   </div>
-</div>
-
-<!--Rewards & Membership-->
-<div class="jumbotron jumbotron-fluid rewards_sec" id="rewards_sec">
-    <div class="container text-center">
-<!--        <img class="r_img" src="./index_files/1426735.png">-->
-        <h1 class="r_heading color-dark">Relationship Management</h1>
-        <h4 class="r_subheading color-dark">Your customer relationship management into the future with Blueciate XRM
-            Cloud.</h4>
-        <p class="r_lead color-dark">Blueciate Relationships and Interactions with Customers (XRM = B2C).</p>
-    </div>
 </div>
 
 <!--     <div class="jumbotron jumbotron-fluid rewards_sec" id="rewards_sec">

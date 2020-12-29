@@ -581,6 +581,9 @@ img.r_img {
     transition: all 1000ms ease;
     background-color: rgba(1,32,104,0.90);
 }
+.services-block-four .inner-box .image .overlay-box-green {
+    background-color: rgba(35, 203, 167, 0.90) !important;
+}
 .services-block-four .inner-box .image .overlay-box .content {
     position: relative;
     padding-left: 60px;
@@ -621,6 +624,9 @@ img.r_img {
     -moz-transform: scaleX(0);
     transform: scaleX(0);
     background-color: rgba(1,32,104,0.92);
+}
+.services-block-four .inner-box .image .overlay-box-green-two {
+    background-color: rgba(35, 203, 167, 0.92) !important;
 }
 .services-block-four .inner-box .image .overlay-box-two .overlay-inner-two {
     position: absolute;

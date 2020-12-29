@@ -28,8 +28,21 @@ include('head.php');
                         </p>
                         <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>
                         <p style="max-width: 1200px;">
-                            <span class="fa-2x">Blue Ciate Process Automation</span> <br>
-                            Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
+                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR
+DATA in your Digital Platform.</span> <br>
+                            <b>Unify your data into a single interface with zero-code integrations.</b>
+                            Get the flexibility you need to bring data together from across your
+                            organization into a single interface, so action can be taken when and
+                            where it’s needed. You control your data. No migration, no lock-ins, and
+                            no transaction or storage fees.
+                             Easily integrate with enterprise systems such as Salesforce, SAP,
+                            Oracle, DocuSign, Blue Prism, UiPath and more.
+                             Integrate systems with zero-code, low-code, and industry standard
+                            connectors or build your own with custom APIs.
+                             Remove data silos and orchestrate your data to create a seamless
+                            experience for your users.
+                             Use RPA in a workflow to integrate systems without APIs and leverage
+                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
 
                         </p>
                     </aside>
@@ -60,7 +73,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/1.apps-2558373__480.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -69,7 +82,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-green-two overlay-box-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
@@ -91,7 +104,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/5.CLOUD.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box  overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -100,7 +113,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-two overlay-box-green-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
@@ -122,7 +135,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/4.business-3528035__480.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -131,7 +144,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-two overlay-box-green-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
@@ -155,7 +168,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/3.bulletin-board-3233643__480.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -164,7 +177,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-two overlay-box-green-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
@@ -186,7 +199,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/8.hand-3108158__480.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -195,7 +208,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-two overlay-box-green-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
@@ -217,7 +230,7 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img src="./img/2.back-view-woman-making-video-260nw-1683359032.webp" alt="">
-                                <div class="overlay-box">
+                                <div class="overlay-box overlay-box-green">
                                     <div class="content">
                                         <div class="icon-box">
                                             <span class="icon flaticon-statistics-1"></span>
@@ -226,7 +239,7 @@ include('head.php');
                                     </div>
                                 </div>
 
-                                <div class="overlay-box-two">
+                                <div class="overlay-box-two overlay-box-green-two">
                                     <div class="overlay-inner-two">
                                         <div class="content">
                                             <div class="icon-box">
