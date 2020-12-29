@@ -18,7 +18,7 @@
                             <li><a href="/internet-of-things">Internet of Things (IoT)</a></li>
                             <li><a href="/small-business">Small & Mid Size Business</a></li>
                             <li><a href="/Services/Staffing">Resource Management</a></li>
-                            <li><a href="/cloud-application-monitoring">Cloud & Application Monitoring</a></li>
+                            <li><a href="/monitoring">Cloud & Application Monitoring</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 item-footer">
