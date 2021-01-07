@@ -15,7 +15,14 @@ $fax = '+1-408-656-1932';
     <title>
         <?php echo $title?>
     </title>
-
+    <meta name="og:locale" property="og:locale" content="en_US">
+    <meta name="og:type" property="og:type" content="article">
+    <meta name="og:site_name" property="og:site_name" content="Blueciate Inc">
+    <meta name="og:title" property="og:title" content="<?php echo $title?>">
+    <?php if ($metaDescription) {?>
+    <meta name="description" content="<?php echo $metaDescription?>">
+    <meta name="og:description" property="og:description" content="<?php echo $metaDescription?>">
+    <?php }?>
     <link rel="stylesheet" href="./index_files/home-page.css">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">

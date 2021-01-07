@@ -1,5 +1,6 @@
 ﻿<?php
-$title = 'Consulting :- Blueciate Inc';
+$title = 'Business Process Management :- Blueciate Inc';
+$metaDescription = 'AI, ANALYTICS, ARTIFICIAL INTELLIGENCE, AUGMENTED INTELLIGENCE, AWARDS, AZURE, BPM, BPMS, BUSINESS, BUSINESS PROCESS MANAGEMENT, BUSINESS RULES, BUSINESS SOLUTION, CLOUD COMMUNICATION, DIGITAL BUSINESS, DIGITAL PLATFORM, DIGITAL TRANSFORMATION, DOCUMENT MANAGEMENT, EDUCACIÓN, EDUCATION, ENTERPRISE SOLUTIONS, EVENTS, FAMILY WORK BALANCED, GARTNER, HYPERAUTOMATION, IBPMS, INNOVATION, INTEGRATION, INTELLIGENT APPLICATION, INTELLIGENT AUTOMATION, INTELLIGENT BUSINESS, INTELLIGENT PROCESSES, IT, LOW CODE, MACHINE LEARNING, MICROSOFT, MOBILITY, NEWS, PROCESS AUTOMATION, REMOTE WORK, REPORT, RPA, SAP, TECHNOLOGY, TRASFORMACIÓN, DIGITAL';
 include('head.php');
 ?>
 <body>
@@ -49,10 +50,14 @@ DATA in your Digital Platform.</span> <br>
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-6 px-0 py-xl-5">
-                        <div class="fa-2x mx-auto" style="width: 275px;">Consultancy Team</div>
-                        <div class="fa-1x mx-auto" style="width: 80%;">Your BPM Success by putting your first project in our hands.</div>
-                        <div class="fa-1x mx-auto mt-4" style="width: 22%;">
+                        <div class="fa-2x mx-auto" style="text-align: center;">Consultancy Team</div>
+                        <div class="fa-1x mx-auto" style="text-align: center;">Your BPM Success by putting your first project in our hands.</div>
+                        <div class="fa-1x mx-auto mt-4" style="text-align: center;">
                             <a href="https://www.auraquantic.com/bpm-digital-platform/process-automation" class="buttonmore">Auraquantic</a>
+                        </div>
+                        <div class="fa-1x mx-auto mt-2" style="text-align: center;">Accelerate Your Digital Transformation WhitePaper.</div>
+                        <div class="fa-1x mx-auto mt-4" style="text-align: center;">
+                            <a href="BPMS-Ready" class="buttonmore">Download</a>
                         </div>
                     </div>
                     <div class="col-md-6 px-0">

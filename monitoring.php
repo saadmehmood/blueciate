@@ -1,5 +1,6 @@
 ﻿<?php
-$title = 'bpm monitoring :- Blueciate Inc';
+$title = 'cloud & application monitoring :- Blueciate Inc';
+$metaDescription = 'The monitoring solution for all areas of IT, Network Latency, firewall Monitoring, Ip Monitoring, LAN Monitoring, Wifi Monitoring, Network Monitoring Software, Network Optimization, Network Security Monitoring and Network Latency.';
 include('head.php');
 ?>
 <body>
@@ -41,7 +42,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/firewall_monitoring"><img src="./img/montoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/firewall_monitoring"><img src="./img/montoring.png" alt="firewall Monitoring"></a>
                             </div>
                         </div>
                     </div>
@@ -49,7 +50,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/ip_monitoring"><img src="./img/ip-monitoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/ip_monitoring"><img src="./img/ip-monitoring.png" alt="Ip Monitoring"></a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +58,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/lan_monitor"><img src="./img/lan-monitoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/lan_monitor"><img src="./img/lan-monitoring.png" alt="LAN Monitoring"></a>
                             </div>
                         </div>
                     </div>
@@ -65,7 +66,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/wifi-monitoring"><img src="./img/wifi-monitoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/wifi-monitoring"><img src="./img/wifi-monitoring.png" alt="Wifi Monitoring"></a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +76,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/network-monitoring-software"><img src="./img/network-diagnosis.png" alt=""></a>
+                                <a href="https://www.paessler.com/network-monitoring-software"><img src="./img/network-diagnosis.png" alt="Network Monitoring Software"></a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +84,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/network-optimization"><img src="./img/network-monitoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/network-optimization"><img src="./img/network-monitoring.png" alt="Network Optimization"></a>
                             </div>
                         </div>
                     </div>
@@ -91,7 +92,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/network-security-monitoring"><img src="./img/network.png" alt=""></a>
+                                <a href="https://www.paessler.com/network-security-monitoring"><img src="./img/network.png" alt="Network Security Monitoring"></a>
                             </div>
                         </div>
                     </div>
@@ -99,7 +100,7 @@ include('head.php');
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
-                                <a href="https://www.paessler.com/network_latency"><img src="./img/latency-monitoring.png" alt=""></a>
+                                <a href="https://www.paessler.com/network_latency"><img src="./img/latency-monitoring.png" alt="Network Latency"></a>
                             </div>
                         </div>
                     </div>
