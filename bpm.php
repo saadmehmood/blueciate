@@ -3,6 +3,21 @@ $title = 'Business Process Management :- Blueciate Inc';
 $metaDescription = 'AI, ANALYTICS, ARTIFICIAL INTELLIGENCE, AUGMENTED INTELLIGENCE, AWARDS, AZURE, BPM, BPMS, BUSINESS, BUSINESS PROCESS MANAGEMENT, BUSINESS RULES, BUSINESS SOLUTION, CLOUD COMMUNICATION, DIGITAL BUSINESS, DIGITAL PLATFORM, DIGITAL TRANSFORMATION, DOCUMENT MANAGEMENT, EDUCACIÓN, EDUCATION, ENTERPRISE SOLUTIONS, EVENTS, FAMILY WORK BALANCED, GARTNER, HYPERAUTOMATION, IBPMS, INNOVATION, INTEGRATION, INTELLIGENT APPLICATION, INTELLIGENT AUTOMATION, INTELLIGENT BUSINESS, INTELLIGENT PROCESSES, IT, LOW CODE, MACHINE LEARNING, MICROSOFT, MOBILITY, NEWS, PROCESS AUTOMATION, REMOTE WORK, REPORT, RPA, SAP, TECHNOLOGY, TRASFORMACIÓN, DIGITAL';
 include('head.php');
 ?>
+<style>
+    .modal {
+        z-index: 1050;
+    }
+    .video-overlay {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        opacity: 0.75;
+        color: transparent;
+        cursor: pointer;
+    }
+</style>
 <body>
 
 <div class="mm-page mm-slideout">
@@ -262,9 +277,118 @@ DATA in your Digital Platform.</span> <br>
                         </div>
                     </div>
                 </div>
+                <div class="container-fluid">
+                    <div class="row row-cols-5 text-cente">
+                    <div class="col">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="AuraQuantic iBPMS - Zero-Code Application Development Platform thumbnail" role="button" aria-label="AuraQuantic iBPMS - Zero-Code Application Development Platform video">
+<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="0">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.22866.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.9851c582-6fab-4409-84f0-211585aeb9ac" alt="AuraQuantic Architecture (Software &amp; Hardware) thumbnail" role="button" aria-label="AuraQuantic Architecture (Software &amp; Hardware) video">
+<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="1">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.46859.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.cd3c7387-0dac-4e5c-b52a-320bb2d8a16d" alt="What is BPM / BPMS / iBPMS (Business Process Management)? thumbnail" role="button" aria-label="What is BPM / BPMS / iBPMS (Business Process Management)? video">
+<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="2">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.24439.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8feb3aad-e718-4904-afb2-f9f0a3ad1943" alt="Process Automation in 3 Steps thumbnail" role="button" aria-label="Process Automation in 3 Steps video">
+<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="3">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="4" itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.64057.171428a8-79a7-4e0a-acf0-ff6521e2c98b.645768ce-bf32-4f66-b020-d25070667a96.547c1c87-1a8d-43d6-8f0f-ecba56377c96" alt="Unavailable thumbnail" role="button" aria-label="Unavailable image">
+<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </div>
             </div>
         </section>
-        <!--BLOCK SECTION-->
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body p-0">
+                        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/PMeNAFSKkpQ?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel-item">
+                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/0qh7ZrJJjOg?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                </div>
+                                <div class="carousel-item">
+                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/ld6E_PJXg_k?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="What is BPM / BPMS / iBPMS (Business Process Management)?"></iframe>
+                                </div>
+                                <div class="carousel-item">
+                                    <iframe style="width: 100%; height: 380px;" class="embedded-video" title="Process Automation in 3 Steps" width="100%" height="380px" src="https://www.youtube.com/embed/TZLe74T0pcU?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0"></iframe>
+                                </div>
+                                <div class="carousel-item">
+                                    <img style="width: 100%; height: 380px;" src="https://store-images.s-microsoft.com/image/apps.64057.171428a8-79a7-4e0a-acf0-ff6521e2c98b.645768ce-bf32-4f66-b020-d25070667a96.547c1c87-1a8d-43d6-8f0f-ecba56377c96">
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <br/>
         <article id="contact--details" class="block">
@@ -314,24 +438,26 @@ DATA in your Digital Platform.</span> <br>
 </div>
 
 <!-- jQuery -->
-
-<script src="../js/jquery.js"></script>
-<script src="../js/slick.min.js"></script>
-<script src="../js/share.min.js"></script>
-<script src="../js/classie.js"></script>
-<script src="../js/elements.js"></script>
-<script src="../js/jquery.animate-enhanced.min.js"></script>
-<script src="../js/jquery.superslides.min.js"></script>
-<script src="../js/jquery.easing.js"></script>
-<script src="../js/hammer.min.js"></script>
-<script src="../js/scriptmap.js"></script>
-<script src="../js/gmap.js"></script>
-<script src="../js/validate.min.js"></script>
-<script src="../js/jquery.mmenu.min.all.js"></script>
-<script src="../js/theater.min.js"></script>
-<script src="../js/jquery.superslides.min.js"></script>
-<script src="../js/jquery.flexslider-min.js"></script>
-<script src="../js/imagelightbox.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<!--<script src="../js/jquery.js"></script>-->
+<!--<script src="../js/slick.min.js"></script>-->
+<!--<script src="../js/share.min.js"></script>-->
+<!--<script src="../js/classie.js"></script>-->
+<!--<script src="../js/elements.js"></script>-->
+<!--<script src="../js/jquery.animate-enhanced.min.js"></script>-->
+<!--<script src="../js/jquery.superslides.min.js"></script>-->
+<!--<script src="../js/jquery.easing.js"></script>-->
+<!--<script src="../js/hammer.min.js"></script>-->
+<!--<script src="../js/scriptmap.js"></script>-->
+<!--<script src="../js/gmap.js"></script>-->
+<!--<script src="../js/validate.min.js"></script>-->
+<!--<script src="../js/jquery.mmenu.min.all.js"></script>-->
+<!--<script src="../js/theater.min.js"></script>-->
+<!--<script src="../js/jquery.superslides.min.js"></script>-->
+<!--<script src="../js/jquery.flexslider-min.js"></script>-->
+<!--<script src="../js/imagelightbox.min.js"></script>-->
 
 <!-- use this url for more information about share button plugin -->
 <!-- https://github.com/carrot/share-button/wiki/Configuration-Options -->
