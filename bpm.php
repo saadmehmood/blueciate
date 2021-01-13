@@ -17,6 +17,26 @@ include('head.php');
         color: transparent;
         cursor: pointer;
     }
+    .modal-lg {
+        max-width: 60%;
+    }
+    .video-iframe {
+        width: 100%;
+        height: 600px;
+    }
+    .carousel-item {
+        text-align: center;
+    }
+    .modal-content {
+        background-color: transparent;
+        border: 0px;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        width: 5%;
+    }
+    .modal-header {
+        border: 0px;
+    }
 </style>
 <body>
 
@@ -277,8 +297,8 @@ DATA in your Digital Platform.</span> <br>
                         </div>
                     </div>
                 </div>
-                <div class="container-fluid">
-                    <div class="row row-cols-5 text-cente">
+                <div class="container-fluid mt-5">
+                    <div class="row row-cols-4 text-cente">
                     <div class="col">
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
@@ -287,7 +307,7 @@ DATA in your Digital Platform.</span> <br>
 <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
                             </div>
                             <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="0">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/PMeNAFSKkpQ">
                             </div>
                         </div>
                     </div>
@@ -299,7 +319,7 @@ DATA in your Digital Platform.</span> <br>
 <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
                             </div>
                             <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="1">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/0qh7ZrJJjOg">
                             </div>
                         </div>
                     </div>
@@ -311,7 +331,7 @@ DATA in your Digital Platform.</span> <br>
 <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
                             </div>
                             <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="2">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/ld6E_PJXg_k">
                             </div>
                         </div>
                     </div>
@@ -323,16 +343,7 @@ DATA in your Digital Platform.</span> <br>
 <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
                             </div>
                             <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="3">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
-                                <img data-toggle="modal" data-target="#exampleModalCenter" data-slide-to="4" itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.64057.171428a8-79a7-4e0a-acf0-ff6521e2c98b.645768ce-bf32-4f66-b020-d25070667a96.547c1c87-1a8d-43d6-8f0f-ecba56377c96" alt="Unavailable thumbnail" role="button" aria-label="Unavailable image">
-<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/TZLe74T0pcU">
                             </div>
                         </div>
                     </div>
@@ -342,6 +353,19 @@ DATA in your Digital Platform.</span> <br>
         </section>
 
         <!-- Modal -->
+        <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <div>
+                            <iframe class="video-iframe" src="" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered modal-lg">
                 <div class="modal-content">
@@ -361,19 +385,16 @@ DATA in your Digital Platform.</span> <br>
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/PMeNAFSKkpQ?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="video-iframe" src="https://www.youtube.com/embed/PMeNAFSKkpQ?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <div class="carousel-item">
-                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/0qh7ZrJJjOg?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe class="video-iframe" src="https://www.youtube.com/embed/0qh7ZrJJjOg?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                                 <div class="carousel-item">
-                                    <iframe style="width: 100%; height: 380px;" src="https://www.youtube.com/embed/ld6E_PJXg_k?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="What is BPM / BPMS / iBPMS (Business Process Management)?"></iframe>
+                                    <iframe class="video-iframe" src="https://www.youtube.com/embed/ld6E_PJXg_k?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="What is BPM / BPMS / iBPMS (Business Process Management)?"></iframe>
                                 </div>
                                 <div class="carousel-item">
-                                    <iframe style="width: 100%; height: 380px;" class="embedded-video" title="Process Automation in 3 Steps" width="100%" height="380px" src="https://www.youtube.com/embed/TZLe74T0pcU?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0"></iframe>
-                                </div>
-                                <div class="carousel-item">
-                                    <img style="width: 100%; height: 380px;" src="https://store-images.s-microsoft.com/image/apps.64057.171428a8-79a7-4e0a-acf0-ff6521e2c98b.645768ce-bf32-4f66-b020-d25070667a96.547c1c87-1a8d-43d6-8f0f-ecba56377c96">
+                                    <iframe class="video-iframe" class="embedded-video" title="Process Automation in 3 Steps" src="https://www.youtube.com/embed/TZLe74T0pcU?&showinfo=0&rel=0&modestbranding=1&cc_load_policy=1&enablejsapi=1" frameborder="0"></iframe>
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -463,6 +484,25 @@ DATA in your Digital Platform.</span> <br>
 <!-- https://github.com/carrot/share-button/wiki/Configuration-Options -->
 <script src="../js/scripts.js"></script>
 
+<script>
+    //FUNCTION TO GET AND AUTO PLAY YOUTUBE VIDEO FROM DATATAG
+    function autoPlayYouTubeModal(){
+        var trigger = $("body").find('[data-toggle="modal"]');
+        trigger.click(function() {
+            var theModal = $(this).data( "target" ),
+                videoSRC = $(this).attr( "data-theVideo" ),
+                videoSRCauto = videoSRC+"?autoplay=1" ;
+            $(theModal+' iframe').attr('src', videoSRCauto);
+            $(theModal+' button.close').click(function () {
+                $(theModal+' iframe').attr('src', videoSRC);
+            });
+        });
+    }
+
+    $(document).ready(function(){
+        autoPlayYouTubeModal();
+    });
+</script>
 </body>
 
 
