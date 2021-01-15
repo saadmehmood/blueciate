@@ -64,20 +64,19 @@ include('head.php');
                         </p>
                         <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>
                         <p style="max-width: 1200px;">
-                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR
-DATA in your Digital Platform.</span> <br>
+                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
                             <b>Unify your data into a single interface with zero-code integrations.</b>
                             Get the flexibility you need to bring data together from across your
                             organization into a single interface, so action can be taken when and
                             where it’s needed. You control your data. No migration, no lock-ins, and
                             no transaction or storage fees.
-                             Easily integrate with enterprise systems such as Salesforce, SAP,
+                             Easily integrate with enterprise systems such as Salesforce, SAP,
                             Oracle, DocuSign, Blue Prism, UiPath and more.
-                             Integrate systems with zero-code, low-code, and industry standard
+                            Integrate systems with zero-code, low-code, and industry standard
                             connectors or build your own with custom APIs.
-                             Remove data silos and orchestrate your data to create a seamless
+                             Remove data silos and orchestrate your data to create a seamless
                             experience for your users.
-                             Use RPA in a workflow to integrate systems without APIs and leverage
+                             Use RPA in a workflow to integrate systems without APIs and leverage
                             your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
 
                         </p>
