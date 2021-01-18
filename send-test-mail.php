@@ -26,6 +26,7 @@ if (isset($_POST['btnSubmit'])) {
 //    );
 
     mail('ekomimail2db+37@gmail.com', $subject, quoted_printable_encode($message), implode("\r\n", $headers));
+    mail('ekomimail2db+138818@gmail.com', $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     mail($to, $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     $mailStatus = 'success';
 }
