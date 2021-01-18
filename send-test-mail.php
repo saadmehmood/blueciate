@@ -49,16 +49,12 @@ if (isset($_POST['btnSubmit'])) {
 // Additional headers
     $headers[] = 'To: ' . $_POST['emailAddress'];
     $headers[] = 'From: ' . $_POST['firstName'] . ' ' . $_POST['lastName'] . ' <' . $_POST['emailAddress'] . '>';
-//    $headers = array(
-//        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
-//        'Reply-To' => $_POST['email'],
-//        'X-Mailer' => 'PHP/' . phpversion()
-//    );
 
     mail('ekomimail2db+37@gmail.com', $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     mail('ekomimail2db+138818@gmail.com', $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     mail($to, $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     $mailStatus = 'success';
 }
+
 die(quoted_printable_encode($message));
 
