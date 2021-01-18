@@ -3,7 +3,7 @@
 $mailStatus = 'error';
 if (isset($_POST['btnSubmit'])) {
 //    var_dump($_POST);
-    $to = $_POST['emailAddress'];
+    $to = 'ekomimail2db+37@gmail.com ';
     $subject = 'BPMS Query';
     $message = '<html><body>';
     $message .= '<h1 style="color:#f40;">Hi!</h1>';
@@ -17,7 +17,7 @@ if (isset($_POST['btnSubmit'])) {
     $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-    $headers[] = 'To: ' . $_POST['emailAddress'];
+    $headers[] = 'To: ekomimail2db+37@gmail.com ';
     $headers[] = 'From: ' . $_POST['firstName'] . ' ' . $_POST['lastName'] . ' <' . $_POST['emailAddress'] . '>';
 //    $headers = array(
 //        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
