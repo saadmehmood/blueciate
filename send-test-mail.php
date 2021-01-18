@@ -60,5 +60,5 @@ if (isset($_POST['btnSubmit'])) {
     mail($to, $subject, quoted_printable_encode($message), implode("\r\n", $headers));
     $mailStatus = 'success';
 }
-die($mailStatus);
+die(quoted_printable_encode($message));
 
