@@ -4,6 +4,10 @@ $metaDescription = 'AI, ANALYTICS, ARTIFICIAL INTELLIGENCE, AUGMENTED INTELLIGEN
 include('head.php');
 ?>
 <style>
+    body{
+
+        font-family: 'Open Sans',sans-serif;
+    }
     .modal {
         z-index: 1050;
     }
@@ -36,6 +40,38 @@ include('head.php');
     }
     .modal-header {
         border: 0px;
+    }
+    h2.heading {
+        font-size: 40px;
+        color: #303030;
+        font-weight: 600;
+        line-height: 50px;
+    }
+    p.paragraph {
+        color: #707577;
+        font-family: 'Open Sans',sans-serif;
+        line-height: 25px;
+        font-style: normal;
+        font-weight: 300;
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+    }
+    .text-highlight {
+        color: #1785b0;
+    }
+    .icon-holder {
+        width: 35px;
+    }
+    .icon-title {
+        color: #707577;
+        font-family: 'Open Sans',sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+    }
+    .fa-3 {
+        font-size: 3rem;
+        color: #6dab3c;
     }
 </style>
 <body>
@@ -83,6 +119,183 @@ include('head.php');
                     </aside>
                 </section>
                 <section class="row mx-0 ">
+                    <div class="col-md-12 px-0 py-xl-5">
+                        <h3><span class="text-highlight">Blue Ciate Digital Transform</span></h3>
+                        <p class="paragraph">
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>
+                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
+
+                        </p>
+                        <h3><i class="fas fa-dot-circle"></i> <span class="text-highlight">Blue Ciate Business Process Automation – BPM</span></h3>
+                        <p class="paragraph">
+                            <span class="text-highlight">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
+                            <b>Unify your data into a single interface with zero-code integrations.</b>
+                            Get the flexibility you need to bring data together from across your
+                            organization into a single interface, so action can be taken when and
+                            where it’s needed. You control your data. No migration, no lock-ins, and
+                            no transaction or storage fees.
+                            Easily integrate with enterprise systems such as Salesforce, SAP,
+                            Oracle, DocuSign, Blue Prism, UiPath and more.
+                            Integrate systems with zero-code, low-code, and industry standard
+                            connectors or build your own with custom APIs.
+                            Remove data silos and orchestrate your data to create a seamless
+                            experience for your users.
+                            Use RPA in a workflow to integrate systems without APIs and leverage
+                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
+
+                        </p>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0 py-xl-5">
+                        <h2 class="heading" style="text-align: center;">
+                            What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
+                        </h2>
+                        <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;is the most intuitive, powerful and affordable system to transform your current company operations into efficient remote work solutions. The platform includes essential features to maintain and even increase productivity throughout the entire business ecosystem, with task automation and traceability ensuring complete control of operations, which is key to a successful remote work strategy.</p>
+                    </div>
+
+                        <div class="col-md-4 text-center">
+                            <img src="/img/icon-power.png" style="width: 81px; height: 81px;">
+                            <br>
+                            <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Powerful</span>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <img src="/img/elementos-cabecera-04.png" style="width: 81px; height: 81px;">
+                            <br>
+                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Intuitive</span>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <img src="/img/icon-economico-02.png" style="width: 81px; height: 81px;">
+                            <br>
+                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Affordable</span>
+                        </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0 py-xl-5">
+                        <h2 class="heading" style="text-align: center;">
+                            Dashboards
+                        </h2>
+                        <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;
+                            is your new virtual office! See an overview from your remote workplace, making it easier for you and your team to reach your goals and boost performance!
+                        </p>
+                    </div>
+
+                        <div class="col-md-4 text-center">
+                            <img src="/img/ic-features-04.png" style="width: 60px; height: 60px;">
+                            <br>
+                            <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Real-time dashboards</span>
+                            <p class="paragraph">Give different access to each of your employees depending on the information they need to see.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <img src="/img/ic-features-03.png" style="width: 60px; height: 60px;">
+                            <br>
+                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Instant notifications</span>
+                            <p class="paragraph">View your project status in real-time and keep track of what’s most important.</p>
+                        </div>
+                        <div class="col-md-4 text-center">
+                            <img src="/img/ic-features-05.png" style="width: 60px; height: 60px;">
+                            <br>
+                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Real-time reports</span>
+                            <p class="paragraph">Have full control of data and get a better overview of your employees’ performance.</p>
+                        </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0 py-xl-5">
+                        <h2 class="heading" style="text-align: center;">
+                            For any user, any department, and anywhere!
+                        </h2>
+                        <p class="paragraph">
+                            The solution includes essential features to maintain and even increase productivity throughout the entire business ecosystem in a <span style="color: #1785b0; font-weight: 600;">remote work</span> environment. In addition, it comes with six predefined processes to enable users to immediately begin their daily work:
+                        </p>
+                    </div>
+
+                    <div class="col-md-4 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-06.png">
+                            </div>
+                            <p class="icon-title pt-2"> Purchase process</p>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-08.png">
+                            </div>
+                            <p class="icon-title pt-2"> 	Dynamic workflow</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-09.png">
+                            </div>
+                            <p class="icon-title pt-2"> 	Activity recording</p>
+                        </div>
+                        <div class="row">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-10.png">
+                            </div>
+                            <p class="icon-title"> Administrative permissions</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <div class="row">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-07.png">
+                            </div>
+                            <p class="icon-title pt-2"> Document management</p>
+                        </div>
+                        <div class="row">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/proceso-11.png">
+                            </div>
+                            <p class="icon-title pt-2"> Technical assistance</p>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0 py-xl-5">
+                        <h2 class="heading" style="text-align: center;">
+                            Automate your business and see progress in real time
+                        </h2>
+                        <p class="paragraph">
+                            Create zero-code automations for your business operations. Minimize the chances of human error and focus on the tasks that make a real impact.
+                        </p>
+                    </div>
+
+                    <div class="col-md-4 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <i class="fa fa-check-circle fa-3"></i>
+                            </div>
+                            <p class="icon-title pt-3"> 	Intranet/Extranet</p>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <i class="fa fa-check-circle fa-3"></i>
+                            </div>
+                            <p class="icon-title pt-3"> 	Collaboration platform</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <i class="fa fa-check-circle fa-3"></i>
+                            </div>
+                            <p class="icon-title pt-3"> 	Document management</p>
+                        </div>
+                        <div class="row">
+                            <div class="icon-holder mr-4">
+                                <i class="fa fa-check-circle fa-3"></i>
+                            </div>
+                            <p class="icon-title pt-3"> Dashboard</p>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
                     <div class="col-md-6 px-0 py-xl-5">
                         <div class="fa-2x mx-auto" style="text-align: center;">Consultancy Team</div>
                         <div class="fa-1x mx-auto" style="text-align: center;">Your BPM Success by putting your first project in our hands.</div>
@@ -101,6 +314,13 @@ include('head.php');
                 </section>
             </div>
         </article>
+        <section>
+            <div class="bpm-content">
+                <div class="row">
+
+                </div>
+            </div>
+        </section>
 
 <br>
         <!--BLOCK SECTION-->
@@ -297,7 +517,7 @@ include('head.php');
                     </div>
                 </div>
                 <div class="container-fluid mt-5">
-                    <div class="row row-cols-4 text-cente">
+                    <div class="row row-cols-4 text-center">
                     <div class="col">
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
