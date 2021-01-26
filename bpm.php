@@ -55,7 +55,8 @@ include('head.php');
         font-weight: 300;
         width: 100%;
         font-size: 18px;
-        text-align: center;
+        text-align: justify;
+        text-align-last: center;
     }
     .text-highlight {
         color: #1785b0;
@@ -73,6 +74,23 @@ include('head.php');
         font-size: 3rem;
         color: #6dab3c;
     }
+    .low-code-video {
+        margin: 0 auto;
+    }
+    .top-on-img {
+        position: absolute;
+        width: 72%;
+        top: 14.8%;
+        left: 14%;
+    }
+    p.paragraph-small {
+        color: #707577;
+        font-family: 'Open Sans',sans-serif;
+        font-size: 17px;
+        line-height: 25px;
+        font-style: normal;
+        font-weight: 300;
+    }
 </style>
 <body>
 
@@ -86,42 +104,42 @@ include('head.php');
 
         <article id="services" class="hh-services">
             <div class="container">
-                <section>
-                    <aside class="g lg-twelfths md-one-whole" id="first">
-                        <h3>Blue Ciate Digital Transform</h3>
-                        <p style="max-width: 1200px;">
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
-
-                        </p>
-                        <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>
-                        <p style="max-width: 1200px;">
-                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
-                            <b>Unify your data into a single interface with zero-code integrations.</b>
-                            Get the flexibility you need to bring data together from across your
-                            organization into a single interface, so action can be taken when and
-                            where it’s needed. You control your data. No migration, no lock-ins, and
-                            no transaction or storage fees.
-                             Easily integrate with enterprise systems such as Salesforce, SAP,
-                            Oracle, DocuSign, Blue Prism, UiPath and more.
-                            Integrate systems with zero-code, low-code, and industry standard
-                            connectors or build your own with custom APIs.
-                             Remove data silos and orchestrate your data to create a seamless
-                            experience for your users.
-                             Use RPA in a workflow to integrate systems without APIs and leverage
-                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
-
-                        </p>
-                    </aside>
+<!--                <section>-->
+<!--                    <aside class="g lg-twelfths md-one-whole" id="first">-->
+<!--                        <h3>Blue Ciate Digital Transform</h3>-->
+<!--                        <p style="max-width: 1200px;">-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>-->
+<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>-->
+<!---->
+<!--                        </p>-->
+<!--                        <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>-->
+<!--                        <p style="max-width: 1200px;">-->
+<!--                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>-->
+<!--                            <b>Unify your data into a single interface with zero-code integrations.</b>-->
+<!--                            Get the flexibility you need to bring data together from across your-->
+<!--                            organization into a single interface, so action can be taken when and-->
+<!--                            where it’s needed. You control your data. No migration, no lock-ins, and-->
+<!--                            no transaction or storage fees.-->
+<!--                             Easily integrate with enterprise systems such as Salesforce, SAP,-->
+<!--                            Oracle, DocuSign, Blue Prism, UiPath and more.-->
+<!--                            Integrate systems with zero-code, low-code, and industry standard-->
+<!--                            connectors or build your own with custom APIs.-->
+<!--                             Remove data silos and orchestrate your data to create a seamless-->
+<!--                            experience for your users.-->
+<!--                             Use RPA in a workflow to integrate systems without APIs and leverage-->
+<!--                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.-->
+<!---->
+<!--                        </p>-->
+<!--                    </aside>-->
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
                         <h3><span class="text-highlight">Blue Ciate Digital Transform</span></h3>
-                        <p class="paragraph">
+                        <p class="paragraph" style="text-align-last: left;">
                             <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
                             <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
                             <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
@@ -131,7 +149,7 @@ include('head.php');
 
                         </p>
                         <h3><i class="fas fa-dot-circle"></i> <span class="text-highlight">Blue Ciate Business Process Automation – BPM</span></h3>
-                        <p class="paragraph">
+                        <p class="paragraph" style="text-align-last: left;">
                             <span class="text-highlight">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
                             <b>Unify your data into a single interface with zero-code integrations.</b>
                             Get the flexibility you need to bring data together from across your
@@ -151,7 +169,30 @@ include('head.php');
                     </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            Low-code Application Platform  <span style="color: #1785b0;">(LCAP)</span>
+                        </h2>
+                        <p class="paragraph">
+                            AuraQuantic is a business software platform designed for business users (citizen developers) to build their business applications fast and easily.
+                        </p>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            Create your Business Applications faster
+                        </h2>
+                        <p class="paragraph">
+                            AuraQuantic is the most <span style="color: #1785b0; font-weight: 600;">complete low-code platform</span> for building the enterprise solutions that drive Digital Transformation.
+                        </p>
+                        <p class="paragraph">
+                                <video class="low-code-video" autoplay="" loop="" muted=""> <source src="/videos/Application-explained.mp4" type="video/mp4"></video>
+                        </p>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
                         </h2>
@@ -175,7 +216,7 @@ include('head.php');
                         </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             Dashboards
                         </h2>
@@ -204,7 +245,7 @@ include('head.php');
                         </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             For any user, any department, and anywhere!
                         </h2>
@@ -257,7 +298,7 @@ include('head.php');
                     </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             Automate your business and see progress in real time
                         </h2>
@@ -296,7 +337,280 @@ include('head.php');
                     </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-6 px-0 py-xl-5">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            Automate your business in just 3 steps
+                        </h2>
+                        <p class="paragraph">
+                            To create a process, you need to create a <strong>model</strong> with the necessary information. This model is developed in three phases: <strong>draw</strong> the diagram, <strong>define</strong> the attributes of the objects that appear in the diagram and <strong>execute</strong> the process
+                        </p>
+                    </div>
+
+                    <div class="col-md-2 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <img src="/img/pa-02.png">
+                            </div>
+                            <div>
+                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 1: Draw</span>
+                            </div>
+                            <div>
+                                <p style="text-align: justify; font-size: 15px;">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-2 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <img src="/img/pa-01.png">
+                            </div>
+                            <div>
+                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 2: Define</span>
+                            </div>
+                            <div>
+                                <p style="text-align: justify; font-size: 15px;">Input fields for each activity and for the users who should receive tasks and notifications.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-2 text-center">
+                        <div class="row mb-2">
+                            <div class="icon-holder mr-4">
+                                <img src="/img/pa-01.png">
+                            </div>
+                            <div>
+                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 3: Execute</span>
+                            </div>
+                            <div>
+                                <p style="text-align: justify; font-size: 15px;">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <p style="text-align: center;"><img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-44.png" alt="" width="60" height="60"></p>
+                        <h2 class="heading" style="text-align: center;">
+                            Step 1: Draw the diagram
+                        </h2>
+                        <p class="paragraph">
+                            To create a process, you need to create a <strong>model</strong> with the necessary information. This model is developed in three phases: <strong>draw</strong> the diagram, <strong>define</strong> the attributes of the objects that appear in the diagram and <strong>execute</strong> the process
+                        </p>
+                    </div>
+
+                    <div class="col-md-5 text-center">
+                        <div class="row mb-2 mx-0">
+                                <img src="/img/laptop-modeler-mockup-v2.png">
+                                <img class="top-on-img" src="/img/auraportal-modeler-animated-640x360px.gif">
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-2 text-center">
+                        <p>&nbsp;</p>
+                    </div>
+
+                    <div class="col-md-5 text-center px-0">
+                        <div class="row mb-2 mx-0">
+                            <div class="wpb_wrapper">
+                                <p style="text-align: justify;" class="paragraph-small">
+                                    This is done using a diagram creation tool which lets you drag and drop
+                                    <strong>Objects</strong>
+                                    (Tasks, Events and Gateways) and their
+                                    <strong>Connecting Lines</strong>
+                                    to establish the operational flow of the process.
+                                </p>
+                                <p>&nbsp;</p>
+                                <p style="text-align: justify;" class="paragraph-small">
+                                    There are many diagramming tools on the market, but none are comparable in effectiveness or ease of use with
+                                    <strong>AuraQuantic ‘Modeler’</strong>,
+                                    developed with the latest technology and based on the universal standard, BPMN 2.0, improved to allow the automatic generation of processes which are ready to run without any additional programming.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="fa-1x mx-auto mt-4" style="text-align: left;">
+                            <a href="BPMS-Ready" class="buttonmore">Watch Video</a>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <p style="text-align: center;">
+                            <img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-43.png" alt="" width="60" height="60"></p>
+                        <h2 class="heading" style="text-align: center;">
+                            Step 2: Define the object attributes
+                        </h2>
+                    </div>
+
+                    <div class="col-md-5 text-center">
+                        <div class="row mb-2 mx-0">
+                            <img width="709" height="681" src="/img/conditions.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/conditions.png 709w, /img/conditions-300x288.png 300w, /img/conditions-700x672.png 700w" sizes="(max-width: 709px) 100vw, 709px">
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-2 text-center">
+                        <p>&nbsp;</p>
+                    </div>
+
+                    <div class="col-md-5 text-center px-0">
+                        <div class="row mb-2 mx-0" style="margin-top: 150px">
+                            <div class="wpb_wrapper">
+                                <p style="text-align: justify;" class="paragraph-small">
+                                    In <strong>AuraQuantic</strong>, you will have direct access to input and modify the attributes of the objects that appear in the diagram without using any code. Together, these objects define the complete process.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <p style="text-align: center;">
+                            <img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-42.png" alt="" width="60" height="60"></p>
+                        <h2 class="heading" style="text-align: center;">
+                            Step 3: Execute the process
+                        </h2>
+                    </div>
+
+                    <div class="col-md-12 text-center">
+                        <div class="row mb-2 mx-0">
+                            <img width="998" height="506" src="/img/Execution-Ejecucion.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/Execution-Ejecucion.png 998w, /img/Execution-Ejecucion-300x152.png 300w, /img/Execution-Ejecucion-768x389.png 768w, /img/Execution-Ejecucion-700x355.png 700w" sizes="(max-width: 998px) 100vw, 998px">
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 text-center px-0">
+                        <div class="row mb-2 mx-0 mt-lg-4">
+                            <div class="wpb_wrapper">
+                                <p style="text-align: justify; text-align-last: center;" class="paragraph-small">
+                                AuraQuantic is the only BPM that can really execute what you have drawn with the modeler without any additional programming. Many BPMs claim no-code execution, but in reality, AuraQuantic is the only software that offers this for even the most complex diagrams.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-5 text-center">
+                        <div class="row mb-2 mx-0">
+                            <img width="625" height="560" src="/img/monitoring4.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/monitoring4.png 625w, /img/monitoring4-300x269.png 300w" sizes="(max-width: 625px) 100vw, 625px">
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-2 text-center">
+                        <p>&nbsp;</p>
+                    </div>
+
+                    <div class="col-md-5 text-center px-0">
+                        <div class="row mb-2 mx-0" style="margin-top: 150px">
+                            <div class="wpb_wrapper">
+                                <p style="text-align: justify;" class="paragraph-small">
+                                    The execution of each process is traced and controlled in runtime.
+                                </p>
+                                <p>&nbsp;</p>
+                                <p style="text-align: justify;" class="paragraph-small">
+                                    In addition, all the data related to each process and groups of processes, such as times, costs, etc., are saved in the monitoring system to provide important information for decision making and statistical records.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            User Interface
+                        </h2>
+                        <p class="paragraph">
+                            Adapt to the faster, smarter and connected digital world. Delight users with attractive portals across multiple devices and respond immediately to their ever-changing needs with agility and zero-code changes on the fly.
+                        </p>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            Business Rules engine
+                        </h2>
+                        <p class="paragraph">
+                            Simple to manage and powerful in execution with on-the-fly power of performance and modification, the AuraQuantic Business Rules apply all company regulations and procedures, as well as process-related information which can be seamlessly integrated into the running processes.
+                            <br>
+                            <br>
+                            There are four types of Business Rules differentiated by the way they perform and deliver results:
+                        </p>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="row mb-0">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/icons-data-07-1.png">
+                            </div>
+                            <p class="icon-title pt-2 mb-0" style="font-weight: 500;"> Assignment</p>
+                        </div>
+                        <div class="row mb-2" style="margin-left: 35px">
+                            <p class="paragraph-small">
+                                Store variables with assigned values.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="row mb-0">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/icons-data-08-08-1.png">
+                            </div>
+                            <p class="icon-title pt-2 mb-0" style="font-weight: 500;"> Textual</p>
+                        </div>
+                        <div class="row mb-2" style="margin-left: 35px">
+                            <p class="paragraph-small">
+                                Contain rich text with unlimited storage or use.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="row mb-0">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/icons-data-09-1.png">
+                            </div>
+                            <p class="icon-title pt-2 mb-0" style="font-weight: 500;"> Inference</p>
+                        </div>
+                        <div class="row mb-2" style="margin-left: 35px">
+                            <p class="paragraph-small">
+                                Provide results that comply with an unlimited number of variables and combinations.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-12 text-center">
+                        <div class="row mb-0">
+                            <div class="icon-holder mr-3">
+                                <img src="/img/icons-data-10-1.png">
+                            </div>
+                            <p class="icon-title pt-2 mb-0" style="font-weight: 500;"> Calculation</p>
+                        </div>
+                        <div class="row mb-2" style="margin-left: 35px">
+                            <p class="paragraph-small">
+                                Store simple or complex equations for any variable.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            Azure Artificial Intelligence
+                        </h2>
+                        <p class="paragraph">
+                            The creation of systems that learn, adapt and potentially act autonomously has become a challenge for technological developments for the coming years.
+                        </p>
+                    </div>
+                    <div class="col-md-12 px-0">
+                        <h2 style="color: #303030; font-weight: 400; text-align: center; font-size: 18px;">
+                            Artificial Intelligence + Zero-code
+                        </h2><h2 style="color: #1785b0; font-weight: 500; font-size: 29px; text-align: center;">
+                            Create smart applications with AuraQuantic and Azure AI
+                        </h2>
+                        <p class="paragraph">
+                            With Artificial Intelligence, machines can analyze images, understand spoken language, interact in a natural way and make predictions using data. Create the next generation of applications using Artificial Intelligence functionalities for any business scenario:
+                        </p>
+                    </div>
+                </section>
+                <section class="row mx-0 ">
+                    <div class="col-md-6 px-0">
                         <div class="fa-2x mx-auto" style="text-align: center;">Consultancy Team</div>
                         <div class="fa-1x mx-auto" style="text-align: center;">Your BPM Success by putting your first project in our hands.</div>
                         <div class="fa-1x mx-auto mt-4" style="text-align: center;">
