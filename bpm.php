@@ -41,8 +41,11 @@ include('head.php');
     .modal-header {
         border: 0px;
     }
+    article#services.hh-services section {
+        padding: 1.3em 4.3125em 1.3em 4.3125em;
+    }
     h2.heading {
-        font-size: 40px;
+        font-size: 36px;
         color: #303030;
         font-weight: 600;
         line-height: 50px;
@@ -57,6 +60,7 @@ include('head.php');
         font-size: 18px;
         text-align: justify;
         text-align-last: center;
+        margin-bottom: 0px;
     }
     .text-highlight {
         color: #1785b0;
@@ -96,6 +100,7 @@ include('head.php');
         border-radius: 3px;
         background: #fff;
         box-shadow: 0 0 13px rgba(33,33,33,.07);
+        min-height: 250px;
     }
     .step-box .icon-holder {
         width: 100%;
@@ -196,7 +201,7 @@ include('head.php');
                         </p>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             Low-code Application Platform  <span style="color: #1785b0;">(LCAP)</span>
@@ -219,7 +224,7 @@ include('head.php');
                         </p>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
@@ -272,7 +277,7 @@ include('head.php');
                             <p class="paragraph">Have full control of data and get a better overview of your employees’ performance.</p>
                         </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             For any user, any department, and anywhere!
@@ -325,7 +330,7 @@ include('head.php');
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             Automate your business and see progress in real time
@@ -365,7 +370,7 @@ include('head.php');
                     </div>
                 </section>
                 <section class="row mx-0 ">
-                    <div class="col-md-12 px-0">
+                    <div class="col-md-12 px-0 mb-3">
                         <h2 class="heading" style="text-align: center;">
                             Automate your business in just 3 steps
                         </h2>
@@ -376,7 +381,7 @@ include('head.php');
                     <div class="col-md-2"><p>&nbsp;</p></div>
                     <div class="col-md-2 text-center">
                         <div class="row mb-2 step-box">
-                            <div class="icon-holder mr-4" >
+                            <div class="icon-holder" >
                                 <img src="/img/pa-02.png">
                             </div>
                             <div class="icon-title">
@@ -389,26 +394,26 @@ include('head.php');
 
                     <div class="col-md-2 text-center">
                         <div class="row mb-2 step-box">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder">
                                 <img src="/img/pa-01.png">
                             </div>
                             <div class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 2: Define</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-discription">Input fields for each activity and for the users who should receive tasks and notifications.</p>
+                                <p style="text-align: justify; font-size: 15px;" class="step-description">Input fields for each activity and for the users who should receive tasks and notifications.</p>
                         </div>
                     </div>
                     <div class="col-md-1"><p>&nbsp;</p></div>
 
                     <div class="col-md-2 text-center">
                         <div class="row mb-2 step-box">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder">
                                 <img src="/img/pa-03.png">
                             </div>
                             <div  class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 3: Execute</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-discription">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
+                                <p style="text-align: justify; font-size: 15px;" class="step-description">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
                         </div>
                     </div>
                 </section>
@@ -458,7 +463,7 @@ include('head.php');
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <p style="text-align: center;">
                             <img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-43.png" alt="" width="60" height="60"></p>
@@ -498,9 +503,8 @@ include('head.php');
                     </div>
 
                     <div class="col-md-12 text-center">
-                        <div class="row mb-2 mx-0">
-                            <img width="998" height="506" src="/img/Execution-Ejecucion.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/Execution-Ejecucion.png 998w, /img/Execution-Ejecucion-300x152.png 300w, /img/Execution-Ejecucion-768x389.png 768w, /img/Execution-Ejecucion-700x355.png 700w" sizes="(max-width: 998px) 100vw, 998px">
-                        </div>
+                            <img style="width: 70%;" width="998" height="506" src="/img/Execution-Ejecucion.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/Execution-Ejecucion.png 998w, /img/Execution-Ejecucion-300x152.png 300w, /img/Execution-Ejecucion-768x389.png 768w, /img/Execution-Ejecucion-700x355.png 700w" sizes="(max-width: 998px) 100vw, 998px">
+
                     </div>
 
                     <div class="col-md-12 text-center px-0">
@@ -538,7 +542,7 @@ include('head.php');
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             User Interface
@@ -613,7 +617,7 @@ include('head.php');
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             Azure Artificial Intelligence
