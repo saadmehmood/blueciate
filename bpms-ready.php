@@ -2,6 +2,26 @@
 $title = 'Consulting :- Blueciate Inc';
 include('head.php');
 ?>
+<style>
+    .info-form-heading {
+        color: #22b149;
+        font-size: 1.1em;
+        text-transform: capitalize;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .info-form-description {
+        color: #595757;
+        line-height: 1.5em;
+        font-family: "Open Sans", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+    }
+    .info-form .form-label {
+        font-size: 0.8em;
+    }
+</style>
 <body>
 
 <div class="mm-page mm-slideout">
@@ -12,53 +32,52 @@ include('head.php');
 
         <article id="services" class="hh-services">
             <div class="container">
-                <section>
-                    <aside class="lg-twelfths md-one-whole" style="width: 900px; margin: 0 auto;" id="first">
-                        <h3>This guide is designed to explain to your understanding, answer your questions and give you the information you need to accelerate your digital transformation…with BPM!</h3>
-                        <p style="max-width: 1200px;">
+                <section class="row mx-0">
+                        <h3 class="info-form-heading">This guide is designed to explain to your understanding, answer your questions and give you the information you need to accelerate your digital transformation…with BPM!</h3>
+                        <p class="info-form-description">
                             AuraQuantic and implementation partner BlueCiate work together for new generation  Business Process Management (BPM) software that empowers businesses to connect people, processes and data within the full enterprise in order to get work done faster and more effectively, while increasing satisfaction and decreasing costs.
 
                         </p>
-                    </aside>
-                </section>
-                <section class="row mx-0 ">
-                    <aside class="lg-one-whole"  style="width: 900px; margin: 0 auto;">
+                        <div class="info-form col-md-6">
                         <form method="post" action="bpms-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
                             <!-- Email input -->
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="firstName">First Name</label>
                                 <input type="text" id="firstName" name="firstName" class="form-control" />
                             </div>
 
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="lastName">Last Name</label>
                                 <input type="text" id="lastName" name="lastName" class="form-control" />
                             </div>
 
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="emailAddress">Email Address</label>
                                 <input type="text" id="emailAddress" name="emailAddress" class="form-control" />
                             </div>
 
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="phone">Phone</label>
                                 <input type="text" id="phone" name="phone" class="form-control" />
                             </div>
 
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="company">Company</label>
                                 <input type="text" id="company" name="company" class="form-control" />
                             </div>
 
-                            <div class="form-outline mb-4">
+                            <div class="form-outline mb-3">
                                 <label class="form-label" for="country">Country</label>
                                 <input type="text" id="country" name="country" class="form-control" />
                             </div>
                             <!-- Submit button -->
                             <button type="submit" name="btnSubmit" class="btn btn-primary">Download</button>
                         </form>
+                        </div>
+                        <div class="col-md-5 pt-md-5">
+                            <img src="/Images/blog-18.jpg">
+                        </div>
 
-                    </aside>
                 </section>
             </div>
         </article>

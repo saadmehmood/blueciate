@@ -108,7 +108,7 @@ include('head.php');
         margin-bottom: 10px;
         font-weight: bold;
     }
-    .step-box .step-discription {
+    .step-box .step-description {
         color: #707577;
         font-family: 'Open Sans',sans-serif;
         font-size: 15px;
@@ -382,7 +382,7 @@ include('head.php');
                             <div class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 1: Draw</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-discription">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
+                                <p style="text-align: justify; font-size: 15px;" class="step-description">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
                         </div>
                     </div>
                     <div class="col-md-1"><p>&nbsp;</p></div>
