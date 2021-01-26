@@ -403,7 +403,7 @@ include('head.php');
                     <div class="col-md-2 text-center">
                         <div class="row mb-2 step-box">
                             <div class="icon-holder mr-4">
-                                <img src="/img/pa-01.png">
+                                <img src="/img/pa-03.png">
                             </div>
                             <div  class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 3: Execute</span>
