@@ -51,7 +51,7 @@ include('head.php');
                             AuraQuantic and implementation partner BlueCiate work together for new generation  Business Process Management (BPM) software that empowers businesses to connect people, processes and data within the full enterprise in order to get work done faster and more effectively, while increasing satisfaction and decreasing costs.
 
                         </p>
-                        <div class="info-form col-md-8">
+                        <div class="info-form col-md-9">
                         <form method="post" action="bpms-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
                             <!-- Email input -->
                             <div class="form-outline mb-3">
