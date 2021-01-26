@@ -91,6 +91,34 @@ include('head.php');
         font-style: normal;
         font-weight: 300;
     }
+    .step-box {
+        padding: 20px;
+        border-radius: 3px;
+        background: #fff;
+        box-shadow: 0 0 13px rgba(33,33,33,.07);
+    }
+    .step-box .icon-holder {
+        width: 100%;
+        text-align: center;
+    }
+    .step-box .icon-title {
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+    .step-box .step-discription {
+        color: #707577;
+        font-family: 'Open Sans',sans-serif;
+        font-size: 15px;
+        line-height: 25px;
+        font-style: normal;
+        font-weight: 300;
+    }
+    .step-box .icon-holder img {
+        width: 35px;
+    }
 </style>
 <body>
 
@@ -345,46 +373,42 @@ include('head.php');
                             To create a process, you need to create a <strong>model</strong> with the necessary information. This model is developed in three phases: <strong>draw</strong> the diagram, <strong>define</strong> the attributes of the objects that appear in the diagram and <strong>execute</strong> the process
                         </p>
                     </div>
-
+                    <div class="col-md-2"><p>&nbsp;</p></div>
                     <div class="col-md-2 text-center">
-                        <div class="row mb-2">
-                            <div class="icon-holder mr-4">
+                        <div class="row mb-2 step-box">
+                            <div class="icon-holder mr-4" >
                                 <img src="/img/pa-02.png">
                             </div>
-                            <div>
+                            <div class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 1: Draw</span>
                             </div>
-                            <div>
-                                <p style="text-align: justify; font-size: 15px;">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
-                            </div>
+                                <p style="text-align: justify; font-size: 15px;" class="step-discription">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
                         </div>
                     </div>
+                    <div class="col-md-1"><p>&nbsp;</p></div>
 
                     <div class="col-md-2 text-center">
-                        <div class="row mb-2">
+                        <div class="row mb-2 step-box">
                             <div class="icon-holder mr-4">
                                 <img src="/img/pa-01.png">
                             </div>
-                            <div>
+                            <div class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 2: Define</span>
                             </div>
-                            <div>
-                                <p style="text-align: justify; font-size: 15px;">Input fields for each activity and for the users who should receive tasks and notifications.</p>
-                            </div>
+                                <p style="text-align: justify; font-size: 15px;" class="step-discription">Input fields for each activity and for the users who should receive tasks and notifications.</p>
                         </div>
                     </div>
+                    <div class="col-md-1"><p>&nbsp;</p></div>
 
                     <div class="col-md-2 text-center">
-                        <div class="row mb-2">
+                        <div class="row mb-2 step-box">
                             <div class="icon-holder mr-4">
                                 <img src="/img/pa-01.png">
                             </div>
-                            <div>
+                            <div  class="icon-title">
                                 <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 3: Execute</span>
                             </div>
-                            <div>
-                                <p style="text-align: justify; font-size: 15px;">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
-                            </div>
+                                <p style="text-align: justify; font-size: 15px;" class="step-discription">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
                         </div>
                     </div>
                 </section>
