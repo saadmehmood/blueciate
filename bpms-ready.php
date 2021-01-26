@@ -11,6 +11,12 @@ include('head.php');
         font-weight: 400;
         font-style: normal;
     }
+    .info-form {
+        background-color: #F7F7F7;
+    }
+    .info-form .form-outline {
+        width: 80%;
+    }
     .info-form-description {
         color: #595757;
         line-height: 1.5em;
@@ -20,6 +26,13 @@ include('head.php');
     }
     .info-form .form-label {
         font-size: 0.8em;
+    }
+    .info-form .floating-image {
+        position: absolute;
+        top: 19%;
+        left: 83%;
+        height: 50%;
+        width: 78%;
     }
 </style>
 <body>
@@ -38,7 +51,7 @@ include('head.php');
                             AuraQuantic and implementation partner BlueCiate work together for new generation  Business Process Management (BPM) software that empowers businesses to connect people, processes and data within the full enterprise in order to get work done faster and more effectively, while increasing satisfaction and decreasing costs.
 
                         </p>
-                        <div class="info-form col-md-6">
+                        <div class="info-form col-md-8">
                         <form method="post" action="bpms-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
                             <!-- Email input -->
                             <div class="form-outline mb-3">
@@ -73,9 +86,7 @@ include('head.php');
                             <!-- Submit button -->
                             <button type="submit" name="btnSubmit" class="btn btn-primary">Download</button>
                         </form>
-                        </div>
-                        <div class="col-md-5 pt-md-5">
-                            <img src="/Images/blog-18.jpg">
+                            <img class="floating-image" src="/Images/on-stage.png">
                         </div>
 
                 </section>
