@@ -45,7 +45,7 @@ include('head.php');
         padding: 1.3em 4.3125em 1.3em 4.3125em;
     }
     h2.heading {
-        font-size: 36px;
+        font-size: 30px;
         color: #303030;
         font-weight: 600;
         line-height: 50px;
