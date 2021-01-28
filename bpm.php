@@ -181,7 +181,10 @@ include('head.php');
                             <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
 
                         </p>
-                        <h3><i class="fas fa-dot-circle"></i> <span class="text-highlight">Blue Ciate Business Process Automation – BPM</span></h3>
+                    </div>
+                    <div class="col-md-6 pl-0 pr-5">
+
+                        <h3><span class="text-highlight" style="font-size: 24px;">Blue Ciate Business Process Automation – BPM</span></h3>
                         <p class="paragraph" style="text-align-last: left;">
                             <span class="text-highlight">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
                             <b>Unify your data into a single interface with zero-code integrations.</b>
@@ -199,6 +202,18 @@ include('head.php');
                             your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
 
                         </p>
+                    </div>
+                    <div  class="col-md-6 px-0 mt-lg-5">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.46859.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.cd3c7387-0dac-4e5c-b52a-320bb2d8a16d" alt="What is BPM / BPMS / iBPMS (Business Process Management)? thumbnail" role="button" aria-label="What is BPM / BPMS / iBPMS (Business Process Management)? video">
+                                <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/ld6E_PJXg_k">
+                            </div>
+                        </div>
                     </div>
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
@@ -227,30 +242,6 @@ include('head.php');
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
-                            What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
-                        </h2>
-                        <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;is the most intuitive, powerful and affordable system to transform your current company operations into efficient remote work solutions. The platform includes essential features to maintain and even increase productivity throughout the entire business ecosystem, with task automation and traceability ensuring complete control of operations, which is key to a successful remote work strategy.</p>
-                    </div>
-
-                        <div class="col-md-4 text-center">
-                            <img src="/img/icon-power.png" style="width: 81px; height: 81px;">
-                            <br>
-                            <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Powerful</span>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <img src="/img/elementos-cabecera-04.png" style="width: 81px; height: 81px;">
-                            <br>
-                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Intuitive</span>
-                        </div>
-                        <div class="col-md-4 text-center">
-                            <img src="/img/icon-economico-02.png" style="width: 81px; height: 81px;">
-                            <br>
-                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Affordable</span>
-                        </div>
-                </section>
-                <section class="row mx-0 ">
-                    <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;">
                             Dashboards
                         </h2>
                         <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;
@@ -277,7 +268,7 @@ include('head.php');
                             <p class="paragraph">Have full control of data and get a better overview of your employees’ performance.</p>
                         </div>
                 </section>
-                <section class="row mx-0 " style="background-color: #F7F7F7;">
+                <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             For any user, any department, and anywhere!
@@ -443,14 +434,13 @@ include('head.php');
                     <div class="col-md-5 text-center px-0">
                         <div class="row mb-2 mx-0">
                             <div class="wpb_wrapper">
-                                <p style="text-align: justify;" class="paragraph-small">
+                                <p style="text-align: justify;" class="paragraph-small mb-0">
                                     This is done using a diagram creation tool which lets you drag and drop
                                     <strong>Objects</strong>
                                     (Tasks, Events and Gateways) and their
                                     <strong>Connecting Lines</strong>
                                     to establish the operational flow of the process.
                                 </p>
-                                <p>&nbsp;</p>
                                 <p style="text-align: justify;" class="paragraph-small">
                                     There are many diagramming tools on the market, but none are comparable in effectiveness or ease of use with
                                     <strong>AuraQuantic ‘Modeler’</strong>,
@@ -503,15 +493,18 @@ include('head.php');
                     </div>
 
                     <div class="col-md-12 text-center">
-                            <img style="width: 70%;" width="998" height="506" src="/img/Execution-Ejecucion.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/Execution-Ejecucion.png 998w, /img/Execution-Ejecucion-300x152.png 300w, /img/Execution-Ejecucion-768x389.png 768w, /img/Execution-Ejecucion-700x355.png 700w" sizes="(max-width: 998px) 100vw, 998px">
-
+                        <img style="width: 70%;" width="998" height="506" src="/img/Execution-Ejecucion.png" class="vc_single_image-img attachment-full" alt="" srcset="/img/Execution-Ejecucion.png 998w, /img/Execution-Ejecucion-300x152.png 300w, /img/Execution-Ejecucion-768x389.png 768w, /img/Execution-Ejecucion-700x355.png 700w" sizes="(max-width: 998px) 100vw, 998px">
                     </div>
 
                     <div class="col-md-12 text-center px-0">
                         <div class="row mb-2 mx-0 mt-lg-4">
                             <div class="wpb_wrapper">
-                                <p style="text-align: justify; text-align-last: center;" class="paragraph-small">
+                                <p style="text-align: justify;" class="paragraph-small">
                                 AuraQuantic is the only BPM that can really execute what you have drawn with the modeler without any additional programming. Many BPMs claim no-code execution, but in reality, AuraQuantic is the only software that offers this for even the most complex diagrams.
+                                <br>
+                                    The execution of each process is traced and controlled in runtime.
+                                    <br>
+                                    In addition, all the data related to each process and groups of processes, such as times, costs, etc., are saved in the monitoring system to provide important information for decision making and statistical records.
                                 </p>
                             </div>
                         </div>
@@ -524,20 +517,19 @@ include('head.php');
                     </div>
 
 
-                    <div class="col-md-2 text-center">
+                    <div class="col-md-1 text-center">
                         <p>&nbsp;</p>
                     </div>
 
-                    <div class="col-md-5 text-center px-0">
-                        <div class="row mb-2 mx-0" style="margin-top: 150px">
-                            <div class="wpb_wrapper">
-                                <p style="text-align: justify;" class="paragraph-small">
-                                    The execution of each process is traced and controlled in runtime.
-                                </p>
-                                <p>&nbsp;</p>
-                                <p style="text-align: justify;" class="paragraph-small">
-                                    In addition, all the data related to each process and groups of processes, such as times, costs, etc., are saved in the monitoring system to provide important information for decision making and statistical records.
-                                </p>
+                    <div class="col-md-6 text-center px-0 mt-lg-5">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="AuraQuantic iBPMS - Zero-Code Application Development Platform thumbnail" role="button" aria-label="AuraQuantic iBPMS - Zero-Code Application Development Platform video">
+                                <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/PMeNAFSKkpQ">
                             </div>
                         </div>
                     </div>
@@ -560,10 +552,10 @@ include('head.php');
                         <p class="paragraph">
                             Simple to manage and powerful in execution with on-the-fly power of performance and modification, the AuraQuantic Business Rules apply all company regulations and procedures, as well as process-related information which can be seamlessly integrated into the running processes.
                             <br>
-                            <br>
                             There are four types of Business Rules differentiated by the way they perform and deliver results:
                         </p>
                     </div>
+                    <div class="col-md-6 px-0">
                     <div class="col-md-12 text-center">
                         <div class="row mb-0">
                             <div class="icon-holder mr-3">
@@ -598,7 +590,7 @@ include('head.php');
                             <p class="icon-title pt-2 mb-0" style="font-weight: 500;"> Inference</p>
                         </div>
                         <div class="row mb-2" style="margin-left: 35px">
-                            <p class="paragraph-small">
+                            <p class="paragraph-small" style="text-align: left;">
                                 Provide results that comply with an unlimited number of variables and combinations.
                             </p>
                         </div>
@@ -614,6 +606,19 @@ include('head.php');
                             <p class="paragraph-small">
                                 Store simple or complex equations for any variable.
                             </p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="col-md-6 mt-lg-3">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.22866.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.9851c582-6fab-4409-84f0-211585aeb9ac" alt="AuraQuantic Architecture (Software &amp; Hardware) thumbnail" role="button" aria-label="AuraQuantic Architecture (Software &amp; Hardware) video">
+                                <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/0qh7ZrJJjOg">
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -638,6 +643,30 @@ include('head.php');
                     </div>
                 </section>
                 <section class="row mx-0 ">
+                    <div class="col-md-12 px-0">
+                        <h2 class="heading" style="text-align: center;">
+                            What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
+                        </h2>
+                        <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;is the most intuitive, powerful and affordable system to transform your current company operations into efficient remote work solutions. The platform includes essential features to maintain and even increase productivity throughout the entire business ecosystem, with task automation and traceability ensuring complete control of operations, which is key to a successful remote work strategy.</p>
+                    </div>
+
+                    <div class="col-md-4 text-center">
+                        <img src="/img/icon-power.png" style="width: 81px; height: 81px;">
+                        <br>
+                        <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Powerful</span>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="/img/elementos-cabecera-04.png" style="width: 81px; height: 81px;">
+                        <br>
+                        <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Intuitive</span>
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <img src="/img/icon-economico-02.png" style="width: 81px; height: 81px;">
+                        <br>
+                        <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Affordable</span>
+                    </div>
+                </section>
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-6 px-0">
                         <div class="fa-2x mx-auto" style="text-align: center;">Consultancy Team</div>
                         <div class="fa-1x mx-auto" style="text-align: center;">Your BPM Success by putting your first project in our hands.</div>
@@ -650,7 +679,16 @@ include('head.php');
                         </div>
                     </div>
                     <div class="col-md-6 px-0">
-                        <img src="/img/rm-1.jpg" height="513px">
+                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
+                            <div class="image">
+                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.24439.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8feb3aad-e718-4904-afb2-f9f0a3ad1943" alt="Process Automation in 3 Steps thumbnail" role="button" aria-label="Process Automation in 3 Steps video">
+                                <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
+                            </div>
+                            <div class="video-overlay">
+                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/TZLe74T0pcU">
+                            </div>
+                        </div>
                     </div>
 
                 </section>
@@ -857,58 +895,6 @@ include('head.php');
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="container-fluid mt-5">
-                    <div class="row row-cols-4 text-center">
-                    <div class="col">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
-                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="AuraQuantic iBPMS - Zero-Code Application Development Platform thumbnail" role="button" aria-label="AuraQuantic iBPMS - Zero-Code Application Development Platform video">
-<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
-                            </div>
-                            <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/PMeNAFSKkpQ">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
-                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.22866.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.9851c582-6fab-4409-84f0-211585aeb9ac" alt="AuraQuantic Architecture (Software &amp; Hardware) thumbnail" role="button" aria-label="AuraQuantic Architecture (Software &amp; Hardware) video">
-<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
-                            </div>
-                            <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/0qh7ZrJJjOg">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
-                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.46859.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.cd3c7387-0dac-4e5c-b52a-320bb2d8a16d" alt="What is BPM / BPMS / iBPMS (Business Process Management)? thumbnail" role="button" aria-label="What is BPM / BPMS / iBPMS (Business Process Management)? video">
-<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
-                            </div>
-                            <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/ld6E_PJXg_k">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col">
-                        <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
-                             style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
-                            <div class="image">
-                                <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.24439.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8feb3aad-e718-4904-afb2-f9f0a3ad1943" alt="Process Automation in 3 Steps thumbnail" role="button" aria-label="Process Automation in 3 Steps video">
-<!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
-                            </div>
-                            <div class="video-overlay">
-                                <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/TZLe74T0pcU">
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 </div>
             </div>
         </section>

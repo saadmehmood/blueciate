@@ -90,7 +90,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
-                Copyright © 2020 <strong>BlueCiate Inc</strong>. All rights reserved.
+                Copyright © <?php echo date('Y')?>> <strong>BlueCiate Inc</strong>. All rights reserved.
             </div>
         </div>
     </div>
