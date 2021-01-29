@@ -45,8 +45,8 @@ include('head.php');
         padding: 1.3em 4.3125em 1.3em 4.3125em;
     }
     h2.heading {
-        font-size: 30px;
-        color: #303030;
+        font-size: 26px;
+        color:  #6dab3c;
         font-weight: 600;
         line-height: 50px;
     }
@@ -75,7 +75,7 @@ include('head.php');
         font-size: 18px;
     }
     .fa-3 {
-        font-size: 3rem;
+        font-size: 2rem;
         color: #6dab3c;
     }
     .low-code-video {
@@ -186,12 +186,14 @@ include('head.php');
 
                         <h3><span class="text-highlight" style="font-size: 24px;">Blue Ciate Business Process Automation – BPM</span></h3>
                         <p class="paragraph" style="text-align-last: left;">
-                            <span class="text-highlight">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
+                            <span style="color: #6dab3c;font-weight: bold; font-size: 16px">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
                             <b>Unify your data into a single interface with zero-code integrations.</b>
                             Get the flexibility you need to bring data together from across your
                             organization into a single interface, so action can be taken when and
                             where it’s needed. You control your data. No migration, no lock-ins, and
                             no transaction or storage fees.
+                            <br>
+                            <br>
                             Easily integrate with enterprise systems such as Salesforce, SAP,
                             Oracle, DocuSign, Blue Prism, UiPath and more.
                             Integrate systems with zero-code, low-code, and industry standard
@@ -199,7 +201,10 @@ include('head.php');
                             Remove data silos and orchestrate your data to create a seamless
                             experience for your users.
                             Use RPA in a workflow to integrate systems without APIs and leverage
-                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
+                            your IT investments.
+                            <br>
+                            <br>
+                            Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.
 
                         </p>
                     </div>
@@ -219,7 +224,7 @@ include('head.php');
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
-                            Low-code Application Platform  <span style="color: #1785b0;">(LCAP)</span>
+                            Low-code Application Platform  <span style="color: #6dab3c;">(LCAP)</span>
                         </h2>
                         <p class="paragraph">
                             AuraQuantic is a business software platform designed for business users (citizen developers) to build their business applications fast and easily.
@@ -228,8 +233,8 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;">
-                            Create your Business Applications faster
+                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                            How to Create your Business Applications faster?
                         </h2>
                         <p class="paragraph">
                             AuraQuantic is the most <span style="color: #1785b0; font-weight: 600;">complete low-code platform</span> for building the enterprise solutions that drive Digital Transformation.
@@ -241,7 +246,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;">
+                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
                             Dashboards
                         </h2>
                         <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;
@@ -270,7 +275,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;">
+                        <h2 class="heading" style="text-align: center; color: #6dab3c;font-size: 26px">
                             For any user, any department, and anywhere!
                         </h2>
                         <p class="paragraph">
@@ -323,8 +328,8 @@ include('head.php');
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;">
-                            Automate your business and see progress in real time
+                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                            How to automate your business and see progress in real time?
                         </h2>
                         <p class="paragraph">
                             Create zero-code automations for your business operations. Minimize the chances of human error and focus on the tasks that make a real impact.
@@ -333,13 +338,13 @@ include('head.php');
 
                     <div class="col-md-4 text-center">
                         <div class="row mb-2">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder mr-2 pt-2">
                                 <i class="fa fa-check-circle fa-3"></i>
                             </div>
                             <p class="icon-title pt-3"> 	Intranet/Extranet</p>
                         </div>
                         <div class="row mb-2">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder mr-2 pt-2">
                                 <i class="fa fa-check-circle fa-3"></i>
                             </div>
                             <p class="icon-title pt-3"> 	Collaboration platform</p>
@@ -347,13 +352,13 @@ include('head.php');
                     </div>
                     <div class="col-md-4 text-center">
                         <div class="row mb-2">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder mr-2 pt-2">
                                 <i class="fa fa-check-circle fa-3"></i>
                             </div>
                             <p class="icon-title pt-3"> 	Document management</p>
                         </div>
                         <div class="row">
-                            <div class="icon-holder mr-4">
+                            <div class="icon-holder mr-2 pt-2">
                                 <i class="fa fa-check-circle fa-3"></i>
                             </div>
                             <p class="icon-title pt-3"> Dashboard</p>
@@ -362,7 +367,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0 mb-3">
-                        <h2 class="heading" style="text-align: center;">
+                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
                             Automate your business in just 3 steps
                         </h2>
                         <p class="paragraph">
@@ -449,7 +454,7 @@ include('head.php');
                             </div>
                         </div>
                         <div class="fa-1x mx-auto mt-4" style="text-align: left;">
-                            <a href="BPMS-Ready" class="buttonmore">Watch Video</a>
+                            <a href="BPMS-Ready" class="buttonmore">Download</a>
                         </div>
                     </div>
                 </section>
@@ -483,7 +488,7 @@ include('head.php');
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
                         <p style="text-align: center;">
                             <img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-42.png" alt="" width="60" height="60"></p>
@@ -501,9 +506,7 @@ include('head.php');
                             <div class="wpb_wrapper">
                                 <p style="text-align: justify;" class="paragraph-small">
                                 AuraQuantic is the only BPM that can really execute what you have drawn with the modeler without any additional programming. Many BPMs claim no-code execution, but in reality, AuraQuantic is the only software that offers this for even the most complex diagrams.
-                                <br>
                                     The execution of each process is traced and controlled in runtime.
-                                    <br>
                                     In addition, all the data related to each process and groups of processes, such as times, costs, etc., are saved in the monitoring system to provide important information for decision making and statistical records.
                                 </p>
                             </div>
@@ -532,6 +535,9 @@ include('head.php');
                                 <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/PMeNAFSKkpQ">
                             </div>
                         </div>
+                    </div>
+                    <div class="fa-1x mx-auto mt-4" style="text-align: left;">
+                        <a href="BPMS-Ready" class="buttonmore" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/PMeNAFSKkpQ">Watch Video</a>
                     </div>
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
@@ -591,7 +597,7 @@ include('head.php');
                         </div>
                         <div class="row mb-2" style="margin-left: 35px">
                             <p class="paragraph-small" style="text-align: left;">
-                                Provide results that comply with an unlimited number of variables and combinations.
+                                Provide results that comply with an unlimited number<br> of variables and combinations.
                             </p>
                         </div>
                     </div>
@@ -621,6 +627,9 @@ include('head.php');
                             </div>
                         </div>
                     </div>
+                    <div class="fa-1x mx-auto mt-4" style="text-align: left;">
+                        <a href="BPMS-Ready" class="buttonmore" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/0qh7ZrJJjOg">Watch Video</a>
+                    </div>
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
@@ -632,7 +641,7 @@ include('head.php');
                         </p>
                     </div>
                     <div class="col-md-12 px-0">
-                        <h2 style="color: #303030; font-weight: 400; text-align: center; font-size: 18px;">
+                        <h2  class="heading" style="text-align: center;">
                             Artificial Intelligence + Zero-code
                         </h2><h2 style="color: #1785b0; font-weight: 500; font-size: 29px; text-align: center;">
                             Create smart applications with AuraQuantic and Azure AI
@@ -645,7 +654,7 @@ include('head.php');
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
-                            What is AuraQuantic <span style="color: #1785b0;">Remote Work</span>?
+                            What is AuraQuantic <span style="color: #6dab3c;">Remote Work</span>?
                         </h2>
                         <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;is the most intuitive, powerful and affordable system to transform your current company operations into efficient remote work solutions. The platform includes essential features to maintain and even increase productivity throughout the entire business ecosystem, with task automation and traceability ensuring complete control of operations, which is key to a successful remote work strategy.</p>
                     </div>
@@ -653,26 +662,21 @@ include('head.php');
                     <div class="col-md-4 text-center">
                         <img src="/img/icon-power.png" style="width: 81px; height: 81px;">
                         <br>
-                        <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Powerful</span>
+                        <span class="mt-lg-5" style="font-size: 18px; font-weight: 600; color: #383838;">Powerful</span>
                     </div>
                     <div class="col-md-4 text-center">
                         <img src="/img/elementos-cabecera-04.png" style="width: 81px; height: 81px;">
                         <br>
-                        <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Intuitive</span>
+                        <span class="mt-10" style="font-size: 18px; font-weight: 600; color: #383838;">Intuitive</span>
                     </div>
                     <div class="col-md-4 text-center">
                         <img src="/img/icon-economico-02.png" style="width: 81px; height: 81px;">
                         <br>
-                        <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Affordable</span>
+                        <span class="mt-10" style="font-size: 18px; font-weight: 600; color: #383838;">Affordable</span>
                     </div>
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
-                    <div class="col-md-6 px-0">
-                        <div class="fa-2x mx-auto" style="text-align: center;">Consultancy Team</div>
-                        <div class="fa-1x mx-auto" style="text-align: center;">Your BPM Success by putting your first project in our hands.</div>
-                        <div class="fa-1x mx-auto mt-4" style="text-align: center;">
-                            <a href="https://www.auraquantic.com/bpm-digital-platform/process-automation" class="buttonmore">Auraquantic</a>
-                        </div>
+                    <div class="col-md-6 px-0" style="margin-top: 100px;">
                         <div class="fa-1x mx-auto mt-2" style="text-align: center;">Accelerate Your Digital Transformation WhitePaper.</div>
                         <div class="fa-1x mx-auto mt-4" style="text-align: center;">
                             <a href="BPMS-Ready" class="buttonmore">Download</a>
@@ -683,12 +687,14 @@ include('head.php');
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
                                 <img itemprop="thumbnailUrl" src="https://store-images.s-microsoft.com/image/apps.24439.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8feb3aad-e718-4904-afb2-f9f0a3ad1943" alt="Process Automation in 3 Steps thumbnail" role="button" aria-label="Process Automation in 3 Steps video">
-                                <!--                                <img src="https://store-images.s-microsoft.com/image/apps.16581.171428a8-79a7-4e0a-acf0-ff6521e2c98b.5e09026c-692e-4bfb-86e3-4e7be17e85e1.8046dac4-7c29-4a79-8755-5ba3518f0f9a" alt="" data-toggle="modal" data-target="#exampleModalCenter" data-target="#carouselExampleIndicators" data-slide-to="1">-->
                             </div>
                             <div class="video-overlay">
                                 <img src="/img/videoOverlay.png" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/TZLe74T0pcU">
                             </div>
                         </div>
+                    </div>
+                    <div class="fa-1x mx-auto mt-4" style="text-align: left;">
+                        <a href="BPMS-Ready" class="buttonmore" data-toggle="modal" data-target="#videoModal" data-theVideo="https://www.youtube.com/embed/TZLe74T0pcU">Watch Video</a>
                     </div>
 
                 </section>
