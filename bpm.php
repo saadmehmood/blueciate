@@ -163,6 +163,12 @@ include('head.php');
 
 
     @media screen and (max-width: 992px) {
+        .container {
+            padding: 0px;
+        }
+        article#services.hh-services section {
+            padding: 1.3em 1.3125em 1.3em 1.3125em;
+        }
         .low-code-video {
             width: 100%;
         }
