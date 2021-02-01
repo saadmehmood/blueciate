@@ -79,6 +79,7 @@ include('head.php');
         color: #6dab3c;
     }
     .low-code-video {
+        width: 80%;
         margin: 0 auto;
     }
     .top-on-img {
@@ -124,6 +125,24 @@ include('head.php');
     .step-box .icon-holder img {
         width: 35px;
     }
+    @media screen and (max-width: 992px) {
+        .low-code-video {
+            width: 100%;
+        }
+        .modal-lg {
+            max-width: 100%;
+        }
+    }
+
+    /* On screens that are 600px or less, set the background color to olive */
+    @media screen and (max-width: 600px) {
+        .low-code-video {
+            width: 100%;
+        }
+        .modal-lg {
+            max-width: 100%;
+        }
+    }
 </style>
 <body>
 
@@ -137,52 +156,34 @@ include('head.php');
 
         <article id="services" class="hh-services">
             <div class="container">
-<!--                <section>-->
-<!--                    <aside class="g lg-twelfths md-one-whole" id="first">-->
-<!--                        <h3>Blue Ciate Digital Transform</h3>-->
-<!--                        <p style="max-width: 1200px;">-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>-->
-<!--                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>-->
-<!---->
-<!--                        </p>-->
-<!--                        <h3><i class="fas fa-dot-circle"></i> Blue Ciate Business Process Automation – BPM</h3>-->
-<!--                        <p style="max-width: 1200px;">-->
-<!--                            <span class="fa-2x">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>-->
-<!--                            <b>Unify your data into a single interface with zero-code integrations.</b>-->
-<!--                            Get the flexibility you need to bring data together from across your-->
-<!--                            organization into a single interface, so action can be taken when and-->
-<!--                            where it’s needed. You control your data. No migration, no lock-ins, and-->
-<!--                            no transaction or storage fees.-->
-<!--                             Easily integrate with enterprise systems such as Salesforce, SAP,-->
-<!--                            Oracle, DocuSign, Blue Prism, UiPath and more.-->
-<!--                            Integrate systems with zero-code, low-code, and industry standard-->
-<!--                            connectors or build your own with custom APIs.-->
-<!--                             Remove data silos and orchestrate your data to create a seamless-->
-<!--                            experience for your users.-->
-<!--                             Use RPA in a workflow to integrate systems without APIs and leverage-->
-<!--                            your IT investments. Blueciate Business Automation & Digital Transformation, is the technology-enabled automation of complex business processes. It can streamline a business for simplicity, achieve digital transformation, increase service quality, improve service delivery or contain costs.-->
-<!---->
-<!--                        </p>-->
-<!--                    </aside>-->
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
                         <h3><span class="text-highlight">Blue Ciate Digital Transform</span></h3>
-                        <p class="paragraph" style="text-align-last: left;">
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>
-                            <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
-
-                        </p>
                     </div>
-                    <div class="col-md-6 pl-0 pr-5">
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
+                    </div>
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">Low Code</span>
+                    </div>
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">iBPMS</span>
+                    </div>
+                    <div class="col-md-6 px-0">
+                    </div>
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">Marketplace</span>
+                    </div>
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">Analysis</span>
+                    </div>
+                    <div class="col-md-2">
+                        <i class="fas fa-dot-circle"></i> <span class="mr-2">Cloud</span>
+                    </div>
+                    <div class="col-md-6 px-0">
+                    </div>
+                    <div class="col-md-6 px-0">
 
                         <h3><span class="text-highlight" style="font-size: 24px;">Blue Ciate Business Process Automation – BPM</span></h3>
                         <p class="paragraph" style="text-align-last: left;">
@@ -208,7 +209,7 @@ include('head.php');
 
                         </p>
                     </div>
-                    <div  class="col-md-6 px-0 mt-lg-5">
+                    <div  class="col-md-6 px-0 mt-lg-5 px-3">
                         <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
                              style="visibility: visible;animation-duration: 1500ms;animation-delay: 0ms;/* animation-name: fadeInLeft; */">
                             <div class="image">
