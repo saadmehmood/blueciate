@@ -50,6 +50,14 @@ include('head.php');
         font-weight: 600;
         line-height: 50px;
     }
+    .heading-top {
+        font-size: 26px;
+    }
+    .heading-small {
+        color: #6dab3c;
+        font-weight: bold;
+        font-size: 16px
+    }
     p.paragraph {
         color: #707577;
         font-family: 'Open Sans',sans-serif;
@@ -112,7 +120,9 @@ include('head.php');
         text-align: center;
         margin-top: 10px;
         margin-bottom: 10px;
-        font-weight: bold;
+        color: #303030;
+        font-size: 16px;
+        font-weight: 600;
     }
     .step-box .step-description {
         color: #707577;
@@ -125,12 +135,72 @@ include('head.php');
     .step-box .icon-holder img {
         width: 35px;
     }
+    .dashboard .icon-holder {
+        width: 60px; height: 60px;
+    }
+    .dashboard .icon-title {
+        font-size: 22px; font-weight: 600; color: #383838;
+    }
+    .section-7 .icon-img {
+        width: 60px;
+        height: 60px;
+    }
+    .section-13 .icon-img {
+        width: 80px;
+        height: 80px;
+    }
+    .section-13 .icon-title {
+        font-size: 18px;
+        font-weight: 600;
+        color: #383838;
+    }
+    .mt-150 {
+        margin-top: 150px;
+    }
+    .mt-100 {
+        margin-top: 100px;
+    }
+
+
     @media screen and (max-width: 992px) {
         .low-code-video {
             width: 100%;
         }
         .modal-lg {
             max-width: 100%;
+        }
+        h2.heading, .heading-top{
+            font-size: 18px;
+            line-height: 18px;
+        }
+        p.paragraph {
+            line-height: 16px;
+        }
+        p.paragraph, p.paragraph-small, .step-box .step-description, .icon-title, .step-box .icon-title, .section-13 .icon-title {
+            font-size: 12px;
+        }
+        .heading-small {
+            font-size: 14px;
+        }
+        .dashboard .icon-holder {
+            width: 30px; height: 30px;
+        }
+        .dashboard .icon-title {
+            font-size: 16px;
+        }
+        .section-5 .icon-holder {
+            width: 25px;
+        }
+        .section-7 .icon-img {
+            width: 40px;
+            height: 40px;
+        }
+        .section-13 .icon-img {
+            width: 40px;
+            height: 40px;
+        }
+        .mt-150, .mt-100 {
+            margin-top: 0px;
         }
     }
 
@@ -141,6 +211,39 @@ include('head.php');
         }
         .modal-lg {
             max-width: 100%;
+        }
+        h2.heading, .heading-top{
+            font-size: 18px;
+            line-height: 18px;
+        }
+        p.paragraph {
+            line-height: 16px;
+        }
+        p.paragraph, p.paragraph-small, .step-box .step-description, .icon-title, .step-box .icon-title, .section-13 .icon-title {
+            font-size: 12px;
+        }
+        .heading-small {
+            font-size: 14px;
+        }
+        .dashboard .icon-holder {
+            width: 30px; height: 30px;
+        }
+        .dashboard .icon-title {
+            font-size: 16px;
+        }
+        .section-5 .icon-holder {
+            width: 25px;
+        }
+        .section-7 .icon-img {
+            width: 40px;
+            height: 40px;
+        }
+        .section-13 .icon-img {
+            width: 40px;
+            height: 40px;
+        }
+        .mt-150, .mt-100 {
+            margin-top: 0px;
         }
     }
 </style>
@@ -159,7 +262,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
-                        <h3><span class="text-highlight">Blue Ciate Digital Transform</span></h3>
+                        <h3 class="heading-top"><span class="text-highlight">Blue Ciate Digital Transform</span></h3>
                     </div>
                     <div class="col-md-2">
                         <i class="fas fa-dot-circle"></i> <span class="mr-2">BPM</span>
@@ -185,9 +288,9 @@ include('head.php');
                     </div>
                     <div class="col-md-6 px-0">
 
-                        <h3><span class="text-highlight" style="font-size: 24px;">Blue Ciate Business Process Automation – BPM</span></h3>
+                        <h3 class="heading-top"><span class="text-highlight">Blue Ciate Business Process Automation – BPM</span></h3>
                         <p class="paragraph" style="text-align-last: left;">
-                            <span style="color: #6dab3c;font-weight: bold; font-size: 16px">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
+                            <span class="heading-small">LOW-CODE BPM TO UNIFY YOUR DATA in your Digital Platform.</span> <br>
                             <b>Unify your data into a single interface with zero-code integrations.</b>
                             Get the flexibility you need to bring data together from across your
                             organization into a single interface, so action can be taken when and
@@ -234,7 +337,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                        <h2 class="heading">
                             How to Create your Business Applications faster?
                         </h2>
                         <p class="paragraph">
@@ -245,9 +348,9 @@ include('head.php');
                         </p>
                     </div>
                 </section>
-                <section class="row mx-0 " style="background-color: #F7F7F7;">
+                <section class="row mx-0 dashboard" style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                        <h2 class="heading">
                             Dashboards
                         </h2>
                         <p class="paragraph" style="max-width: 1200px;">AuraQuantic <span style="color: #1785b0; font-weight: 600;">Remote Work</span>&nbsp;
@@ -256,27 +359,27 @@ include('head.php');
                     </div>
 
                         <div class="col-md-4 text-center">
-                            <img src="/img/ic-features-04.png" style="width: 60px; height: 60px;">
+                            <img src="/img/ic-features-04.png" class="icon-holder">
                             <br>
-                            <span class="mt-lg-5" style="font-size: 22px; font-weight: 600; color: #383838;">Real-time dashboards</span>
+                            <span class="mt-lg-5 icon-title">Real-time dashboards</span>
                             <p class="paragraph">Give different access to each of your employees depending on the information they need to see.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <img src="/img/ic-features-03.png" style="width: 60px; height: 60px;">
+                            <img src="/img/ic-features-03.png" class="icon-holder">
                             <br>
-                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Instant notifications</span>
+                            <span class="mt-10 icon-title">Instant notifications</span>
                             <p class="paragraph">View your project status in real-time and keep track of what’s most important.</p>
                         </div>
                         <div class="col-md-4 text-center">
-                            <img src="/img/ic-features-05.png" style="width: 60px; height: 60px;">
+                            <img src="/img/ic-features-05.png" class="icon-holder">
                             <br>
-                            <span class="mt-10" style="font-size: 22px; font-weight: 600; color: #383838;">Real-time reports</span>
+                            <span class="mt-10 icon-title">Real-time reports</span>
                             <p class="paragraph">Have full control of data and get a better overview of your employees’ performance.</p>
                         </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 section-5">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center; color: #6dab3c;font-size: 26px">
+                        <h2 class="heading">
                             For any user, any department, and anywhere!
                         </h2>
                         <p class="paragraph">
@@ -329,7 +432,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
                     <div class="col-md-12 px-0">
-                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                        <h2 class="heading">
                             How to automate your business and see progress in real time?
                         </h2>
                         <p class="paragraph">
@@ -368,7 +471,7 @@ include('head.php');
                 </section>
                 <section class="row mx-0 ">
                     <div class="col-md-12 px-0 mb-3">
-                        <h2 class="heading" style="text-align: center;  color: #6dab3c;font-size: 26px">
+                        <h2 class="heading">
                             Automate your business in just 3 steps
                         </h2>
                         <p class="paragraph">
@@ -382,9 +485,9 @@ include('head.php');
                                 <img src="/img/pa-02.png">
                             </div>
                             <div class="icon-title">
-                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 1: Draw</span>
+                                <span>STEP 1: Draw</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-description">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
+                                <p style="text-align: justify;" class="step-description">Diagram the activities and the connecting lines to set the process flow, regardless of its complexity.</p>
                         </div>
                     </div>
                     <div class="col-md-1"><p>&nbsp;</p></div>
@@ -395,9 +498,9 @@ include('head.php');
                                 <img src="/img/pa-01.png">
                             </div>
                             <div class="icon-title">
-                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 2: Define</span>
+                                <span>STEP 2: Define</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-description">Input fields for each activity and for the users who should receive tasks and notifications.</p>
+                                <p style="text-align: justify;" class="step-description">Input fields for each activity and for the users who should receive tasks and notifications.</p>
                         </div>
                     </div>
                     <div class="col-md-1"><p>&nbsp;</p></div>
@@ -408,15 +511,17 @@ include('head.php');
                                 <img src="/img/pa-03.png">
                             </div>
                             <div  class="icon-title">
-                                <span style="color: #303030; font-size: 16px; font-weight: 600;">STEP 3: Execute</span>
+                                <span>STEP 3: Execute</span>
                             </div>
-                                <p style="text-align: justify; font-size: 15px;" class="step-description">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
+                                <p style="text-align: justify;" class="step-description">That’s it!<br> Every time the process is initiated, it will follow the defined flow.</p>
                         </div>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 section-7">
                     <div class="col-md-12 px-0">
-                        <p style="text-align: center;"><img class="alignnone size-full wp-image-48939" style="width: 60px; height: 60px;" src="/img/icono-fase-44.png" alt="" width="60" height="60"></p>
+                        <p style="text-align: center;">
+                            <img class="alignnone size-full wp-image-48939 icon-img" style="width: 60px; height: 60px;" src="/img/icono-fase-44.png" alt="">
+                        </p>
                         <h2 class="heading" style="text-align: center;">
                             Step 1: Draw the diagram
                         </h2>
@@ -480,7 +585,7 @@ include('head.php');
                     </div>
 
                     <div class="col-md-5 text-center px-0">
-                        <div class="row mb-2 mx-0" style="margin-top: 150px">
+                        <div class="row mb-2 mx-0 mt-150">
                             <div class="wpb_wrapper">
                                 <p style="text-align: justify;" class="paragraph-small">
                                     In <strong>AuraQuantic</strong>, you will have direct access to input and modify the attributes of the objects that appear in the diagram without using any code. Together, these objects define the complete process.
@@ -644,7 +749,8 @@ include('head.php');
                     <div class="col-md-12 px-0">
                         <h2  class="heading" style="text-align: center;">
                             Artificial Intelligence + Zero-code
-                        </h2><h2 style="color: #1785b0; font-weight: 500; font-size: 29px; text-align: center;">
+                        </h2>
+                        <h2 class="heading" style="color: #1785b0; font-weight: 500; text-align: center;">
                             Create smart applications with AuraQuantic and Azure AI
                         </h2>
                         <p class="paragraph">
@@ -652,7 +758,7 @@ include('head.php');
                         </p>
                     </div>
                 </section>
-                <section class="row mx-0 ">
+                <section class="row mx-0 section-13">
                     <div class="col-md-12 px-0">
                         <h2 class="heading" style="text-align: center;">
                             What is AuraQuantic <span style="color: #6dab3c;">Remote Work</span>?
@@ -661,23 +767,23 @@ include('head.php');
                     </div>
 
                     <div class="col-md-4 text-center">
-                        <img src="/img/icon-power.png" style="width: 81px; height: 81px;">
+                        <img src="/img/icon-power.png" class="icon-img">
                         <br>
-                        <span class="mt-lg-5" style="font-size: 18px; font-weight: 600; color: #383838;">Powerful</span>
+                        <span class="mt-lg-5 icon-title">Powerful</span>
                     </div>
                     <div class="col-md-4 text-center">
-                        <img src="/img/elementos-cabecera-04.png" style="width: 81px; height: 81px;">
+                        <img src="/img/elementos-cabecera-04.png" class="icon-img">
                         <br>
-                        <span class="mt-10" style="font-size: 18px; font-weight: 600; color: #383838;">Intuitive</span>
+                        <span class="mt-10 icon-title">Intuitive</span>
                     </div>
                     <div class="col-md-4 text-center">
-                        <img src="/img/icon-economico-02.png" style="width: 81px; height: 81px;">
+                        <img src="/img/icon-economico-02.png" class="icon-img">
                         <br>
-                        <span class="mt-10" style="font-size: 18px; font-weight: 600; color: #383838;">Affordable</span>
+                        <span class="mt-10 icon-title">Affordable</span>
                     </div>
                 </section>
                 <section class="row mx-0 " style="background-color: #F7F7F7;">
-                    <div class="col-md-6 px-0" style="margin-top: 100px;">
+                    <div class="col-md-6 px-0 mt-100">
                         <div class="fa-1x mx-auto mt-2" style="text-align: center;">Accelerate Your Digital Transformation WhitePaper.</div>
                         <div class="fa-1x mx-auto mt-4" style="text-align: center;">
                             <a href="BPMS-Ready" class="buttonmore">Download</a>
