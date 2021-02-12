@@ -183,7 +183,7 @@ include('head.php');
                 <section class="row mx-0">
                         <div class="info-form col-md-7">
                             <div>
-                            <h1 class="info-form-heading">Unlock the power of full-scale RPA at Bilfinger Shared Services GmbH</h1>
+                            <h1 class="info-form-heading">Webinar: Learn to Diagram Business Processes with the BPMN Standard</h1>
                             </div>
                             <div class="mb-2">
                                 <div class="icon-holder mr-2 pt-2">
@@ -194,7 +194,7 @@ include('head.php');
                                     <p class="icon-title mb-0 pt-1"> 	2:00-3:00 PM PST</p>
                                 </div>
                             </div>
-                            <div class="mb-2">
+                            <div class="">
                                 <div class="icon-holder mr-2 pt-2">
                                     <i class="fa fa-wallet fa-3"></i>
                                 </div>
@@ -203,7 +203,7 @@ include('head.php');
                                     <p>&nbsp;</p>
                                 </div>
                             </div>
-                            <div class="mb-2">
+                            <div class="">
                                 <div class="icon-holder mr-2 pt-2">
                                     <i class="fa fa-award fa-3"></i>
                                 </div>
@@ -213,7 +213,9 @@ include('head.php');
                                 </div>
                             </div>
                             <div class="teaser">
-                                <p class="teaser-text">Thanks to the Signavio Business Transformation Suite, Bilfinger set the foundation for a successful RPA initiative. Do not miss this opportunity to learn from the leading industrial services provider as the company shares its RPA success story, including compelling use cases and lessons learned.</p>
+                                <p class="teaser-text">
+                                    Thanks to the AuraQuantic Low-code applications development  Business Transformation Suite to set the foundation for a successful iBPMS using RPA initiative. Do not miss this opportunity to learn from the leading industrial services provider as the company shares its RPA success story, including compelling use cases and lessons learned.
+                                </p>
                             </div>
                         </div>
                     <div class="col-md-5 form-outline">
@@ -270,10 +272,7 @@ include('head.php');
                     <span>What to expect</span>
                 </h2>
                 <p class="paragraph">
-                    With more than 34.000 employees operating in six different industries worldwide, the need for professionally handling business processes is obvious – and automating processes is the next logical step. Join us in this webinar and find out how Bilfinger managed to implement a centralized RPA Competence Center in a heterogeneous environment.
-                </p>
-                <p class="paragraph">
-                    Learn how the Signavio Business Transformation Suite supports the leading industrial services provider to identify opportunities for automation, and then unlock optimization standards across existing processes in preparation for strategic RPA implementation. The company’s RPA experts will share their success story and highlight how to overcome the challenge of standardization across silos. Find out why Bilfinger takes a ‘process first’ approach to success, and leverage strategies for your very own RPA initiative!
+                    Learn how  AuraQuantic Business Transformation Suite supports the leading industrial services provider to identify opportunities low code applications development for automation, and then unlock optimization standards across existing processes in preparation for strategic RPA implementation and highlight how to overcome the challenge of standardization across silos.
                 </p>
             </div>
             <div class="col-md-7 px-0">
