@@ -199,8 +199,17 @@ include('head.php');
                                     <i class="fa fa-wallet fa-3"></i>
                                 </div>
                                 <div class="icon-text">
-                                    <p class="icon-title mb-0"> 	February 25th 2021</p>
-                                    <p class="icon-title mb-0 pt-1"> 	2:00-3:00 PM PST</p>
+                                    <p class="icon-title mb-0"> 	for free</p>
+                                    <p>&nbsp;</p>
+                                </div>
+                            </div>
+                            <div class="mb-2">
+                                <div class="icon-holder mr-2 pt-2">
+                                    <i class="fa fa-award fa-3"></i>
+                                </div>
+                                <div class="icon-text">
+                                    <p class="icon-title mb-0"> Free webinar certificate</p>
+                                    <p>&nbsp;</p>
                                 </div>
                             </div>
                             <div class="teaser">
@@ -251,7 +260,7 @@ include('head.php');
             <div class="container">
                 <h2>In Collaboration with:</h2>
                 <div class="flexcontainer">
-                    <div class="item"><img data-srcset="https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web.png 1000w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-150x150.png 150w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-600x600.png 600w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-300x300.png 300w" data-sizes="(max-width: 479px) 50vw, (max-width: 767px) 33.3333vw, 25vw" data-src="https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web.png" alt="Bilfinger Logo" class="lazy loaded" sizes="(max-width: 479px) 50vw, (max-width: 767px) 33.3333vw, 25vw" srcset="https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web.png 1000w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-150x150.png 150w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-600x600.png 600w, https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web-300x300.png 300w" src="https://www.signavio.com/wp-content/uploads/2020/02/logo-bilfinger-web.png" data-was-processed="true"></div>				</div>
+                    <div class="item"><img src="/img/aura-quantic.jpeg" data-was-processed="true"></div>				</div>
             </div>
         </div>
         <div class="container">
