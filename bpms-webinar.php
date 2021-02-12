@@ -284,7 +284,7 @@ include('head.php');
                     You will receive a link to join the webinar and all other details by email. Can’t make the broadcast? Register anyway, and you will be sent the recording to watch at your convenience.
                 </p>
                 <p class="paragraph">
-                    Any questions? We are happy to help – contact us at: <span class="link-special"><a href="mailto:info@blueciate.com" target="_blank" rel="noreferrer noopener">info@blueciate.com</a></span>
+                    Any questions? We are happy to help – contact us at: <span class="link-special" style="font-weight: bold"><a href="mailto:info@blueciate.com" target="_blank" rel="noreferrer noopener">info@blueciate.com</a></span>
                 </p>
             </div>
             <div class="col-md-7 px-0">
