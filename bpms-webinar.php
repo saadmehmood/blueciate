@@ -229,6 +229,7 @@ include('head.php');
                         </div>
                     <div class="col-md-5 form-outline">
                         <form method="post" action="bpms-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
+                            <input type="hidden" name="webinar" value="1"/>
                             <!-- Email input -->
                             <div class="form-field mb-3">
                                 <label class="form-label" for="firstName">First Name</label>
