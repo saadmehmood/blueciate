@@ -24,7 +24,7 @@ if (isset($_POST['btnSubmit'])) {
     $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-    $headers[] = 'To: saadmehmood758@gmail.com';
+    $headers[] = 'To: info@blueciate.com';
     $headers[] = 'From: ' . $_POST['firstName'] . ' ' . $_POST['lastName'] . ' <' . $_POST['emailAddress'] . '>';
 //    $headers = array(
 //        'From' => $_POST['fullname'] . '<' . $_POST['email'] . '>',
