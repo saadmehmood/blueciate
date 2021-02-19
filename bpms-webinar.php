@@ -212,6 +212,15 @@ include('head.php');
                                     <p>&nbsp;</p>
                                 </div>
                             </div>
+                            <div title="Add to Calendar" class="addeventatc">
+                                Add to Calendar
+                                <span class="start">25/02/2021 02:00 PM</span>
+                                <span class="end">25/02/2021 03:00 PM</span>
+                                <span class="timezone">America/Los_Angeles</span>
+                                <span class="title">BPM Webinar</span>
+                                <span class="description">Webinar: Learn to Diagram Business Processes with the BPMN Standard</span>
+                                <span class="location"></span>
+                            </div>
                             <div class="teaser">
                                 <p class="teaser-text">
                                     Thanks to the AuraQuantic Low-code applications development  Business Transformation Suite to set the foundation for a successful iBPMS using RPA initiative. Do not miss this opportunity to learn from the leading industrial services provider as the company shares its RPA success story, including compelling use cases and lessons learned.
@@ -397,6 +406,7 @@ include('head.php');
 <!-- use this url for more information about share button plugin -->
 <!-- https://github.com/carrot/share-button/wiki/Configuration-Options -->
 <script src="./files/scripts.js.download"></script>
+<script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 <!-- set form validation -->
 <script>
     jQuery(document).ready(function ($) {
