@@ -214,8 +214,8 @@ include('head.php');
                             </div>
                             <div title="Add to Calendar" class="addeventatc">
                                 Add to Calendar
-                                <span class="start">25/02/2021 02:00 PM</span>
-                                <span class="end">25/02/2021 03:00 PM</span>
+                                <span class="start">02/25/2021 02:00 PM</span>
+                                <span class="end">02/25/2021 03:00 PM</span>
                                 <span class="timezone">America/Los_Angeles</span>
                                 <span class="title">BPM Webinar</span>
                                 <span class="description">Webinar: Learn to Diagram Business Processes with the BPMN Standard</span>
