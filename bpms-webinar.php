@@ -212,15 +212,9 @@ include('head.php');
                                     <p>&nbsp;</p>
                                 </div>
                             </div>
-                            <div title="Add to Calendar" class="addeventatc">
-                                Add to Calendar
-                                <span class="start">02/25/2021 02:00 PM</span>
-                                <span class="end">02/25/2021 03:00 PM</span>
-                                <span class="timezone">America/Los_Angeles</span>
-                                <span class="title">BPM Webinar</span>
-                                <span class="description">Webinar: Learn to Diagram Business Processes with the BPMN Standard</span>
-                                <span class="location"></span>
-                            </div>
+
+                            <a title="Add to Calendar" class="addeventatc" data-id="MD6071291" href="https://www.addevent.com/event/MD6071291" target="_blank" rel="nofollow">Add to Calendar</a>
+
                             <div class="teaser">
                                 <p class="teaser-text">
                                     Thanks to the AuraQuantic Low-code applications development  Business Transformation Suite to set the foundation for a successful iBPMS using RPA initiative. Do not miss this opportunity to learn from the leading industrial services provider as the company shares its RPA success story, including compelling use cases and lessons learned.
