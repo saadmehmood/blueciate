@@ -96,6 +96,87 @@
     </div>
 </div>
 <!--COPYRIGHT -->
+
+
+
+<!-- Modal -->
+<style>
+    .modal-content {
+        background: transparent;
+        border: none;
+    }
+    .modal-header {
+        border: none;
+    }
+    .modal-lg {
+        max-width: 60%;
+    }
+    .modal-body {
+
+        background-color: #002E47;
+        /*background-image: url("/img/webinar-bg.png");*/
+        /*background-position: right;*/
+        /*background-repeat: no-repeat;*/
+        min-height: 150px;
+    }
+    .webinar-content {
+        color: white;
+        padding: 20px;
+        margin: 100px 0;
+    }
+    .webinar-img {
+        min-height: 200px;
+        background-image: url("/img/webinar-bg.png");
+        overflow: hidden;
+        background-size: cover;
+        background-position: center;
+    }
+    .webinar-content p {
+        color: white;
+    }
+
+    @media screen and (max-width: 992px) {
+        .webinar-img{
+            display: none;
+        }
+        .webinar-content{
+            max-width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 600px) {
+        .webinar-img{
+            display: none;
+        }
+        .webinar-content{
+            max-width: 100%;
+        }
+    }
+</style>
+<div class="modal fade" id="webinar" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row col-md-12">
+                <div class="webinar-content col-md-6">
+                    <p>The AppDynamics Business Observability Platform</p>
+                    <h1>Transform 2021: Don't Just survive thrive</h1>
+                    <p>Break through the IT challenges of 2021 with new ideas, exciting training and bold inspiration as we focus on what matters most to your business</p>
+                    <a href="/bpms-webinar" type="button" class="btn btn-primary">Register Now</a>
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                </div>
+                <div class="webinar-img media-right col-md-6">
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <script>
     // When the user scrolls the page, execute myFunction
     window.onscroll = function() {myFunction()};

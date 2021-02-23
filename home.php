@@ -696,6 +696,7 @@ require_once 'footer.php';
 
 <!--Latest compiled JavaScript-->
 <script src="./index_files/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
 
 <!--OPTIONAL JQUERY-->
 <script>
@@ -767,6 +768,9 @@ require_once 'footer.php';
             scaleBannerVideoSize('.video-container .filter');
             scaleBannerVideoSize('.video-container video');
         });
+        if (Cookies.get('webinar-feb') !== 'submitted') {
+            $('#webinar').modal();
+        }
     });
 
     function scaleVideoContainer() {
