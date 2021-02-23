@@ -220,7 +220,7 @@ include('head.php');
                             </div>
                         </div>
                     <div class="col-md-5 form-outline">
-                        <form method="post" action="bpms-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
+                        <form method="post" action="webinar-thankyou" name="contact"  id="ajax-contact" novalidate="novalidate">
                             <input type="hidden" name="webinar" value="1"/>
                             <!-- Email input -->
                             <div class="form-field mb-3">
