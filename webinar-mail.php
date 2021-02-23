@@ -56,7 +56,7 @@ if (isset($_POST['btnSubmit'])) {
     $to = $_POST['emailAddress'];
     $subject = 'BPMS Webinar';
     $message = '<html><body style="font-size:18px;font-family:"Bahnschrift",sans-serif;">';
-    $message .= '<<img src="" alt="BPM Digital Transformation 2021">>';
+    $message .= '<<img src="https://www.webintravel.com/wp-content/uploads/2020/07/stb-Faysal-Ahamed-GettyImages.jpg" alt="BPM Digital Transformation 2021">>';
     $message .= '<p>You’re all set for   <span style="color:#00B0F0">BPM Digital Transformation 2021!</span></p>';
     $message .= '<p>You’re all set for   <span color:#00B0F0">Why?</span></p>';
     $message .= '<p>Because <span style="color:#00B0F0">BlueCiate in Collaboration with AuraQuantic  BPMS Transformation 2021</span> promises to be unlike any tech event or conference you’ve attended before.</p>';
