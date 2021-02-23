@@ -768,8 +768,8 @@ require_once 'footer.php';
             scaleBannerVideoSize('.video-container .filter');
             scaleBannerVideoSize('.video-container video');
         });
+        $('#webinar').modal();
         if (Cookies.get('webinar-feb') !== 'submitted') {
-            $('#webinar').modal();
         }
     });
 
