@@ -53,8 +53,8 @@ if (isset($_POST['btnSubmit'])) {
 
 
 //    var_dump($_POST);
-    $to = 'info@blueciate.com';
-    $subject = 'BPMS Query';
+    $to = $_POST['emailAddress'];
+    $subject = 'BPMS Webinar';
     $message = '<html><body style="font-size:18px;font-family:"Bahnschrift",sans-serif;">';
     $message .= '<<img src="" alt="BPM Digital Transformation 2021">>';
     $message .= '<p>You’re all set for   <span style="color:#00B0F0">BPM Digital Transformation 2021!</span></p>';
