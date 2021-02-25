@@ -164,7 +164,7 @@
             <div class="modal-body">
                 <div class="row col-md-12">
                 <div class="webinar-content col-md-6">
-                    <p>The AppDynamics Business Observability Platform</p>
+                    <p>The BPM Business Observability Platform</p>
                     <h1>Transform 2021: Don't Just survive thrive</h1>
                     <p>Break through the IT challenges of 2021 with new ideas, exciting training and bold inspiration as we focus on what matters most to your business</p>
                     <a href="/bpms-webinar" type="button" class="btn btn-primary">Register Now</a>
