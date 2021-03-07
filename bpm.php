@@ -1181,9 +1181,9 @@ include('head.php');
 
     $(document).ready(function(){
         autoPlayYouTubeModal();
-        $('#webinar').modal();
-        if (Cookies.get('webinar-feb') !== 'submitted') {
-        }
+        // $('#webinar').modal();
+        // if (Cookies.get('webinar-feb') !== 'submitted') {
+        // }
     });
 </script>
 </body>
