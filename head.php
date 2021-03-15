@@ -25,12 +25,12 @@ $fax = '+1-408-656-1932';
     <?php }?>
     <link rel="stylesheet" href="./index_files/home-page.css">
 
-<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">-->
-<!--    <link rel="stylesheet" href="./index_files/style.css">-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./index_files/style.css">
 
     <link rel="stylesheet" href="/files/styles.css">
-<!--    <link rel="stylesheet" href="/files/screen.css">-->
-<!--    <link rel="stylesheet" href="/files/style.css">-->
+    <link rel="stylesheet" href="/files/screen.css">
+    <link rel="stylesheet" href="/files/style.css">
     <link rel="stylesheet" href="/icons/style.css">
     <link rel="stylesheet" href="/files/jquery.mmenu.all.css">
     <link rel="stylesheet" type="text/css" href="/files/flexslider.min.css">
@@ -38,11 +38,11 @@ $fax = '+1-408-656-1932';
 
 
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css">
-    <link rel="stylesheet" href="./index_files/style.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,400,700" rel="stylesheet">
+<!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">-->
+<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css">-->
+<!--    <link rel="stylesheet" href="./index_files/style.css">-->
+<!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretty-checkbox@3.0/dist/pretty-checkbox.min.css">-->
+<!--    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:300,400,700" rel="stylesheet">-->
 
     <!-- Modernizr -->
 <!--    <script type="text/javascript" src="./files/modernizr.js.download"></script>-->

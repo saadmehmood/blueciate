@@ -1161,7 +1161,7 @@ include('head.php');
 
 <!-- use this url for more information about share button plugin -->
 <!-- https://github.com/carrot/share-button/wiki/Configuration-Options -->
-<!--<script src="../js/scripts.js"></script>-->
+<script src="../js/scripts.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
 
 <script>
