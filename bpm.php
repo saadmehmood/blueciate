@@ -1123,7 +1123,7 @@ include('head.php');
         ?>
     </div>
 </div>
-<link id="gs-css" type="text/css" rel="stylesheet" href="./index_files/style(1).css">
+<!--<link id="gs-css" type="text/css" rel="stylesheet" href="./index_files/style(1).css">-->
 <script src="./index_files/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous">
 
