@@ -775,7 +775,6 @@ require_once 'footer.php';
 
     function scaleVideoContainer() {
         var height = $(window).height() + 5;
-        alert(height);
         var unitHeight = parseInt(height) + 'px';
         $('.homepage-hero-module').css('height', unitHeight);
     }
